@@ -1,9 +1,9 @@
 const express = require("express");
 const router = express.Router();
 const parent = "advertising-scripts";
-const template = "curiosity-ad-copy-scripts";
+const template = "stealth-close-scripts";
 
-const requestHandler = require("../utils/requestHandlerIdea"); // if you use this router, please rename it
+const requestHandler = require("../../utils/requestHandlerIdea"); // if you use this router, please rename it
 
 /**
  * Advertising-scripts/curiosity-ad-copy-scripts fields
