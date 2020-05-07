@@ -79,7 +79,7 @@ const whoWhatStatementScript = require("./routes/expert-secrets/whoWhatStatement
 const easySurveyScript = require("./routes/mega-scripts/easy-survey-script");
 const masterClassWizard = require("./routes/mega-scripts/master-class-wizard");
 const perfectWebinarWizard20 = require("./routes/mega-scripts/perfect-webinar-wizard-2.0");
-const starStorySolutionScriptt = require("./routes/mega-scripts/star-story-solution-script");
+const starStorySolutionScript = require("./routes/mega-scripts/star-story-solution-script");
 // ====================================================================================================
 // oneFunnelAwayScripts
 // ==========================
@@ -113,10 +113,24 @@ const webinarOptInScript = require("./routes/sales-copy-video-scripts/webinar-op
 const whoWhatWhyHowScript = require("./routes/sales-copy-video-scripts/who-what-why-how-script");
 
 // ===================================================================================
-// SalesCopyScripts
+// SalesLettersScripts
 // ===================
 
-const longFormSalesLetter = require("./routes/expert-secrets/long-form-sales-letter");
+const longFormSalesLetter = require("./routes/sales-letter-scripts/long-form-sales-letter-scripts");
+const pptVideoSalesLetter = require("./routes/sales-letter-scripts/ppt-video-sales-letter-scripts");
+const shortSalesLetterScripts = require("./routes/sales-letter-scripts/short-sales-letter-scripts");
+// ======================================================================================================
+// tittleHeadLines
+// ================
+
+const dirtyLittleSecretsScript = require("./routes/title-headlines-subject-lines/dirty-little-secrets-script");
+const emailSubjectLineScripts2 = require("./routes/title-headlines-subject-lines/email-subject-line-scripts");
+const killerHeadlineScripts2 = require("./routes/title-headlines-subject-lines/killer-headline-scripts");
+const millionDollarContentHeadlineScripts = require("./routes/title-headlines-subject-lines/million-dollar-content-headline-scripts");
+const millionDollarSalesHeadlineScripts = require("./routes/title-headlines-subject-lines/million-dollar-sales-headline-scripts");
+const profitableTitleScripts = require("./routes/title-headlines-subject-lines/profitable-title-scripts");
+const shortHeadlineScripts = require("./routes/title-headlines-subject-lines/short-headline-scripts");
+const timelessClassicHeadlineScripts = require("./routes/title-headlines-subject-lines/timeless-classic-headline-scripts");
 
 app.use(express.json());
 
@@ -127,14 +141,30 @@ app.get("/", (req, res) => {
   res.send("hello");
 });
 
+// =======================================================
+// Setting Routes
+// AdverTising Scripts
+// =========================
 app.use("/", curiosityAdCopyScripts);
 app.use("/", facebookNewsfeedAdScripts);
 app.use("/", ppcAdScripts);
 app.use("/", stealthCloseScripts);
+// ============================================================================================
+// bulletScripts
+// ================
 app.use("/", brunsonBulletScripts);
 app.use("/", featureBenefitMeaningFbmBulletScript);
+
+// ===========================================================================================================
+// caseStudiesTestimonialsScripts
+// ==================================
 app.use("/", caseStudyScript);
 app.use("/", aboutMeScript);
+
+// ===================================================================================================================================
+// ContentCreationScripts
+// ===========================
+
 app.use("/", decisionTreeScript);
 app.use("/", millionDollarTestimonialScript);
 app.use("/", freeReportScript);
@@ -142,4 +172,118 @@ app.use("/", seinfeldEmailTopicIdeaScript);
 app.use("/", storyIdeaScript);
 app.use("/", theDemoScript);
 
-app.listen(3000);
+// =============================================================================================
+// dotcomSecretsScripts
+// ==========================
+app.use("/", amazonEcommerce);
+app.use("/", callToActionScript);
+app.use("/", leadCapture);
+app.use("/", liveEventInvitation);
+app.use("/", magicBullet);
+app.use("/", orderBump);
+app.use("/", originStory);
+app.use("/", otoNeedHelpDoneForYou);
+app.use("/", otoNeedHelpDoneForYouScript);
+app.use("/", pptOptInVideo);
+app.use("/", promoteYourWebinar);
+app.use("/", salesOpenerQuestions);
+app.use("/", specialOffer);
+app.use("/", starStorySolution);
+app.use("/", webinarOptIn);
+app.use("/", whoWhatWhyHow);
+
+// =============================================================================================
+// EmailScripts
+// ======================
+
+app.use("/", abandonedCartEmailScripts);
+app.use("/", emailSubjectLineScripts);
+app.use("/", autoEmailFollowUpScripts);
+app.use("/", fastTeaserAndTweetScripts);
+app.use("/", freeInfoRequestEmailSequence);
+app.use("/", liveEventInvitationScript);
+app.use("/", onboardingEmailSequence);
+app.use("/", promoteYourWebinarScript);
+app.use("/", seinfeldEmailTopicIdeaScript2);
+app.use("/", testimonialRequestEmailScripts);
+app.use("/", webinarFollowUpScripts);
+
+// ==============================================================================================================
+// ExpertScripts
+// =================
+
+app.use("/", CuriosityHooksScript5);
+app.use("/", MinutePerfectWebinarWizard5);
+app.use("/", askCampaignScript);
+app.use("/", epiphanyBridgeScript);
+app.use("/", opportunitySwitchHeadlineTitleScript);
+app.use("/", shortEpiphanyBridgeScript);
+app.use("/", theBigDomino);
+app.use("/", whoWhatStatementScript);
+
+// =============================================================================================
+// megaScripts
+// ==============
+
+app.use("/", easySurveyScript);
+app.use("/", masterClassWizard);
+app.use("/", perfectWebinarWizard20);
+app.use("/", starStorySolutionScript);
+
+// ====================================================================================================
+// oneFunnelAwayScripts
+// ==========================
+
+app.use("/", epiphanyBridgeScript2);
+app.use("/", hookStoryOfferScript);
+app.use("/", killerHeadlineScripts);
+app.use("/", nicheAndOfferDetectiveWizard);
+app.use("/", offerStackScript);
+app.use("/", optInHookStoryScript);
+app.use("/", otoNeedHelpDoneForYouScript2);
+app.use("/", otoNextThing2);
+app.use("/", questionHooksScript);
+
+// ===================================================================================================
+// salesCopyVideoScripts
+// ==========================
+
+app.use("/", amazonEcommerce2);
+app.use("/", callToActionScript2);
+app.use("/", leadCaptureScript);
+app.use("/", liveEventInvitationScript2);
+app.use("/", magicBulletScript);
+app.use("/", orderBumpScript);
+app.use("/", originStoryScript);
+app.use("/", otoNextThingScript);
+app.use("/", otoNeedHelpDoneForYouScript3);
+app.use("/", pptOptInVideoScript);
+app.use("/", promoteYourWebinarScripts);
+app.use("/", salesOpenerQuestionsScript);
+app.use("/", specialOfferScript);
+app.use("/", webinarOptInScript);
+app.use("/", whoWhatWhyHowScript);
+
+// ===================================================================================
+// SalesLettersScripts
+// ===================
+app.use("/", longFormSalesLetter);
+app.use("/", pptVideoSalesLetter);
+app.use("/", shortSalesLetterScripts);
+// ======================================================================================================
+// tittleHeadLines
+// ================
+app.use("/", dirtyLittleSecretsScript);
+app.use("/", emailSubjectLineScripts2);
+app.use("/", killerHeadlineScripts2);
+app.use("/", millionDollarContentHeadlineScripts);
+app.use("/", millionDollarSalesHeadlineScripts);
+app.use("/", profitableTitleScripts);
+app.use("/", shortHeadlineScripts);
+app.use("/", timelessClassicHeadlineScripts);
+
+// ================================================
+// Port3000 Listening
+
+const port = process.env.PORT || 3000;
+app.listen(port);
