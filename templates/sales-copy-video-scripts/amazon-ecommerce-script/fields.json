@@ -1,0 +1,182 @@
+{
+    "name": "Amazon/ Ecom Scripts",
+    "fields": [
+        {
+            "fieldPropertyName:":"field1",
+            "fieldTitle": "NAME of Product (include Brand name)",
+            "fieldHint": [ 
+                {"hint1": "What is the name of what you're selling?"},
+                {"hint2": "(Ex: Super Spoon 6-Set 2000, Topsy Curl, Slick Gun Runner 150 Oil, etc.)"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field2",
+            "fieldTitle": "TYPE of Product",
+            "fieldHint": [ 
+                {"hint1": "What exactly are you selling?"},
+                {"hint2": "Ex: spoon, hairbrush, gun oil, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field3",
+            "fieldTitle": "Target Audience for this product. (SINGULAR)",
+            "fieldHint": [ 
+                {"hint1": "\"The target audience for this product is a / an ________\""},
+                {"hint2": "(Ex: gourmet cook, person with long hair, gun owner, etc.)"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field4",
+            "fieldTitle": "Target Audience for this product. (PLURAL)",
+            "fieldHint": [ 
+                {"hint1": "\"________ are the target audience for this product.\""},
+                {"hint2": "(Ex: gourmet cooks, everyone with long hair, gun owners, etc.)"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field5",
+            "fieldTitle": "Keyword Theme: what is the area of focus for this product?",
+            "fieldHint": [ 
+                {"hint1": "\"In a nutshell, this product is focused on the area of ________\""},
+                {"hint2": "Ex: cooking and mixing, hair styling, gun maintenance, etc"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field6",
+            "fieldTitle": "How does this product help your target audience?",
+            "fieldHint": [ 
+                {"hint1": "Starts with a VERB ending in \"ING\""},
+                {"hint2": "\"This product helps you with ________\""},
+                {"hint3": "Ex: mixing perfectly every time; styling your hair perfectly every time; lubricating all your guns, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field7",
+            "fieldTitle": "What is the #1 BIG payoff / big benefit of the product?",
+            "fieldHint": [ 
+                {"hint1": "\"With this amazing product, you will FINALLY be able to________\"(VERB)"},
+                {"hint2": "Ex: mix perfectly every time; make your hair look amazing; protect your firearms investment, etc"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field8",
+            "fieldTitle": "What is your ideal customer's main pressing need?",
+            "fieldHint": [ 
+                {"hint1": "\"My customer really (needs to) ______, but can't _____\""},
+                {"hint2" : "Ex: needs to mix better, but can't find the right spoons; needs to get the tangles out of your hair, but can't find a painless brush that works; needs to quickly lubricate your guns, but can't find a heavy duty oil that lasts, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field9",
+            "fieldTitle": "What NEGATIVE person or hurdle do they think is against them?",
+            "fieldHint": [ 
+                {"hint1": "\"The biggest HURDLE you have to overcome is ________\""},
+                {"hint2": "Ex: cheap spoons that break easily and don't hold up; cheap brushes that hurt your hair and the environment; finding heavy duty oil that works in extreme temperatures, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field10",
+            "fieldTitle": "WHY is this hurdle such a huge deal for your target audience?",
+            "fieldHint": [ 
+                {"hint1": "\"This hurdle is a HUGE deal for you because _________\""},
+                {"hint2": "Ex: without the right tools your cooking and baking will fail miserably; if brushing your hair is painful you wont' do it consistently; your firearms won't be maintained properly, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field11",
+            "fieldTitle": "HOW does this hurdle keep them from getting results they want?",
+            "fieldHint": [ 
+                {"hint1": "\"This hurdle really HURTS you because it means _________\""},
+                {"hint2": "Ex: you'll disappoint yourself and your family because your baking and other dishes aren't good; you won't look your best and your self confidence will suffer; your guns won't be ready to go when your life or the life of someone you love needs instant performance, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field12",
+            "fieldTitle": "What's a FALSE idea your target audience believes is true?",
+            "fieldHint": [ 
+                {"hint1": "\"Even though it's not true, many people believe ________\""},
+                {"hint2": "Ex: all spoons are basically the same, so you should buy the cheapst ones; all brushes should be able to get rid of tangles; all gun oils are plus or minus the exact same thing, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field13",
+            "fieldTitle": "What's the #1 FEATURE (what it is) of your product?:",
+            "fieldHint": [ 
+                {"hint2": "Ex: soft silicone grip, ergonomic handle, works at extreme temperatures, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field14",
+            "fieldTitle": "What is the BENEFIT (what it does / means) of that #1 feature?",
+            "fieldHint": [ 
+                {"hint1": "Starts with a VERB"},
+                {"hint2": "\"With feature#1 you can _______\""},
+                {"hint3" : "Ex: mix dense material without fatigue or hand cramps; detangle your hair from any angle with complete comfort; safely store your guns under extreme conditions, etc."}
+            ]
+        },{
+            "fieldPropertyName:":"field15",
+            "fieldTitle": "What's the #2 FEATURE (what it is) of your product?:",
+            "fieldHint": [ 
+                {"hint1": "Ex: carbon fiber shaft, vegan bristles, easy-pour applicator tip, etc."} 
+            ]
+        },
+        {
+            "fieldPropertyName:":"field16",
+            "fieldTitle": "What is the BENEFIT (what it does / means) of that #2 feature?:",
+            "fieldHint": [ 
+                {"hint1": "Ex: carbon fiber shaft, vegan bristles, easy-pour applicator tip, etc."},
+                {"hint2": "\"Feature#2 means you can _______\""},
+                {"hint3": "Ex: maintain great control over your mixing forc, no matter what you're mixing; feel confident no animals were harmed making this brush; apply oil with precision to even the smallest parts while eliminating waste, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field17",
+            "fieldTitle": "What's the #3 FEATURE (what it is) of your product?:",
+            "fieldHint": [ 
+                {"hint1": "Ex: 6 size set, choice of color, ergonomic grip bottle, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field18",
+            "fieldTitle": "What is the BENEFIT (what it does / means) of that #3 feature?:",
+            "fieldHint": [ 
+                {"hint1": "Starts with a VERB"},
+                {"hint2": "\"With feature#3 you'll be able to _______\""},
+                {"hint3": "Ex: use the right size spoon for any job, big or small; make a fashion statement with your brush; firmly grip the bottle while manipulating your gun parts, etc."}
+
+            ]
+        },
+        {
+            "fieldPropertyName:":"field19",
+            "fieldTitle": "What's the #4 FEATURE (what it is) of your product?:",
+            "fieldHint": [ 
+                {"hint1": "Ex: hygienic solid coating; proprietary detanlging bristle pattern; provides a barrier against moisture and corrosion, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field20",
+            "fieldTitle": "What is the BENEFIT (what it does / means) of that #4 feature?:",
+            "fieldHint": [ 
+                {"hint1": "Starts with a VERB"},
+                {"hint2": "\"Feature#4 enables you to _______\""},
+                {"hint3": "Ex: easily clean up the gooiest messes, including candy making; automatically detangle your hair without any pain or fuss; maintain your firearms in perfect working order even under extreme damp conditions, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field21",
+            "fieldTitle": "What's the #5 FEATURE (what it is) of your product?:",
+            "fieldHint": [ 
+                {"hint1": "Ex: BPA free; made for all hair types; complete lubrication, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field22",
+            "fieldTitle": "What is the BENEFIT (what it does / means) of that #5 feature?:",
+            "fieldHint": [ 
+                {"hint1": "Starts with a VERB"},
+                {"hint2": "\"With feature#5 you can _______\""},
+                {"hint3": "Ex: feel confident that you're spoons won't add any carcinogens to your kitchen creations; get the tangles out of your hair whether you have fine, curly or thick hair; protect all areas of your firearm and extend the life of your guns by reducing the wear and tear caused by friction, etc."}
+            ]
+        }
+    ]
+}

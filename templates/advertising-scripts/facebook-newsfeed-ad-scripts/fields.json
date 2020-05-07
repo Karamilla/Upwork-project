@@ -1,0 +1,79 @@
+{
+    "name": "Facebook Newsfeed Ad Script",
+    "fields": [
+        {
+            "fieldPropertyName:":"field1",
+            "fieldTitle": "What is your Main keyword phrase / topic of the ad?",
+            "fieldHint": [ 
+                {"hint1": "1-3 words"},
+                {"hint2": "Ex: for sale by owner, Nerve Pain, Photography, Video Marketing, Facebook Marketing, Public Speaking"}
+
+            ]
+        },
+        {
+            "fieldPropertyName:":"field2",
+            "fieldTitle": "Who is your target / Niche audience member? (SINGULAR)",
+            "fieldHint": [ 
+                {"hint1": "\"My ideal prospect is a ______.\""},
+                {"hint2": "(Ex: home seller, Diabetic, Video Marketer, Small Business Owner, Public Speaker, Author, Coach, Consultant, Marketer, Entrepreneur, Part-time Photographer)"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field3",
+            "fieldTitle": "NAME or TITLE of the what you want them to buy, try, download?",
+            "fieldHint": [ 
+                {"hint1": "Ex: \"Selling Your Home Alone\", Neuracel, 5 Secrets To Deleting Nerve Pain, The Biohacker's Guide, Neuropathy Supplements, Funnel Scripts, Webinar Secrets, Big Jim's Running Shoes, Kodak XLR 75, The Speaker's Edge Coaching"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field4",
+            "fieldTitle": "What is this \"thing\" that holds the solution they want?",
+            "fieldHint": [ 
+                {"hint1": "NOUN 1 or 2 words"},
+                {"hint2": "This _____ holds the solution you're looking for!"},
+                {"hint3": "Ex: pain reliever, supplement, service, coaching, website, template, blueprint, checklist, software, home study course, ebook, place, FB Post, info-graphic, list, guide, digital camera, etc"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field5",
+            "fieldTitle": "Describe the \"thing\" from above in a way that arouses curiosity",
+            "fieldHint": [ 
+                {"hint1": "ADJECTIVE"},
+                {"hint2" : "Ex: under-the-radar, free, little-known, proven, \"black hole\", off-the-record, breakthrough, revolutionary, new"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field6",
+            "fieldTitle": "#1 Big payoff/gain your audience wants from what you offer?",
+            "fieldHint": [ 
+                {"hint1": "Starts with a VERB"},
+                {"hint2": "This product / service will help you quickly ______!"},
+                {"hint3": "Ex: get your home sold, get pain relief; get video scripts that sell; get more customers; get booked to speak more; get more paid speaking gigs, make more money, and grow my speaking business; make people pull out their wallets and literally beg to buy your products, take amazing pictures"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field7",
+            "fieldTitle": "When you wave your magic wand, when do they get the big payoff?",
+            "fieldHint": [ 
+                {"hint1": "Should be FAST"},
+                {"hint2": "Ex: automatically, quickly, instantly, immediately, fast, in a flash"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field8",
+            "fieldTitle": "In what timeframe do they get that big payoff? (TIME)",
+            "fieldHint": [ 
+                {"hint1": "Ex: instantly, 15 minutes, less than 30 minutes, about an hour, an afternoon, a single weekend, 20XX"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field9",
+            "fieldTitle": "#1 BIG obstacle/negative circumstance/pain they want to avoid?",
+            "fieldHint": [ 
+                {"hint1": "Starts with a VERB ending in \"ING\""},
+                {"hint2": "Completes the phrase \"Without _____...\""},
+                {"hint3": "Ex: paying a real estate broker's crazy commissions, using dangerous drugs, feeling like you have to be a professional photographer to take great pictures, figuring it all out yourself, knowing what to say in marketing videos, being a professional copywriter, losing money on ad campaigns, begging for speaking gigs"}
+            ]
+        }
+    ]
+}

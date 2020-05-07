@@ -1,0 +1,62 @@
+{
+    "name": "Timeless Classic Headline Scripts",
+    "fields": [
+        {
+            "fieldPropertyName:":"field1",
+            "fieldTitle": "Who is your target audience? (Singular)",
+            "fieldHint": [
+                {"hint1": "\"My target audience is a / an _____.\""},
+                {"hint2": "Ex: author, funnel hacker, realtor, for sale by owner, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field2",
+            "fieldTitle": "Who is your target audience? (Plural)",
+            "fieldHint": [
+                {"hint1": "\"_____ are my target audience.\""},
+                {"hint2": "Ex: authors, funnel hackers, realtors, for sale by owners, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field3",
+            "fieldTitle": "What is your main topic? (2-3 words)",
+            "fieldHint": [
+                {"hint1": "\"My main topic is _____.\""},
+                {"hint2": "Ex: ebook marketing, funnel hacking, real estate marketing, for sale by owner, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field4",
+            "fieldTitle": "What is your target audience's #1 Desire at the present time? (VERB)",
+            "fieldHint": [
+                {"hint1": "\"My target audience really wants to _____.\""},
+                {"hint2": "Ex: sell more books, make more sales, sell more houses, sell your house, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field5",
+            "fieldTitle": "What is your target audience's #1 Desire in the future? (VERB end in ING)",
+            "fieldHint": [
+                {"hint1": "\"My target audience sees themselves _____.\" (VERB ending in ING)"},
+                {"hint2": "Ex: selling more books, making more sales, selling more houses, selling your house, etc"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field6",
+            "fieldTitle": "What is your target audience's #1 Desire phrased in the PAST tense? (Like it already happened)",
+            "fieldHint": [
+                {"hint1": "\"My target audience wants to have _____.\" (VERB)"},
+                {"hint2": "Ex: sold more books, made more sales, sold more houses, sold your house, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field7",
+            "fieldTitle": "Who is your target audience's #1 ENEMY? (person)",
+            "fieldHint": [
+                {"hint1": "\"My target audience's enemy is a _____.\""},
+                {"hint2": "Ex: publisher, competitor, fsbo, realtor, etc."}
+            ]
+        }
+    ]
+
+}

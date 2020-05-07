@@ -1,0 +1,19 @@
+{
+    "name": "Seinfeld Email Topic Ideas Script",
+    "fields": [
+        {
+            "fieldPropertyName:":"field1",
+            "fieldTitle": "Target Audience (Singular)",
+            "fieldHint": [ 
+                {"hint1": "Ex: Author, Writer, Mom, Dad, Insurance Agent"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field2",
+            "fieldTitle": "Topic your target audience is interested in",
+            "fieldHint": [ 
+                {"hint2": "Ex: keyword research, BBQ chicken, race cars, selling more insurance"}
+            ]
+        }
+    ]
+}

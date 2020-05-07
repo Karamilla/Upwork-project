@@ -1,0 +1,84 @@
+{
+    "name": "Free Info Request Email Sequence",
+    "fields": [
+        {
+            "fieldPropertyName:":"field1",
+            "fieldTitle": "Your name",
+            "fieldHint": [ 
+                {"hint1": "Ex: Russell Brunson; Jim Edwards, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field2",
+            "fieldTitle": "Your title",
+            "fieldHint": [ 
+                {"hint1": "Ex: Co-Creator of Click Funnels; Best Selling Author; Funnel Hacker, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field3",
+            "fieldTitle": "Your main topic",
+            "fieldHint": [ 
+                {"hint1": "Ex: sales copywriting; for sale by owner, dog training, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field4",
+            "fieldTitle": "Who is your target audience for this freebie (PLURAL)?",
+            "fieldHint": [ 
+                {"hint1": "Ex: for sale by owners; dog trainers; funnel hackers, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field5",
+            "fieldTitle": "Name / Title of the freebie they are requesting",
+            "fieldHint": [ 
+                {"hint1": "Ex: 5 Keys To A Best Seller; 3 Quick Funnel Copy Hacks, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field6",
+            "fieldTitle": "WHAT is the actual freebie they are requesting",
+            "fieldHint": [ 
+                {"hint1": "Ex: report; video; webinar replay, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field7",
+            "fieldTitle": "What's the big payoff of the freebie they are requesting? (VERB)",
+            "fieldHint": [ 
+                {"hint1": "\"This will help you to _______.\" (Verb)"},
+                {"hint2": "Ex: create sales copy that gets people to buy NOW; write your own ebook in a week; avoid getting held hostage by a your web designer or tech person; create amazing sales copy in a flash, etc"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field8",
+            "fieldTitle": "What is the download URL for the freebie they've requested?",
+            "fieldHint": [ 
+                {"hint1": "Ex: http://FunnelScripts.com/free/"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field9",
+            "fieldTitle": "What is a URL you want them to check out after the freebie?",
+            "fieldHint": [ 
+                {"hint1": "Ex: http://FunnelScripts.com; https://blog.clickfunnels.com/"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field10",
+            "fieldTitle": "Catchy \"tagline\" statement that goes with your business",
+            "fieldHint": [ 
+                {"hint1": "Ex: How to write amazing sales copy... WITHOUT writing!; How to sell your house yourself and SAVE the commission!"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field11",
+            "fieldTitle": "What is your Facebook url?",
+            "fieldHint": [ 
+                {"hint1": "Ex: https://www.facebook.com/groups/ClickFunnels/, etc."}
+            ]
+        }
+    ]
+
+}

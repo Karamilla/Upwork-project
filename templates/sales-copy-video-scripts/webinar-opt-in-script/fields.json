@@ -1,0 +1,87 @@
+{
+    "name": "Webinar Opt-in Script",
+    "fields": [
+        {
+            "fieldPropertyName:":"field1",
+            "fieldTitle": "Your Name",
+            "fieldHint": [ 
+                {"hint1": "Ex: Russell Brunson, Jim Edwards"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field2",
+            "fieldTitle": "Webinar Title",
+            "fieldHint": [ 
+                {"hint1": "\"The title of this webinar is _____.\""},
+                {"hint2": "TIP: Use the Profitable Title Scripts to come up with great webinar title ideas"},
+                {"hint3": "Ex:\"How To Get ALL Of Your Sales Letters, Scripts And Webinars Slides Written (In Under 10 Minutes) WITHOUT Hiring An Expensive Copywriter!\""}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field3",
+            "fieldTitle": "Target niche audience (singular)",
+            "fieldHint": [ 
+                {"hint1": "Ex: public speaker, book author, coach"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field4",
+            "fieldTitle": "Big payoff target audience wants",
+            "fieldHint": [ 
+                {"hint1": "Starts with VERB"},
+                {"hint2" : "Ex: make more money speaking, sell more books, get more coaching clients"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field5",
+            "fieldTitle": "Big \"how to\" secret they want to know",
+            "fieldHint": [ 
+                {"hint1": "Include the words \"how to\""},
+                {"hint2": "Ex: how to get booked to speak more often, how to make thousands of book sales, how to find high paying clients quickly"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field6",
+            "fieldTitle": "Pain they want to avoid",
+            "fieldHint": [ 
+                {"hint1": "Starts with a VERB ending in \"ING\""},
+                {"hint2": "Ex: cold calling or begging for gigs, having to go on the road for book signings, selling in person or over the phone"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field7",
+            "fieldTitle": "First point you'll cover",
+            "fieldHint": [ 
+                {"hint1": "Ex: Why people struggle to put together a speech or webinar quickly"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field8",
+            "fieldTitle": "Second point you'll cover",
+            "fieldHint": [ 
+                {"hint1": "Ex: The top 7 critical elements you need to include in every speech you deliver"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field9",
+            "fieldTitle": "Third point you'll cover",
+            "fieldHint": [ 
+                {"hint1": "Ex: The list of promo materials you need to sell your speech to event planners"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field10",
+            "fieldTitle": "Fourth point you'll cover",
+            "fieldHint": [ 
+                {"hint1": "Ex: Specific tools you need to make money from your speaking"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field11",
+            "fieldTitle": "Fifth point you'll cover",
+            "fieldHint": [ 
+                {"hint1": "Ex: The fastest, easiest way to help you write a speech, teleseminar, or webinar using a revolutionary NEW tool"}
+            ]
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "name": "Abandoned Cart Email Scripts",
+    "fields": [
+        {
+            "fieldPropertyName:":"field1",
+            "fieldTitle": "What is your name?",
+            "fieldHint": [ 
+                {"hint1": "\"My name is _____.\""}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field2",
+            "fieldTitle": "What is your product or service name?",
+            "fieldHint": [ 
+                {"hint1": "\"The name of my product / service is _____.\""}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field3",
+            "fieldTitle": "What is your support email or help desk URL?",
+            "fieldHint": [ 
+                {"hint1": "\"Our support email / help desk URL is _____.\""}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field4",
+            "fieldTitle": "What is your support phone number?",
+            "fieldHint": [ 
+                {"hint1": "\"Our support phone number is _____.\""}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field5",
+            "fieldTitle": "How long is your guarantee period?",
+            "fieldHint": [ 
+                {"hint1": "\"We Offer a _____ Guarantee.\""},
+                {"hint2": "Ex: 14 Day; 30 Day; 60 Day; 90 Day, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field6",
+            "fieldTitle": "What's the #1 BIG benefit of your product or service?",
+            "fieldHint": [ 
+                {"hint1": "\"Our product / service makes it easy for you to _____.\""}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field7",
+            "fieldTitle": "What's the second BIG benefit of your product or service?",
+            "fieldHint": [ 
+                {"hint1": "\"Our product / service helps you _____.\""}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field8",
+            "fieldTitle": "What's the third BIG benefit of your product or service?",
+            "fieldHint": [ 
+                {"hint1": "\"Our product / service makes makes it simple to _____.\""}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field9",
+            "fieldTitle": "What's the fourth BIG benefit of your product or service?",
+            "fieldHint": [ 
+                {"hint1": "\"Our product / service gives you the ability to _____.\""}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field10",
+            "fieldTitle": "What's the fifth BIG benefit of your product or service?",
+            "fieldHint": [ 
+                {"hint1": "\"Our product / service is your easy button to _____.\""}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field11",
+            "fieldTitle": "Customer Testimonial / Comment #1",
+            "fieldHint": [ 
+                {"hint1": "Enter a customer testimonial or comment. 1-3 sentences is ideal (like the kind of positive comments people leave on Facebook)"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field12",
+            "fieldTitle": "Customer Testimonial / Comment #2",
+            "fieldHint": [ 
+                {"hint1": "Enter a customer testimonial or comment. 1-3 sentences is ideal (like the kind of positive comments people leave on Facebook)"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field13",
+            "fieldTitle": "Customer Testimonial / Comment #3",
+            "fieldHint": [ 
+                {"hint1": "Enter a customer testimonial or comment. 1-3 sentences is ideal (like the kind of positive comments people leave on Facebook)"}]
+        }
+    ]
+
+}

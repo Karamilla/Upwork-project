@@ -1,0 +1,116 @@
+{
+    "name": "Webinar Follow Up Scripts",
+    "fields": [
+        {
+            "fieldPropertyName:":"field1",
+            "fieldTitle": "Your name",
+            "fieldHint": [ 
+                {"hint1": "Ex: Jim Edwards"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field2",
+            "fieldTitle": "Email Subject slug",
+            "fieldHint": [ 
+                {"hint1": "Ex: JimE"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field3",
+            "fieldTitle": "Title of webinar",
+            "fieldHint": [ 
+                {"hint1": "Ex: Automatic Autoresponder Marketing"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field4",
+            "fieldTitle": "Tagline of the webinar",
+            "fieldHint": [ 
+                {"hint1": "Ex: How to put your email marketing on auto-pilot!"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field5",
+            "fieldTitle": "2-3 Word Topic",
+            "fieldHint": [ 
+                {"hint1": "Ex: Automatic Email Marketing, Marketing Calendar, Front Page of Google, Pay-Per-Click, Winning Ads, Why People Buy, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field6",
+            "fieldTitle": "Cool \"how to\" secret you'll drop on them in webinar",
+            "fieldHint": [ 
+                {"hint1": "Starts with HOW TO"},
+                {"hint2": "Ex: how to turn an autoresponder into a monthly cash-flow source by creating a \"Simple, Sequential Membership Site!\""}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field7",
+            "fieldTitle": "\"Big Picture\" Payoff of the webinar",
+            "fieldHint": [ 
+                {"hint1": "Should start with HOW TO"},
+                {"hint2": "Ex: how to set your email marketing on auto-pilot AND on steroids at the same time"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field8",
+            "fieldTitle": "Specific, tangible payoff they want & can expect from webinar",
+            "fieldHint": [ 
+                {"hint1": "Ex: put your marketing on true \"auto-pilot\" once and for all... no matter WHAT you sell or WHO you sell it to"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field9",
+            "fieldTitle": "Webinar Replay Link",
+            "fieldHint": [ 
+                {"hint1": "Ex: http://TheNetReporter.com/replay/"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field10",
+            "fieldTitle": "Title of the product / service offered in the pitch",
+            "fieldHint": [ 
+                {"hint1": "Ex: 60-Minute Membership Sites: How to Set Up a Money-Making Membership Site in Less Than 1 Hour!"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field11",
+            "fieldTitle": "Special Offer URL from pitch",
+            "fieldHint": [ 
+                {"hint1": "Ex: http://TheNetReporter.com"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field12",
+            "fieldTitle": "#1 Big Benefit of special offer",
+            "fieldHint": [ 
+                {"hint1": "Starts with a VERB"},
+                {"hint2": "Ex: build a free or paid newsletter to increase your sales"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field13",
+            "fieldTitle": "#2 Big Benefit of special offer",
+            "fieldHint": [ 
+                {"hint1": "Starts with a VERB"},
+                {"hint2": "Ex: build a big, profitable email list"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field14",
+            "fieldTitle": "#3 Big Benefit of special offer",
+            "fieldHint": [ 
+                {"hint1": "Starts with a VERB"},
+                {"hint2": "Ex: increase your \"stick rate\" on sales on everything from big-ticket items to even the humblest \"ebook!\""}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field15",
+            "fieldTitle": "Deadline for special offer",
+            "fieldHint": [ 
+                {"hint1": "Ex: Midnight, October 31, 2021"}
+            ]
+        }
+    ]
+
+}

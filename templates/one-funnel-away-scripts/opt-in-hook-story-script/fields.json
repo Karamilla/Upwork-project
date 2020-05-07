@@ -1,0 +1,76 @@
+{
+	"name" : "Opt-In Hook Story Script",
+	"fields" : [
+		{
+            "fieldPropertyName:":"field1",
+            "fieldTitle": "Who is your Target Niche member? (singular)",
+            "fieldHint": [ 
+                {"hint1": "\"My target audience is a _____\""},
+                {"hint2": "Ex: speaker, small business owner, home owner, investor, copywriter, advertiser"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field2",
+            "fieldTitle": "Who is your target audience? (Plural)",
+            "fieldHint": [ 
+                {"hint1": "\"_____ are my target audience.\""},
+                {"hint1": "Ex: authors, funnel hackers, realtors, for sale by owners, etc.)"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field3",
+            "fieldTitle": "What is your main topic? (2-3 words)",
+            "fieldHint": [ 
+                {"hint1": "\"My main topic is _____.\""},
+                {"hint2": "Ex: ebook marketing, funnel hacking, real estate marketing, for sale by owner, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field4",
+            "fieldTitle": "What is your target audience's #1 Desire at the present time? (VERB)",
+            "fieldHint": [ 
+                {"hint1": "My target audience really wants to _____."},
+                {"hint2": "Ex: sell more books, make more sales, sell more houses, sell your house, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field5",
+            "fieldTitle": "What is the #1 Good Thing they want MORE of?",
+            "fieldHint": [ 
+                {"hint1": "\"They want more _____\""},
+                {"hint2": "Ex: speaking gigs, sales, growth in your small business, financial freedom, high converting ads"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field6",
+            "fieldTitle": "What is the #2 Good Thing they also want MORE of?",
+            "fieldHint": [ 
+                {"hint1": "\"They also want more _____\""},
+                {"hint2": "Ex: back of room sales, leads, free time in your small business, guaranteed return on your investments, clicks to your website"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field7",
+            "fieldTitle": "#1 Negative Thing they want to AVOID?",
+            "fieldHint": [ 
+                {"hint1": "\"They want to avoid _____\""},
+                {"hint2": "Ex: not having any speaking gigs, negative cashflow, refunds, shrinking profit margins, huge debt, crappy ads"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field8",
+            "fieldTitle": "#2 Negative Thing they want to AVOID?",
+            "fieldHint": [ 
+                {"hint1": "\"They want to avoid _____\""},
+                {"hint2": "Ex: terrible back of the room sales rate, declining sales, low customer traffic, time vampire clients, soul crushing monthly bills, outrageously expensive leads"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field9",
+            "fieldTitle": "What are you giving away in exchange for them opting in?",
+            "fieldHint": [ 
+                {"hint1": "\"I am giving them a _____ in exchange for the opt in.\""}
+            ]
+        }
+	]
+}

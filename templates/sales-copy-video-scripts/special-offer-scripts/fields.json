@@ -1,0 +1,127 @@
+{
+    "name": "Special Offer Scripts",
+    "fields": [
+        {
+            "fieldPropertyName:":"field1",
+            "fieldTitle": "Timeframe for the special",
+            "fieldHint": [ 
+                {"hint1": "Ex: Today, This Week, This Month"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field2",
+            "fieldTitle": "Actual deal you're offering",
+            "fieldHint": [ 
+                {"hint1": "(Ex: 50% OFF, Buy 2 Get 1 Free, etc.)"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field3",
+            "fieldTitle": "Product or service you're offering the deal on",
+            "fieldHint": [ 
+                {"hint1": "Ex: 7 Day Ebook V2.0, Easy Online Wizards, How to Write and Publish Your Own Ebook... in as little as 7 Days Ver 2.0"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field4",
+            "fieldTitle": "What the product or service is",
+            "fieldHint": [ 
+                {"hint1": "(Ex: my wildly popular ebook, our flagship service, etc.)"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field5",
+            "fieldTitle": "Regular price/terms URL for comparision",
+            "fieldHint": [ 
+                {"hint1": "Ex: http://www.7dayebook.com - FULL URL"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field6",
+            "fieldTitle": "Deadline for the deal",
+            "fieldHint": [ 
+                {"hint1": "Ex: Today Only, This Week Only, Midnight April 21, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field7",
+            "fieldTitle": "Regular price for product or service",
+            "fieldHint": [ 
+                {"hint1": "Ex: $29"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field8",
+            "fieldTitle": "Deal price you're offering for the product or service:",
+            "fieldHint": [
+                {"hint1": "Ex: $14.50"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field9",
+            "fieldTitle": "1st Big benefit of what you're offering",
+            "fieldHint": [ 
+                {"hint1": "Starts with a VERB"},
+                {"hint2": "Ex: create their own best-selling ebook"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field10",
+            "fieldTitle": "2nd Big benefit of what you're offering",
+            "fieldHint": [ 
+                {"hint1": "Starts with a VERB"},
+                {"hint2": "(Ex: sell more ebooks)"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field11",
+            "fieldTitle": "3rd Big benefit of what you're offering",
+            "fieldHint": [ 
+                {"hint1": "Starts with a VERB"},
+                {"hint2": "Ex: get more credibility with their target audience"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field12",
+            "fieldTitle": "1st bullet about what they get",
+            "fieldHint": [ 
+                {"hint1": "Ex: the complete ebook training How To Write and Publish Your Own Ebook... in as little as 7 Days V2.0"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field13",
+            "fieldTitle": "2nd bullet about what they get",
+            "fieldHint": [ 
+                {"hint1": "Ex: my step by step blueprint for writing and posting your outrageously profitable ebooks on Kindle"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field14",
+            "fieldTitle": "3rd bullet about what they get",
+            "fieldHint": [ 
+                {"hint1": "Ex: unlimited access to my Ebook Title Wizard and Ebook Description Wizard online software"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field15",
+            "fieldTitle": "4th bullet about what they get",
+            "fieldHint": [ 
+                {"hint1": "Ex: exclusive access to my additional training 10 Ways To Have Your eBook Done By Next Friday!"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field16",
+            "fieldTitle": "5th bullet about what they get",
+            "fieldHint": [ 
+                {"hint1": "Ex: my all-new V2.0 techniques for writing, marketing, and selling your own ebooks"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field17",
+            "fieldTitle": "Special Offer URL",
+            "fieldHint": [ 
+                {"hint1": "Ex: www.7dayebook.com/special/"}
+            ]
+        }
+    ]
+}

@@ -1,0 +1,340 @@
+{
+    "name": "PPT Video Sales Letter Scripts",
+    "fields": [
+        {
+            "fieldPropertyName:":"field1",
+            "fieldTitle": "Your Name",
+            "fieldHint": [ 
+                {"hint1": "Ex: Jim Edwards"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field2",
+            "fieldTitle": "WHO is Your Target Niche (PLURAL)",
+            "fieldHint": [ 
+                {"hint1": "Ex: For Sale By Owner Sellers"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field3",
+            "fieldTitle": "Topic of the product in 2-3 words",
+            "fieldHint": [ 
+                {"hint1": "Ex: Get Your House Sold"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field4",
+            "fieldTitle": "What's the #1 thing they want to know how to do in this area?",
+            "fieldHint": [ 
+                {"hint1": "Starts with a VERB"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field5",
+            "fieldTitle": "Shocking Statement to start video",
+            "fieldHint": [ 
+                {"hint1": "Ex: The odds are almost 100 to 1 against you selling your house without an agent"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field6",
+            "fieldTitle": "State the problem they face",
+            "fieldHint": [ 
+                {"hint1": "Ex: Most people will never sell their house without an Agent"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field7",
+            "fieldTitle": "Problem description bullet 1",
+            "fieldHint": [ 
+                {"hint1": "Ex: You don't have access to pricing data"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field8",
+            "fieldTitle": "Problem description bullet 2",
+            "fieldHint": [ 
+                {"hint1": "Ex: You don't have access to pricing data"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field9",
+            "fieldTitle": "Problem description bullet 3",
+            "fieldHint": [ 
+                {"hint1": "Ex: You don't have access to pricing data"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field10",
+            "fieldTitle": "Problem description bullet 4",
+            "fieldHint": [ 
+                {"hint1": "Ex: You don't have access to pricing data"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field11",
+            "fieldTitle": "Problem description bullet 5",
+            "fieldHint": [ 
+                {"hint1": "Ex: You don't have access to pricing data"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field12",
+            "fieldTitle": "Why is the problem worse than they think?",
+            "fieldHint": [ 
+                {"hint1": "Ex: The good buyers all work with agents because they don't have to pay commission"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field13",
+            "fieldTitle": "Why is it even worse than that?",
+            "fieldHint": [ 
+                {"hint1": "Ex: The best buyers work with agents exclusively, leaving you the dregs"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field14",
+            "fieldTitle": "And what makes this worst of all?",
+            "fieldHint": [ 
+                {"hint1": "Ex: The people who do come look at your house either want to steal it from you, or their credit sucks and they can't get a loan"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field15",
+            "fieldTitle": "What is the name of your solution?",
+            "fieldHint": [ 
+                {"hint1": "Ex: Selling Your Home Alone"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field16",
+            "fieldTitle": "Format of your solution / product / service?",
+            "fieldHint": [ 
+                {"hint1": "Ex: home study course, software, coaching, etc"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field17",
+            "fieldTitle": "What's a big benefit they want?",
+            "fieldHint": [ 
+                {"hint1": "Should start with a VERB"},
+                {"hint2": "Ex: Sell your house without an agent and save the commission"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field18",
+            "fieldTitle": "What's another big benefit they want?",
+            "fieldHint": [ 
+                {"hint1": "Should start with a VERB"},
+                {"hint2": "Ex: Negotiate the best price, terms and conditions"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field19",
+            "fieldTitle": "What's even another big benefit they want?",
+            "fieldHint": [ 
+                {"hint1": "Should start with a VERB"},
+                {"hint2": "Ex: Receive a fair price for your house no matter what the market is doing"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field20",
+            "fieldTitle": "Describe your solution - bullet 1",
+            "fieldHint": [ 
+                {"hint1": "Ex: Discover exactly how to price your home for maximum profit"},
+                {"hint2": "Use the Brunson Bullets Script OR the FBM Bullet Scripts to come up with bullets"},
+                {"hint3": "https://members.funnelscripts.com/brunson-bullet-scripts-2/"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field21",
+            "fieldTitle": "Describe your solution - bullet 2",
+            "fieldHint": [ 
+                {"hint1": "Ex: Step by step how to negotiate with buyers"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field22",
+            "fieldTitle": "Describe your solution - bullet 3",
+            "fieldHint": [ 
+                {"hint1": "Ex: Step by step how to negotiate with buyers"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field23",
+            "fieldTitle": "Describe your solution - bullet 4",
+            "fieldHint": [ 
+                {"hint1": "Ex: Step by step how to negotiate with buyers"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field24",
+            "fieldTitle": "Describe your solution - bullet 5",
+            "fieldHint": [ 
+                {"hint1": "Ex: Step by step how to negotiate with buyers"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field25",
+            "fieldTitle": "Describe your solution - bullet 6",
+            "fieldHint": [ 
+                {"hint1": "Ex: Step by step how to negotiate with buyers"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field26",
+            "fieldTitle": "Describe your solution - bullet 7",
+            "fieldHint": [ 
+                {"hint1": "Ex: Step by step how to negotiate with buyers"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field27",
+            "fieldTitle": "Describe your solution - bullet 8",
+            "fieldHint": [ 
+                {"hint1": "Ex: Step by step how to negotiate with buyers"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field28",
+            "fieldTitle": "Describe your solution - bullet 9",
+            "fieldHint": [ 
+                {"hint1": "Ex: Step by step how to negotiate with buyers"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field29",
+            "fieldTitle": "Describe your solution - bullet 10",
+            "fieldHint": [ 
+                {"hint1": "Ex: Step by step how to negotiate with buyers"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field30",
+            "fieldTitle": "Why can you make these promises (1)?",
+            "fieldHint": [ 
+                {"hint1": "Ex: I spent almost 10 years as a mortgage broker and real estate agent"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field31",
+            "fieldTitle": "Why can you make these promises (2)?",
+            "fieldHint": [ 
+                {"hint1": "Ex: I spent almost 10 years as a mortgage broker and real estate agent"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field32",
+            "fieldTitle": "Why can you make these promises (3)?",
+            "fieldHint": [ 
+                {"hint1": "Ex: I spent almost 10 years as a mortgage broker and real estate agent"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field33",
+            "fieldTitle": "Why can you make these promises (4)?",
+            "fieldHint": [ 
+                {"hint1": "Ex: I spent almost 10 years as a mortgage broker and real estate agent"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field34",
+            "fieldTitle": "Why can you make these promises (5)?",
+            "fieldHint": [ 
+                {"hint1": "Ex: I spent almost 10 years as a mortgage broker and real estate agent"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field35",
+            "fieldTitle": "Why should people believe you (1)?",
+            "fieldHint": [ 
+                {"hint1": "Ex: Take a look at these testimonials"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field36",
+            "fieldTitle": "Why should people believe you (2)?",
+            "fieldHint": [ 
+                {"hint1": "Ex: Take a look at these statistics from ** that prove it's easier to sell yourself"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field37",
+            "fieldTitle": "Why should people believe you (3)?",
+            "fieldHint": [ 
+                {"hint1": "Ex: Look how many people are selling right now on Craigslist"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field38",
+            "fieldTitle": "Why should people believe you (4)?",
+            "fieldHint": [ 
+                {"hint1": "Ex: Technology is making it easier than ever to sell your home, IF you know how to use the tools"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field39",
+            "fieldTitle": "Why should people believe you (5)?",
+            "fieldHint": [ 
+                {"hint1": "Ex: The same principals that work for real estate agents can work for you, if you know what they are and how to use them. Here are the Step-By-Step instructions on how to get your house SOLD!"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field40",
+            "fieldTitle": "What do they get (summary bullet 1)",
+            "fieldHint": [ 
+                {"hint1": "Ex: Step By Step instructions on how to get your house ready to sell, no matter what the market is doing"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field41",
+            "fieldTitle": "What do they get (summary bullet 2)",
+            "fieldHint": [ 
+                {"hint1": "Ex: How to price your home right and then get the price you're asking for"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field42",
+            "fieldTitle": "What do they get (summary bullet 3)",
+            "fieldHint": [ 
+                {"hint1": "Ex: How to deal with real estate agents, buyers, lenders, attornies and title companies to get your sale through closing"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field43",
+            "fieldTitle": "What do they get (summary bullet 4)",
+            "fieldHint": [ 
+                {"hint1": "Ex: My personal checklist of 25 things to do to get your house under contract for the highest price in the least time"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field44",
+            "fieldTitle": "What do they get (summary bullet 5)",
+            "fieldHint": [ 
+                {"hint1": "Ex: Everything you need to get started selling your home this weekend!"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field45",
+            "fieldTitle": "Act Now Bonus #1",
+            "fieldHint": [ 
+                {"hint1": "Ex: 10 Proven Classified Ad Templates to use Online or Offline"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field46",
+            "fieldTitle": "Act Now Bonus #2",
+            "fieldHint": [ 
+                {"hint1": "Ex: My Personal \"Get To Closing Alive and In One Piece\" Checklist to cover all your bases"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field47",
+            "fieldTitle": "Act Now Bonus #3",
+            "fieldHint": [ 
+                {"hint1": "Ex: A Special Audio Interview \"10 Secrets of Successful FSBO Selling\" - A 30-Minute interview done on the Real Estate Radio show"}
+            ]
+        }
+    ]
+
+}

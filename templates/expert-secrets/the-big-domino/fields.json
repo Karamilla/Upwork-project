@@ -1,0 +1,38 @@
+{
+    "name": "The Big Domino",
+    "fields": [
+        {
+            "fieldPropertyName:":"field1",
+            "fieldTitle": "WHO are you going to teach? (PLURAL)",
+            "fieldHint": [ 
+                {"hint1": "\"I'm going to teach ________.\""},
+                {"hint2": "Ex: funnel hackers; real estate investors; parents of kids with ADHD; people who want to lose weight; women who want to look younger, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field2",
+            "fieldTitle": "What is the #1 big, huge result they desire most in this area?",
+            "fieldHint": [ 
+                {"hint1": "\"My audience really wants to ________.\" (Starts with a VERB)"},
+                {"hint2": "Ex: create a 7-figure funnel; make a quick 10K this weekend by flipping houses on eBay; naturally destroy your kid's ADHD; reconnect with your wife; lose weight without exercising; enjoy a youthful appearance, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field3",
+            "fieldTitle": "What is the \"new opportunity\" you offer to get that big result?",
+            "fieldHint": [ 
+                {"hint1": "\"The new opportunity we offer is ______.\""},
+                {"hint2": "Ex: marketing funnels; online house flipping; nutritional behavior therapy; marital reconnection; getting their bodies into a state of ketosis; apple stem cell therapy; etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field4",
+            "fieldTitle": "What is your specific vehicle that delivers the new opportunity?",
+            "fieldHint": [ 
+                {"hint1": "\"The specific vehicle I offer is ______.\""},
+                {"hint2": "Ex: ClickFunnels; using my Cyber House Flipping System; understanding The ADHD Nutrition Solution that works in one weekend; discovering The Newlywed Code that reignites romance in 30 minutes; drinking Pruvit’s ketones, which put the body into ketosis within 10 minutes; using apple stem cell therapy to stimulate new cell growth instead of covering up dead cells; etc."}
+            ]
+        }
+    ]
+
+}

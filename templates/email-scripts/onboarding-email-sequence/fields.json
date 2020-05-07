@@ -1,0 +1,208 @@
+{
+    "name": "Live Event Invitation Scripts",
+    "fields": [
+        {
+            "fieldPropertyName:":"field1",
+            "fieldTitle": "What are you selling / offering / giving away? (Name of it)",
+            "fieldHint": [ 
+                {"hint1": "\"I am selling / offering / giving away _____.\""},
+                {"hint2": "Ex: Funnel Scripts"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field2",
+            "fieldTitle": "What is the \"thing\" people are buying / signing up for?",
+            "fieldHint": [ 
+                {"hint1": "\"People are buying /signing up for a ______.\""},
+                {"hint2": "Ex: subscription, membership, free report, video, course, coaching, product, purchase, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field3",
+            "fieldTitle": "What is the main keyword phrase related to the product/service?",
+            "fieldHint": [ 
+                {"hint1": "\"We're all about helping you get the best results with your ______.\""},
+                {"hint2": "Ex: sales copy; ebook marketing; physical fitness; firearms maintenance; marriage; child's health; etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field4",
+            "fieldTitle": "What is the name of the person sending the emails?",
+            "fieldHint": [ 
+                {"hint1": "Ex: Russell Brunson, Jim Edwards, Dave Woodward, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field5",
+            "fieldTitle": "What is the title of the person sending the emails?",
+            "fieldHint": [ 
+                {"hint1": "\"I am the ______.\""},
+                {"hint1": "Ex: Co-creator, Owner, Author, Founder, Manager, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field6",
+            "fieldTitle": "What is the focus of the event in 2-3 words?",
+            "fieldHint": [ 
+                {"hint1": "\"You can access / download your purchase at _______.\""},
+                {"hint2": "Ex: https://members.funnelscripts.com, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field7",
+            "fieldTitle": "What's the \"one big thing\" your product / service does for them?",
+            "fieldHint": [ 
+                {"hint1": "\"This is all about helping you to ______.\" (VERB)"},
+                {"hint2" : "Ex: create amazing sales copy, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field8",
+            "fieldTitle": "What's the big PAYOFF of that \"one thing\" above?",
+            "fieldHint": [ 
+                {"hint1": "\"With this you can _____.\" (Starts with a VERB)"},
+                {"hint1": "Ex: build your business fast; etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field9",
+            "fieldTitle": "What's the big PAIN you help them avoid?",
+            "fieldHint": [ 
+                {"hint1": "\"We help you get results so you can AVOID / never have to be SCARED of ____.\" (VERB ending in \"ING\".)"},
+                {"hint2": "Ex: wasting time creating sales copy that doesn't convert; etc"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field10",
+            "fieldTitle": "What email address(es) should they whitelist?",
+            "fieldHint": [ 
+                {"hint1": "\"You should whitelist the following email(s) _____.\""},
+                {"hint2": "Ex: jimedwards.do-not-reply@ebookfire.com; support@clickfunnels.com; all emails from FunnelScripts.com; etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field11",
+            "fieldTitle": "What is your Facebook link? (URL)",
+            "fieldHint": [ 
+                {"hint1": "Ex: https://www.facebook.com/funnelscripts/; https://www.facebook.com/thenetreporter/; https://www.facebook.com/groups/ClickFunnels/; etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field12",
+            "fieldTitle": "What is your Twitter link? (URL)",
+            "fieldHint": [ 
+                {"hint1": "Ex: https://twitter.com/realjimedwards; https://twitter.com/clickfunnels; etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field13",
+            "fieldTitle": "What's the FIRST THING they should do right after buy / sign up?",
+            "fieldHint": [ 
+                {"hint1": "\"Before you do anything else, MAKE SURE to ______.\"(VERB)"},
+                {"hint2": "(Ex: watch the quick start video; etc.)"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field14",
+            "fieldTitle": "Where should they go for your support desk? (Email/URL)",
+            "fieldHint": [ 
+                {"hint1": "\"To contact our support desk, please use ____.\""},
+                {"hint2": "Ex: http://ebookfiresupport.com; support@clickfunnels.com; etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field15",
+            "fieldTitle": "What is the single most important thing they should do first?",
+            "fieldHint": [ 
+                {"hint1": "\"The single most important thing you can do right now is _____.\""},
+                {"hint2": "Ex: go through and use the headline wizards to give all of your sales funnels, posts and any other pages you have a lot more punch; etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field16",
+            "fieldTitle": "Why should they do this single most important thing (above)?",
+            "fieldHint": [ 
+                {"hint1": "\"You should do this because ______.\""},
+                {"hint2": "*Take as much room as you need to explain WHY they should do this now and any other details that matter."}
+            ]
+        },{
+            "fieldPropertyName:":"field17",
+            "fieldTitle": "What Epiphany Bridge/Origin Story is behind the product/service?",
+            "fieldHint": [ 
+                {"hint1": "Share the story behind this product or service. (Take as much room as you need)"},
+                { "hint2" : "**** NOTE: Try using the \"Epiphany Bridge Script\" or the \"Origin Story Script\" in Funnel Scripts to help you create an amazing background story here"} 
+            ]
+        },
+        {
+            "fieldPropertyName:":"field18",
+            "fieldTitle": "What is the coolest bonus they get with this product / service?",
+            "fieldHint": [ 
+                {"hint1": "\"Here's the amazing bonus we've got for you, it's called ______.\""},
+                {"hint2": "Ex: Inception Secrets; etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field19",
+            "fieldTitle": "What is the BIG PAYOFF of this bonus? (Short)",
+            "fieldHint": [ 
+                {"hint1": "\"Grab this bonus right now because it will immediately help you ______.\""},
+                {"hint2": "Ex: sell more, no matter what you sell; etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field20",
+            "fieldTitle": "How does this bonus help them?",
+            "fieldHint": [ 
+                {"hint1": "\"This incredible bonus will help you _____.\""},
+                {"hint1": "*Take as much room as you need to explain the big payoff of this bonus."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field21",
+            "fieldTitle": "Where do they access this bonus? (URL)",
+            "fieldHint": [ 
+                {"hint1": "Ex: https://successetc.clickfunnels.com/membership-area443111/3f0e373c7fa; etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field22",
+            "fieldTitle": "Share a case study of your product/service in action.",
+            "fieldHint": [ 
+                {"hint1": "The case study can be from you, a customer, a subscriber, etc. (Take as much room as you need.)"},
+                {"hint2": "**** NOTE: Try using the \"Case Study Script V2.0\" in Funnel Scripts to help you get Cast Studies from your customers / subscriber"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field23",
+            "fieldTitle": "What is a speed \"hack\" with your product / service?",
+            "fieldHint": [ 
+                {"hint1": "Share a \"hack\" that helps people get results FASTER with your product / service."},
+                {"hint2": "Take as much room as you need and focus on sharing a \"hack\" that speeds up their results"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field24",
+            "fieldTitle": "What is an effort \"hack\" with your product / service?",
+            "fieldHint": [ 
+                {"hint1": "Share a \"hack\" that helps people get results EASIER with your product / service."},
+                {"hint2" : "Take as much room as you need and focus on sharing a \"hack\" that makes their life EASIER"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field25",
+            "fieldTitle": "Take as much room as you need and focus on sharing a \"hack\" that makes their life EASIER",
+            "fieldHint": [ 
+                {"hint1": "\"Take a peek at these...\""},
+                {"hint2": "Share existing content and links from your blog, social media, website, archives, etc. that they'll think is cool"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field26",
+            "fieldTitle": "Where / how can they give you feedback?",
+            "fieldHint": [ 
+                {"hint1": "\"Here's how you can give us feedback...\""},
+                {"hint2": "Ex: reply to this email; go to this URL: www.replytojim.com; etc."}
+            ]
+        }
+    ]
+}

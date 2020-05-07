@@ -1,0 +1,176 @@
+{
+    "name": "Short Sales Letter Script",
+    "fields": [
+        {
+            "fieldPropertyName:":"field1",
+            "fieldTitle": "Who is your target audience? (PLURAL)",
+            "fieldHint": [ 
+                {"hint1": "Ex: For Sale By Owner"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field2",
+            "fieldTitle": "Your name",
+            "fieldHint": [ 
+                {"hint1": "Ex: Jim Edwards"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field3",
+            "fieldTitle": "The number one BEST Headline to pull people into your sales copy",
+            "fieldHint": [ 
+                {"hint1": "Ex: \"How to Avoid Paying $6,823... $9,128... $12,913 or More in Real Estate Commissions by Selling Without an Agent!\""}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field4",
+            "fieldTitle": "The #1 BIGGEST benefit to them of what you have to offer",
+            "fieldHint": [ 
+                {"hint1": "\"My target audience really wants to _____.\""},
+                {"hint2": "Starts with a VERB"},
+                {"hint3": "Ex: save the commission"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field5",
+            "fieldTitle": "The #2 BIGGEST benefit to them of what you have to offer",
+            "fieldHint": [ 
+                {"hint1": "\"My target audience really wants to _____.\""},
+                {"hint2": "Starts with a VERB"},
+                {"hint3": "Ex: save the commission"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field6",
+            "fieldTitle": "The #3 BIGGEST benefit to them of what you have to offer",
+            "fieldHint": [ 
+                {"hint1": "\"My target audience really wants to _____.\""},
+                {"hint2": "Starts with a VERB"},
+                {"hint3": "Ex: save the commission"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field7",
+            "fieldTitle": "Type of access they get",
+            "fieldHint": [ 
+                {"hint1": "\"You get _____.\""},
+                {"hint2": "Ex: Instant Access, Instant Download, VIP Membership, etc"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field8",
+            "fieldTitle": "Name of what are you selling",
+            "fieldHint": [ 
+                {"hint1": "\"The name of what I'm selling is _____.\""},
+                {"hint2": "Ex: Glucosamene Powder, Selling Your Home Alone, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field9",
+            "fieldTitle": "#1 Bullet describing what they get",
+            "fieldHint": [ 
+                {"hint1": "Ex: How to get FREE and Low-Cost Advertising..."},
+                {"hint2": "Use the Brunson Bullets Script OR the FBM Bullet Scripts to come up with bullets"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field10",
+            "fieldTitle": "#2 Bullet describing what they get",
+            "fieldHint": [ 
+                {"hint1": "Ex: How to get FREE and Low-Cost Advertising..."},
+                {"hint2": "Use the Brunson Bullets Script OR the FBM Bullet Scripts to come up with bullets"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field11",
+            "fieldTitle": "#3 Bullet describing what they get",
+            "fieldHint": [ 
+                {"hint1": "Ex: How to get FREE and Low-Cost Advertising..."},
+                {"hint2": "Use the Brunson Bullets Script OR the FBM Bullet Scripts to come up with bullets"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field12",
+            "fieldTitle": "#4 Bullet describing what they get",
+            "fieldHint": [ 
+                {"hint1": "Ex: How to get FREE and Low-Cost Advertising..."},
+                {"hint2": "Use the Brunson Bullets Script OR the FBM Bullet Scripts to come up with bullets"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field13",
+            "fieldTitle": "#5 Bullet describing what they get",
+            "fieldHint": [ 
+                {"hint1": "Ex: How to get FREE and Low-Cost Advertising..."},
+                {"hint2": "Use the Brunson Bullets Script OR the FBM Bullet Scripts to come up with bullets"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field14",
+            "fieldTitle": "#6 Bullet describing what they get",
+            "fieldHint": [ 
+                {"hint1": "Ex: How to get FREE and Low-Cost Advertising..."},
+                {"hint2": "Use the Brunson Bullets Script OR the FBM Bullet Scripts to come up with bullets"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field15",
+            "fieldTitle": "#1 Bonus OR Reason to act now",
+            "fieldHint": [ 
+                {"hint1": "Ex: Bonus \"10 Secrets to _________.\""}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field16",
+            "fieldTitle": "#2 Bonus OR Reason to act now",
+            "fieldHint": [ 
+                {"hint1": "Ex: The price goes up by 50% soon, don't pay more if you don't have to!"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field17",
+            "fieldTitle": "#3 Bonus OR Reason to act now",
+            "fieldHint": [ 
+                {"hint1": "Ex: Bonus, Time limited advantage, etc"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field18",
+            "fieldTitle": "Regular price for what you offer",
+            "fieldHint": [ 
+                {"hint1": "Ex: $97"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field19",
+            "fieldTitle": "Reason you are giving them a price drop",
+            "fieldHint": [ 
+                {"hint1": "\"I am giving you a special price _____.\""},
+                {"hint2": "Ex: as part of a special marketing test, as one of the next 22 Buyers, for this week only"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field20",
+            "fieldTitle": "Special price when they action now",
+            "fieldHint": [ 
+                {"hint1": "Ex: $47, over 50% OFF!"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field21",
+            "fieldTitle": "Your Call to action for \"Click Here Now To____________\"",
+            "fieldHint": [ 
+                {"hint1": "Ex: Download Now, Claim Your Copy, Register Now, Get Your Priority Access, etc"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field22",
+            "fieldTitle": "What's the biggest negative of NOT taking action",
+            "fieldHint": [ 
+                {"hint1": "\"If you don't take action now _____.\""},
+                {"hint2": "Ex: other sellers will leave you in the dust, Your competitors are getting further ahead of you, etc"}
+            ]
+        }
+    ]
+
+}

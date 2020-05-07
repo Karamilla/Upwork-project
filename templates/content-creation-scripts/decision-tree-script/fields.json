@@ -1,0 +1,52 @@
+{
+    "name": "Decision Tree Script",
+    "fields": [
+        {
+            "fieldPropertyName:":"field1",
+            "fieldTitle": "Who is your target audience? (Singular)",
+            "fieldHint": [ 
+                {"hint1": "My target audience is a / an _____."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field2",
+            "fieldTitle": "What is the #1 outcome / big result they really want? (VERB)",
+            "fieldHint": [ 
+                {"hint1": "My audience really wants to _____."},
+                {"hint2": "Ex: make a ton of sales through your funnel; write a best-selling book, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field3",
+            "fieldTitle": "Who or what would they already need to be in order to accomplish this big result?",
+            "fieldHint": [ 
+                {"hint1": "Are you already (a / an) _____?"},
+                {"hint2": "Ex: an experienced copywriter (it takes really good copy to make sales these days); a published author selling at least 30 books a day (900+ books a month), etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field4",
+            "fieldTitle": "What would they have to be willing to do to get the big result the \"traditional\" or \"hard\" way? (Difficult / long)",
+            "fieldHint": [ 
+                {"hint1": "Are you willing or able to _____.?"},
+                {"hint2": "Ex: spend years of study and invest the time to learn how to write sales copy from scratch; sit down and \"gut it out\" at the keyboard 8-10 hours a day for the next several months, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field5",
+            "fieldTitle": "If they had unlimited resources, what would their option be to pay someone to get this result for them?",
+            "fieldHint": [ 
+                {"hint1": "If you have the money, you can _____."},
+                {"hint2": "Ex: pay a copywriter thousands of dollars to write your sales copy for you; spend thousands of dollars on a ghost writer to write your book for you, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field6",
+            "fieldTitle": "What's the option you want them to take after all the other options fail?",
+            "fieldHint": [ 
+                {"hint1": "I want them to _____."},
+                {"hint2": "Ex: Buy Funnel Scripts; Take the 7-Day Free Trial For 3 Hour Kindle Book Wizard, etc."}
+            ]
+        }
+    ]
+}

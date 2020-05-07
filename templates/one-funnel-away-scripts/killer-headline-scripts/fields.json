@@ -1,0 +1,98 @@
+{
+	"name" : "Killer Headline Scripts",
+	"fields" : [
+		{
+            "fieldPropertyName:":"field1",
+            "fieldTitle": "Niche audience (singular)",
+            "fieldHint": [ 
+                {"hint1": "\"My target audience is a / an ____.\""},
+                {"hint2": "Ex: beginner investor, ebook author, home seller, home buyer, etc"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field2",
+            "fieldTitle": "Your #1 main keyword topic",
+            "fieldHint": [ 
+                {"hint1": "Ex: stock investing, ebook marketing, for sale by owner, home buying, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field3",
+            "fieldTitle": "Your #2 main keyword topic",
+            "fieldHint": [ 
+                {"hint1": "Ex: pick winning stocks, ebook writing, fsbo, house hunting, etc"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field4",
+            "fieldTitle": "What is NAME / TITLE of what you want them to buy, try, etc.?",
+            "fieldHint": [ 
+                {"hint1": "Ex: Stock Investing Playbook; \"Selling Your Home Alone\"; Neuracel; 5 Secrets To Deleting Nerve Pain; The Biohacker's Guide; Neuropathy Supplements; Funnel Scripts; Webinar Secrets; Big Jim's Running Shoes; Kodak XLR 75; The Speaker's Edge Coaching; etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field5",
+            "fieldTitle": "What \"thing\" holds the solution they want? (1-2 words)",
+            "fieldHint": [ 
+                {"hint1": "\"The thing I want them to buy is / are ______.\" (NOUN)"},
+                {"hint2": "Ex: pain reliever, supplement, service, coaching, websites, templates, blueprints, checklist, software, secrets, resources, places, FB Posts, info-graphics, list, guide, digital camera, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field6",
+            "fieldTitle": "Describe \"thing\" from previous question to arouse curiosity",
+            "fieldHint": [ 
+                {"hint1": "\"The thing I want them to buy is definitely ______.\" (ADJECTIVE)"},
+                {"hint2": "Ex: under-the-radar, free, little-known, proven, \"black hole\", off-the-record, breakthrough, revolutionary, new, etc"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field7",
+            "fieldTitle": "What is the #1 BIG Result they want? (Starts with VERB)",
+            "fieldHint": [ 
+                {"hint1": "\"My audience really wants to _____.\" (VERB)"},
+                {"hint2": "Ex: pick more money-making stocks; publish your own outrageously profitable ebook; get your home sold for top dollar; buy your own dream home; etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field8",
+            "fieldTitle": "What is the #2 BIG Result they want? (Starts with VERB)",
+            "fieldHint": [ 
+                {"hint1": "\"My audience really wants to _____.\" (VERB)"},
+                {"hint2": "Ex: earn a double-digit return on your stock investments; create passive income from amazon royalty checks; find a qualified buyer in your timeframe; get a monthly payment you can feel good about; etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field9",
+            "fieldTitle": "What is a Pain they want to avoid in this area?",
+            "fieldHint": [ 
+                {"hint1": "\"My audience really wants to avoid ______.\" (VERB ending in \"ing\")"},
+                {"hint2": "Ex: losing money on stocks, trying to write it all yourself, paying a Realtor commission, spending weeks in a car looking at houses, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field10",
+            "fieldTitle": "What is a Roadblock they see as holding them back from their goal?",
+            "fieldHint": [ 
+                {"hint1": "Completes statement \"Even if ______\""},
+                {"hint2": "Ex: you have never invested in stocks before now, you think you can't write, you have no marketing or sales experience, you have less-than-perfect credit, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field11",
+            "fieldTitle": "When you wave a magic wand, how fast do they get the big payoff?",
+            "fieldHint": [ 
+                {"hint1": "\"You can get results _____.\""},
+                {"hint2": "Ex: automatically, quickly, instantly, immediately, fast, in a flash, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field12",
+            "fieldTitle": "In what timeframe can you deliver results?",
+            "fieldHint": [ 
+                {"hint1": "\"You'll see results in _____.\""},
+                {"hint2": "Ex: 30 days; 15 minutes or less; one week; etc."}
+            ]
+        }
+	]
+}

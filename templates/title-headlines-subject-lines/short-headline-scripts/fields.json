@@ -1,0 +1,70 @@
+{
+    "name": "Short Headline Scripts",
+    "fields": [
+        {
+            "fieldPropertyName:":"field1",
+            "fieldTitle": "2-3 word Keyword Topic",
+            "fieldHint": [
+                {"hint1": "Ex: ebook marketing, business travel"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field2",
+            "fieldTitle": "2-3 word Keyword Topic Person ",
+            "fieldHint": [
+                {"hint1": "Ex: Ebook Author, Ebook Marketer, Business Traveler"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field3",
+            "fieldTitle": "2-3 word Negative Event / Circumstance / Outcome",
+            "fieldHint": [
+                {"hint1": "Ex: lights go out, Google Account gets banned"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field4",
+            "fieldTitle": "2-3 word Desired Result or Outcome They Want",
+            "fieldHint": [
+                {"hint1": "Starts with a VERB"},
+                {"hint2": "Ex: keep phone charged, get more traffic"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field5",
+            "fieldTitle": "2-3 word Expense they'd like to avoid / save",
+            "fieldHint": [
+                {"hint1": "Ex: 4-star hotel rooms, web hosting, pay-per-click traffic"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field6",
+            "fieldTitle": "1-2 word Thing or Product Topic",
+            "fieldHint": [
+                {"hint1": "Ex: software, car, ebook"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field7",
+            "fieldTitle": "1-2 word Person / Professional with inside track",
+            "fieldHint": [
+                {"hint1": "Ex: lawyer, flight attendant, author, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field8",
+            "fieldTitle": "1-2 word Adjective on the topic - either positive or negative",
+            "fieldHint": [
+                {"hint1": "Ex: healthy, profitable, dangerous"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field9",
+            "fieldTitle": "1-2 word Group of Odd people",
+            "fieldHint": [
+                {"hint1": "Ex: Millenials, Boomers etc."}
+            ]
+        }
+    ]
+
+}

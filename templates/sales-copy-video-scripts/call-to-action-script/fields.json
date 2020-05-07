@@ -1,0 +1,49 @@
+{
+    "name": "Call to Action Script",
+    "fields": [
+        {
+            "fieldPropertyName:":"field1",
+            "fieldTitle": "What's the Name / Title of whatever you're selling?",
+            "fieldHint": [ 
+                {"hint1": "(Ex: Traffic Explosion, Neuracel, 7 Day Ebook, etc.)"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field2",
+            "fieldTitle": "How much does what you're selling cost?",
+            "fieldHint": [ 
+                {"hint1": "Ex: Free, Free + S&H, just $39, 2 Payments of $97, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field3",
+            "fieldTitle": "What is what you're selling?",
+            "fieldHint": [ 
+                {"hint1": "(Ex: coaching, ebook, dvd, book, supplement, software, report, etc.)"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field4",
+            "fieldTitle": "What is the big payoff of what you're selling?",
+            "fieldHint": [ 
+                {"hint1": "Completes phrase \"My product/service helps you with How To _____\" (starts with a VERB)"},
+                {"hint2": "Ex: make more sales, lose weight, write a book, have more energy, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field5",
+            "fieldTitle": "What is the #1 benefit customers want from what you sell?",
+            "fieldHint": [ 
+                {"hint1": "Completes phrase \"I want to _____\" (starts with a VERB)"},
+                {"hint2": "Ex: get more traffic, stop my pain, write my own book, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field6",
+            "fieldTitle": "How fast does your product / service get results?",
+            "fieldHint": [ 
+                {"hint1": "Ex: 30 minutes, instantly, a single weekend, etc."}
+            ]
+        }
+    ]
+}

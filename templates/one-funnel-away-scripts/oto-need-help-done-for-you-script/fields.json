@@ -1,0 +1,183 @@
+{
+    "name": "One Time Offer (OTO) \"Need Help / Coaching / Done For You Service\" Script",
+    "fields": [
+        {
+            "fieldPropertyName:":"field1",
+            "fieldTitle": "What is the name of what they just bought?:",
+            "fieldHint": [ 
+                {"hint1": "Ex: done-for-you \"Desktop Ad Wizard\" software, Click Funnels, 7 Day Ebook, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field2",
+            "fieldTitle": "What's the big payoff / big idea of what they just bought?",
+            "fieldHint": [ 
+                {"hint1": "Starts with a VERB"},
+                {"hint2": "\"What you just bought will help you _______.\""},
+                {"hint3": "Ex: drive more traffic and make more sales without hiring expensive copywriters or struggling to write the ads yourself; create money-making funnels quickly and easily without an expensive webmaster; write and publish an outrageously profitable ebook fast"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field3",
+            "fieldTitle": "What does that big payoff of what they bought mean to them?",
+            "fieldHint": [ 
+                {"hint1": "Starts with a VERB"},
+                {"hint2": "\"This means you will be able to _______.\""},
+                {"hint3": "Ex: get a lot more traffic and clicks to your website than ever before; set up money making pages a whole lot faster; get a lot more credibility as a published author and expert"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field4",
+            "fieldTitle": "Name of the coaching/done-for-you service you want them to buy:",
+            "fieldHint": [ 
+                {"hint1": "Ex: Ad Writing Coaching; Funnel Setup Service; Kindle Book Writing Service"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field5",
+            "fieldTitle": "What does this OTO coaching/service help do that they need?",
+            "fieldHint": [ 
+                {"hint1": "Starts with a VERB"},
+                {"hint2": "\"This will help you _______ a lot faster and easier.\""},
+                {"hint3": "Ex: create really great ads fast to drive a bunch of targeted traffic to your website; Set up all the pages of your funnel; write your Kindle books and get them ready to sell on Amazon"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field6",
+            "fieldTitle": "Big payoff of this OTO coaching/service that really appeals:",
+            "fieldHint": [ 
+                {"hint1": "Starts with a VERB"},
+                {"hint2": "\"Which will enable you to _______.\""},
+                {"hint3": "Ex: attract a ton of new buyers to your website; professionally design your new sales funnels to make more sales; publish and sell a lot more books quickly"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field7",
+            "fieldTitle": "What does this big payoff mean to your target audience?",
+            "fieldHint": [ 
+                {"hint1": "Starts with a VERB"},
+                {"hint2": "\"This means you can _______.\""},
+                {"hint3": "Ex: create compelling, custom, high-converting ads fast; create all the funnels you want any time you want without lifting a finger; create and publish as many books, reports and other document ideas as you want"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field8",
+            "fieldTitle": "Timeframe will this OTO coaching/service deliver results?",
+            "fieldHint": [ 
+                {"hint1": "Ex: about 60 minutes; an afternoon; less than a week; less than a month; one training cycle; by the end of the class"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field9",
+            "fieldTitle": "What is the regular price of this OTO coaching / service?",
+            "fieldHint": [ 
+                {"hint1": "(Ex: $197; $497; $1997)"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field10",
+            "fieldTitle": "What is the special price of this OTO coaching / service?",
+            "fieldHint": [ 
+                {"hint1": "Ex: $97; $197; $497"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field11",
+            "fieldTitle": "#1 Result this OTO coaching/service gives your audience?",
+            "fieldHint": [ 
+                {"hint1": "Ex: I'll help you create dozens of unique totally customized ads with just a few mouse clicks; We will use Proven funnels that work no matter what you sell; We will write and so you can concentrate on what you do best, coming up with cool ideas for content"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field12",
+            "fieldTitle": "#2 Result this OTO coaching/service gives your audience?",
+            "fieldHint": [ 
+                {"hint1": "Ex: I'll help you use these ads to drive tons of traffic; We will legally STEAL your competitors' best funnel designs; We will automatically create and format your books for you"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field13",
+            "fieldTitle": "#3 Result this OTO coaching/service gives your audience?",
+            "fieldHint": [ 
+                {"hint1": "Ex: I'll help you convert your ad ideas into working ads on Facebook and Google AdWords; We will figure out exactly which funnels will get you the most sales; We will optimize your Kindle books for maximum sales"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field14",
+            "fieldTitle": "#4 Result this OTO coaching/service gives your audience?",
+            "fieldHint": [ 
+                {"hint1": "Ex: I'll help you instantly produce customized, professional-level ads to sell anything!; We will track every aspect of your funnel to increase your sales conversions fast!; We will create money-making offer pages inside your book to drive traffic to your website"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field15",
+            "fieldTitle": "#5 Result this OTO coaching/service gives your audience?",
+            "fieldHint": [ 
+                {"hint1": "Ex: I'll help you create powerful ad copy to sell your own products, clients' products, affiliate offers, and more!; We will use social media sites like Facebook, LinkedIn and Instagram to get more people into your funnels; We will create descriptions for your book using proven sales copy that virtually forces people to click the BUY button on Amazon"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field16",
+            "fieldTitle": "What is the first bonus you're giving them to sweeten the offer?",
+            "fieldHint": [ 
+                {"hint1": "Ex: My entire Ad Secrets Training Course; My Million Dollar Funnel; We will create a Killer Kindle Cover"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field17",
+            "fieldTitle": "What is the value of that first bonus?",
+            "fieldHint": [ 
+                {"hint1": "\"Ex: $197; $497; $1997"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field18",
+            "fieldTitle": "What is the 2nd bonus you're giving them to sweeten the offer?",
+            "fieldHint": [ 
+                {"hint1": "Ex: 12 Custom Ad Templates; My Dirty Dozen Best Funnel Templates; 30 Minute Cover Consultation and Planning Session"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field19",
+            "fieldTitle": "What is the value of that 2nd bonus?",
+            "fieldHint": [ 
+                {"hint1": "Ex: $197; $497; $1997"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field20",
+            "fieldTitle": "What is the 3rd bonus you're giving them to sweeten the offer?",
+            "fieldHint": [ 
+                {"hint1": "Ex: 5 Ad Review Certificates; Google AdWords Friendly Funnel Templates; Email Blast To My List - I'll tell my list of 100,000 subscribers about each new book you publish!"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field21",
+            "fieldTitle": "What is the value of that 3rd bonus?",
+            "fieldHint": [ 
+                {"hint1": "Ex: $197; $497; $1997"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field22",
+            "fieldTitle": "Testimonial #1",
+            "fieldHint": [ 
+                {"hint1": "Optional but highly recommended"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field23",
+            "fieldTitle": "Testimonial #2",
+            "fieldHint": [ 
+                {"hint1": "Optional but highly recommended"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field24",
+            "fieldTitle": "Testimonial #3",
+            "fieldHint": [ 
+                {"hint1": "Optional but highly recommended"}
+            ]
+        }
+    ]
+}

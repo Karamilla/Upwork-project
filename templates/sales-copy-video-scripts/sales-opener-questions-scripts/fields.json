@@ -1,0 +1,45 @@
+{
+    "name": "Sales Opener Questions Scripts",
+    "fields": [
+        {
+            "fieldPropertyName:":"field1",
+            "fieldTitle": "Who is your Target Niche member? (singular)",
+            "fieldHint": [ 
+                {"hint1": "\"My target audience is a _____\""},
+                {"hint2": "Ex: speaker, small business owner, home owner, investor, copywriter, advertiser"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field2",
+            "fieldTitle": "What is the #1 Good Thing they want MORE of?",
+            "fieldHint": [ 
+                {"hint1": "\"They want more _____\""},
+                {"hint2": "Ex: speaking gigs, sales, growth in your small business, financial freedom, high converting ads"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field3",
+            "fieldTitle": "What is the #2 Good Thing they also want MORE of?",
+            "fieldHint": [ 
+                {"hint1": "\"They also want more _____\""},
+                {"hint2": "Ex: back of room sales, leads, free time in your small business, guaranteed return on your investments, clicks to your website"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field4",
+            "fieldTitle": "#1 Negative thing they want to avoid?",
+            "fieldHint": [ 
+                {"hint1": "\"They want to avoid _____\""},
+                {"hint2": "Ex: not having any speaking gigs, negative cashflow, refunds, shrinking profit margins, huge debt, crappy ads"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field5",
+            "fieldTitle": "#2 Negative thing they want to avoid?",
+            "fieldHint": [ 
+                {"hint1": "\"They want to avoid _____\""},
+                {"hint2": "Ex: terrible back of the room sales rate, declining sales, low customer traffic, time vampire clients, soul crushing monthly bills, outrageously expensive leads"}
+            ]
+        }
+    ]
+}

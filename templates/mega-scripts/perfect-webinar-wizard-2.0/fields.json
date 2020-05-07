@@ -1,0 +1,724 @@
+{
+	"name" : "Perfect Webinar Wizard",
+	"fields" : [
+		{
+            "fieldPropertyName:":"field1",
+            "fieldTitle": "Your Name",
+            "fieldHint": [ 
+                {"hint1": "What is your name?"},
+                {"hint2": "Ex: Russell Brunson, Jim Edwards"},
+                {"hint3": "NOTE: Make sure to have your copy of the \"Expert Secrets\" book handy!"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field2",
+            "fieldTitle": "Title of Webinar",
+            "fieldHint": [ 
+                {"hint1": "What is the title of your webinar?"},
+                {"hint2": "Ex: How To Sell High Ticket Products Without Cold Calling; How To Set Up a 7-Figure Funnel in 30 Minutes Without Being Held Hostage By a Tech guy; How To Get Your Book To #1 On Amazon without Wasting a Dime On Pay-Per-Click Ads, etc.) (Expert Secrets, p. 157)"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field3",
+            "fieldTitle": "Target Audience (singular)",
+            "fieldHint": [ 
+                {"hint1": "Who is your target audience (singular)?"},
+                {"hint2": "\"My target audience is a ______.\""},
+                {"hint3" : "Ex: online marketer; ebook author; speaker; small business owner; home owner; investor; copywriter; advertiser, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field4",
+            "fieldTitle": "Target Audience (plural)",
+            "fieldHint": [ 
+                {"hint1": "Who is your target audience (PLURAL)"},
+                {"hint2": "\"______ are my target audience.\""},
+                {"hint3" : "Ex: online marketers; ebook authors; speakers; small business owners; home owners; investors; copywriters; advertisers, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field5",
+            "fieldTitle": "New Opportunity",
+            "fieldHint": [ 
+                {"hint1": "What is the NEW OPPORTUNITY you're offering? (2-5 words)"},
+                {"hint2": "Expert Secrets, pp. 48-61, 160-161"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field6",
+            "fieldTitle": "Vehicle",
+            "fieldHint": [ 
+                {"hint1": "What is the VEHICLE that makes your New Opportunity possible?"},
+                {"hint2": "(Ex: High Ticket Blueprint; ClickFunnels; Ebook Marketing Machine, etc.)"},
+                {"hint3" : "Expert Secrets, pp. 48-61, 160-161"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field7",
+            "fieldTitle": "Background / Back Story / Qualify Yourself",
+            "fieldHint": [ 
+                {"hint1": "What is your BACKGROUND as it relates to your audience and the topic? (3-4 Bullets)"},
+                {"hint2": "(Ex: education; awards; accomplishments; cool personal facts, etc.)"},
+                {"hint3": "*(Multi-line Bulleted List. Hit ENTER for each new list item, etc.)"},
+                {"hint4": "Expert Secrets, pp. 161-162"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field8",
+            "fieldTitle": "Epiphany Bridge Story",
+            "fieldHint": [ 
+                {"hint1": "What is YOUR Epiphany Bridge Story?"},
+                {"hint2": "Create Story using Funnel Scripts (Click Here)=> Epiphany Bridge Script"},
+                {"hint3": "Enter bullet outline of your story here. Hit ENTER for each new list item, etc."},
+                {"hint4": "Expert Secrets, pp. 114-127, 162"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field9",
+            "fieldTitle": "How Your Story Applies To Them",
+            "fieldHint": [ 
+                {"hint1": "HOW does your Epiphany Bridge Story apply to your audience's situation?"},
+                {"hint2": "\"Here's how my story /background applies to your situation _______.\""},
+                {"hint3": "*(Multi-line Bulleted List. Hit ENTER for each new list item, etc.)"},
+                {"hint4": "Expert Secrets, p. 163"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field10",
+            "fieldTitle": "Proof!",
+            "fieldHint": [ 
+                {"hint1": "What proof / case study / example do you have to show how it will also work for them?"},
+                {"hint2": "\"But it's not just me. Here's proof this'll work for you too.\""},
+                {"hint3": "*(Multi-line Bulleted List. Hit ENTER for each new list item, etc.)"},
+                {"hint4": "Expert Secrets, p. 164"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field11",
+            "fieldTitle": "Big Payoff #1",
+            "fieldHint": [ 
+                {"hint1": "What is the #1 big payoff your audience wants in this area?"},
+                {"hint2": "They REALLY want to know how to _____.\"(VERB)"},
+                {"hint3": "Ex: make more money online; get more speaking gigs; increase sales; double growth in your small business; reach financial freedom; create high converting ads, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field12",
+            "fieldTitle": "Big Payoff #2",
+            "fieldHint": [ 
+                {"hint1": "What is the #2 big payoff your audience wants in this area?"},
+                {"hint2": "\"They also REALLY want to know how to _____.\"(VERB)"},
+                {"hint3": "Ex: create higher income from fewer sales; set up profitable marketing funnels; get more leads; enjoy free time in your small business; get a higher return on your investments, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field13",
+            "fieldTitle": "Enemy",
+            "fieldHint": [ 
+                {"hint1": "WHO is the ENEMY in this area? (PLURAL)"},
+                {"hint2": "Ex: big corporations; speaker bureaus; traditional publishers; Google; Realtors; Bankers; Lawyers; Financial Planners, etc.))"},
+                {"hint3": "Expert Secrets, p. 25"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field14",
+            "fieldTitle": "#1 Pain",
+            "fieldHint": [ 
+                {"hint1": "What is the #1 pain / problem they want to avoid in this area?"},
+                {"hint2": "(VERB ending in \"ING\")"},
+                {"hint3": "\"They REALLY want to AVOID _____.\""},
+                {"hint4": "Ex: having to sell people over the phone; begging for speaking gigs; suffering from negative cashflow; getting bogged down in all the technical stuff; dealing with crappy ads, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field15",
+            "fieldTitle": "#2 Pain",
+            "fieldHint": [ 
+                {"hint1": "What is the #1 pain / problem they want to avoid in this area?"},
+                {"hint2": "(VERB ending in \"ING\")"},
+                {"hint3": "\"They REALLY want to AVOID _____.\""},
+                {"hint4": "Ex: being held hostage by a tech guy; suffering from declining sales; facing soul crushing monthly bills; paying for outrageously expensive leads, etc"}
+            ]
+        },
+         {
+            "fieldPropertyName:":"field16",
+            "fieldTitle": "The Big How To",
+            "fieldHint": [ 
+                {"hint1": "What is the One BIG HOW TO you'll focus on the webinar?"},
+                {"hint2": "(Big \"HOW TO\")"},
+                {"hint3": "Include \"how to\" at the start of your answer."},
+                {"hint4": "Ex: how to add high ticket sales to your sales funnel instantly; how to write a really great book to build your business; how to set up a sales funnel in 30 minutes, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field17",
+            "fieldTitle": "Secret #1 - The Vehicle",
+            "fieldHint": [ 
+                {"hint1": "What is the first secret you'll share on the webinar?"},
+                {"hint2": "Ex: How To Ethically Steal Over $1,000,000 Worth of Funnel Hacks From Your Competitors For Under $100; How To Write A Best Seller In Less Than 3 Hours, etc."},
+                {"hint3": "Expert Secrets, pp. 134-136, 169"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field18",
+            "fieldTitle": "Secret #1 - The Vehicle",
+            "fieldHint": [ 
+                {"hint1": "What is their existing limiting belief about this (vehicle) secret?"},
+                {"hint2": "\"I don't understand how it (vehicle) will _______.\""},
+                {"hint3": "(Ex: work for me; help me make a 7-figure funnel; help me write better ads; help me sell more books, etc.) (Expert Secrets, p. 137)"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field19",
+            "fieldTitle": "Secret #1 - The Vehicle",
+            "fieldHint": [ 
+                {"hint1": "How will you break and reframe that (vehicle) limiting belief?"},
+                {"hint2": "\"The truth is ______.\""},
+                {"hint3": "Ex: the sales funnel process works to sell ANYTHING; you can create a 100 page book in 2 hours if you \"phone a friend\"; the best way to write ads is to MODEL proven ads, etc."},
+                {"hint4": "Expert Secrets, p. 172"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field20",
+            "fieldTitle": "Secret #1 - The Vehicle",
+            "fieldHint": [ 
+                {"hint1": "What Epiphany Bridge Story and points will you cover on this first secret?"},
+                {"hint2": "Get points down/ flesh out later: stories, talking points, demo's, processes, etc."},
+                {"hint3": "*(Multi-line Bulleted List. Hit ENTER for each new list item, etc.)"},
+                {"hint4": "Expert Secrets, p. 169"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field21",
+            "fieldTitle": "Secret #1 - The Vehicle",
+            "fieldHint": [ 
+                {"hint1": "What PROOF do you have to support this first secret?"},
+                {"hint2": "Get points down/ flesh out later: stats, examples, case studies, other PROOF, etc."},
+                {"hint3": "*(Multi-line Bulleted List. Hit ENTER for each new list item, etc.)"},
+                {"hint4": "Expert Secrets, p. 170"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field22",
+            "fieldTitle": "Secret #1 - The Vehicle",
+            "fieldHint": [ 
+                {"hint1": "What other limiting beliefs do we need to address about the Vehicle?"},
+                {"hint2": "\"I don't understand how it (vehicle) will _______.\""},
+                {"hint3": "*(Multi-line Bulleted List. Hit ENTER for each new list item, etc.)"},
+                {"hint4": "Expert Secrets, p. 171-172"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field23",
+            "fieldTitle": "Secret #2 - Internal Beliefs",
+            "fieldHint": [ 
+                {"hint1": "What is the second secret you'll share on the webinar?"},
+                {"hint2": "Ex: How To Then Clone Their PROVEN Funnel (Inside ClickFunnels) in Less Than 10 Minutes; How To Create Your Entire Book Without Writing a SINGLE Word, etc."},
+                {"hint4": "Expert Secrets, p. 134-136, 169"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field24",
+            "fieldTitle": "Secret #2 - Internal Beliefs",
+            "fieldHint": [ 
+                {"hint1": "What is their existing limiting belief about this (Internal Beliefs) secret?"},
+                {"hint2": "\"I'm not _______.\""},
+                {"hint3": "(Ex: good at technical stuff; a writer; technically inclined, etc.)"},
+                {"hint4": "Expert Secrets, p. 137"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field25",
+            "fieldTitle": "Secret #2 - Internal Beliefs",
+            "fieldHint": [ 
+                {"hint1": "How will you break and reframe that (Internal Beliefs) limiting belief?"},
+                {"hint2": "\"That doesn't matter because _______.\""},
+                {"hint3": "Ex: ClickFunnels does all the work for you; if you can talk on the phone to a friend, you can create content, etc."},
+                {"hint4": "Expert Secrets, p. 172"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field26",
+            "fieldTitle": "Secret #2 - Internal Beliefs",
+            "fieldHint": [ 
+                {"hint1": "What Epiphany Bridge Story and points will you cover on this second secret?"},
+                {"hint2": "Get points down/ flesh out later: stories, talking points, demo's, processes, etc."},
+                {"hint3": "*(Multi-line Bulleted List. Hit ENTER for each new list item, etc.)"},
+                {"hint4": "Expert Secrets, p. 169"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field27",
+            "fieldTitle": "Secret #2 - Internal Beliefs",
+            "fieldHint": [ 
+                {"hint1": "What PROOF do you have to support this second secret?"},
+                {"hint2": "Get points down/ flesh out later: stats, examples, case studies, other PROOF, etc."},
+                {"hint3": "*(Multi-line Bulleted List. Hit ENTER for each new list item, etc.)"},
+                {"hint4": "Expert Secrets, p. 170"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field28",
+            "fieldTitle": "Secret #2 - Internal Beliefs",
+            "fieldHint": [ 
+                {"hint1": "What other limiting beliefs do we need to address about their INTERNAL Beliefs?"},
+                {"hint2": "\"I'm not _______.\""},
+                {"hint3": "*(Multi-line Bulleted List. Hit ENTER for each new list item, etc.)"},
+                {"hint4": "Expert Secrets, p. 171-172"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field29",
+            "fieldTitle": "Secret #3 - External Beliefs",
+            "fieldHint": [ 
+                {"hint1": "What is the third secret you'll share on the webinar?"},
+                {"hint2": "(Ex: How To Get The Exact SAME Customers Who Are Going To Your Competitors' Funnels... To Start Coming To Your Funnel Instead; How To Make Your Book A Best Seller Even If You Have NO List, etc.) (Expert Secrets, pp. 134-136, 169)"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field30",
+            "fieldTitle": "Secret #3 - External Beliefs",
+            "fieldHint": [ 
+                {"hint1": "What is their existing limiting belief about this (External Beliefs) secret?"},
+                {"hint2": "\"I don't know how to _______.\""},
+                {"hint3": "Ex: get traffic to my funnel; sell my book once it's written, etc."},
+                {"hint4": "Expert Secrets, p. 138"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field31",
+            "fieldTitle": "Secret #3 - External Beliefs",
+            "fieldHint": [ 
+                {"hint1": "How will you break and reframe that (External Beliefs) limiting belief?"},
+                {"hint2": "\"That's no problem because _______.\""},
+                {"hint3": "(Ex: you can see where your competitors are getting their traffic and run ads too; you can make money with your book without it ever being a best seller, etc.) (Expert Secrets, p. 172)"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field32",
+            "fieldTitle": "Secret #3 - External Beliefs",
+            "fieldHint": [ 
+                {"hint1": "What Epiphany Bridge Story and points will you cover on this third secret?"},
+                {"hint2": "(Get points down/ flesh out later: stories, talking points, demo's, processes, etc.)"},
+                {"hint3": "*(Multi-line Bulleted List. Hit ENTER for each new list item, etc.)"},
+                {"hint4": "Expert Secrets, p. 169"}
+            ]
+        },
+         {
+            "fieldPropertyName:":"field33",
+            "fieldTitle": "Secret #3 - External Beliefs",
+            "fieldHint": [ 
+                {"hint1": "What PROOF do you have to support this third secret?"},
+                {"hint2": "Get points down/ flesh out later: stats, examples, case studies, other PROOF, etc."},
+                {"hint3": "*(Multi-line Bulleted List. Hit ENTER for each new list item, etc.)"},
+                {"hint4": "Expert Secrets, p. 170"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field34",
+            "fieldTitle": "Secret #3 - External Beliefs",
+            "fieldHint": [ 
+                {"hint1": "What other limiting beliefs do we need to address about their EXTERNAL Beliefs?"},
+                {"hint2": "\"I don't know how to _______.\""},
+                {"hint2": "*(Multi-line Bulleted List. Hit ENTER for each new list item, etc.)"},
+                {"hint2": "Expert Secrets, pp. 171-172"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field35",
+            "fieldTitle": "Name / Title Of What You're Selling",
+            "fieldHint": [ 
+                {"hint1": "Name of what you're selling at the end of the webinar?"},
+                {"hint2": "\"The Title of my offer package is __________.\""},
+                {"hint3": "Ex: Million Dollar Funnel Blueprint; High Ticket Profits Secrets; 27 Day Book Blueprint; Million Dollar Sales Copy Secrets, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field36",
+            "fieldTitle": "What You'll Sell",
+            "fieldHint": [ 
+                {"hint1": "What are you actually selling on the webinar?"},
+                {"hint2": "\"I am selling a __________.\""},
+                {"hint3": "Ex: package of software and tools; home study course; software; coaching; service, etc"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field37",
+            "fieldTitle": "Deliverable #1 - Masterclass",
+            "fieldHint": [ 
+                {"hint1": "What's the NAME of the big training / service or CORE product of your offer?"},
+                {"hint2": "Ex: 6 Week Funnel Hacks Masterclass; Ebook Marketing Machine, etc."},
+                {"hint3": "Expert Secrets, pp. 146, 179-180"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field38",
+            "fieldTitle": "Deliverable #1 - Masterclass",
+            "fieldHint": [ 
+                {"hint1": "What's IN the big training / service or CORE product of your offer?"},
+                {"hint2": "List all the big stuff off"},
+                {"hint3": "*One item/ line becomes bulleted list"},
+                {"hint4": "Expert Secrets, pp. 180-181"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field39",
+            "fieldTitle": "Deliverable #1 - Masterclass",
+            "fieldHint": [ 
+                {"hint1": "What proof / case studies do you have that this works?"},
+                {"hint2": "*One item/ line becomes bulleted list"},
+                {"hint3": "Expert Secrets, p. 181"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field40",
+            "fieldTitle": "Deliverable #1 - Masterclass",
+            "fieldHint": [ 
+                {"hint1": "List off all the types of people that this works for!"},
+                {"hint2": "\"This works for ____ who want to _____.\""},
+                {"hint3": "List off several different groups. *One item/ line becomes bulleted list"},
+                {"hint4": "Expert Secrets, p. 182"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field41",
+            "fieldTitle": "Deliverable #1 - Masterclass",
+            "fieldHint": [ 
+                {"hint1": "What's #1 excuse why people don't get started and how do you answer that objection?"},
+                {"hint2": "\"You might be thinking you can't get started because... Here's why that's a mistake that will hold you back from success...\""},
+                {"hint2": "Expert Secrets, p. 183"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field42",
+            "fieldTitle": "Deliverable #1 - Masterclass",
+            "fieldHint": [ 
+                {"hint1": "How much is that big class / training / service / CORE product worth?"},
+                {"hint2": "Ex: $997; $497; $297, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field43",
+            "fieldTitle": "Deliverable #2 - Tools",
+            "fieldHint": [ 
+                {"hint1": "What TOOLS do they get to make things a LOT easier?"},
+                {"hint2": "Could be just one tool (Ex: \"ClickFunnels\") or a list of several tools.*One item/ line becomes bulleted list(Expert Secrets, p. 146)"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field44",
+            "fieldTitle": "Deliverable #2 - Tools",
+            "fieldHint": [ 
+                {"hint1": "List off what these tools will enable them to DO!"},
+                {"hint2": "\"With these tools you'll be able to _____.\""},
+                {"hint3": "One item/ line becomes bulleted list"},
+                {"hint4": "Expert Secrets, p. 185"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field45",
+            "fieldTitle": "Deliverable #2 - Tools",
+            "fieldHint": [ 
+                {"hint1": "List off what these tools will enable them to GET RID OF!"},
+                {"hint2": "\"With these tools you can get rid of _____.\""},
+                {"hint3": "One item/ line becomes bulleted list"},
+                {"hint4": "Expert Secrets, p. 185"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field46",
+            "fieldTitle": "Deliverable #2 - Tools",
+            "fieldHint": [ 
+                {"hint1": "What problem did these TOOLS solve for YOU?"},
+                {"hint2": "\"I didn't know how to / wasn't able to _____. So I had to create / find a way to ____ for myself.\""},
+                {"hint3": "Expert Secrets, pp. 185-186"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field47",
+            "fieldTitle": "Deliverable #2 - Tools",
+            "fieldHint": [ 
+                {"hint1": "How much time and mone will these tools save them?"},
+                {"hint2": "\"This will save you a ton of time and money because ____.\""},
+                {"hint3": "One item/ line becomes bulleted list"},
+                {"hint4": "Expert Secrets, p. 185"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field48",
+            "fieldTitle": "Deliverable #2 - Tools",
+            "fieldHint": [ 
+                {"hint1": "What's #1 excuse why people don't get started with these tools and how do you answer that?"},
+                {"hint2": "\"You might be thinking you can't use these tools because... Here's why that's not true and will hold you back from success...\""},
+                {"hint3": "Expert Secrets, p. 187"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field49",
+            "fieldTitle": "Deliverable #2 - Tools",
+            "fieldHint": [ 
+                {"hint1": "How much are those tools worth?"},
+                {"hint2": "Ex: $997; $497; $297"}
+            ]
+        },
+         {
+            "fieldPropertyName:":"field50",
+            "fieldTitle": "Deliverable #3 - Tangible #1 (related To Vehicle)",
+            "fieldHint": [ 
+                {"hint1": "What do they get that proves the vehicle works and will work for them?"},
+                {"hint2": "Ex: Million Dollar Funnel Clones; your case studies; student case studies; examples, etc."},
+                {"hint3": "Expert Secrets, p. 147"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field51",
+            "fieldTitle": "Deliverable #3 - Tangible #1 (related To Vehicle)",
+            "fieldHint": [ 
+                {"hint1": "What was the pain and cost to you to create this deliverable?"},
+                {"hint2": "\"I had to go through _____ and _____ to get _____. But you won't have to because I'm giving you _____.\""},
+                {"hint3": "Expert Secrets, p. 188-189"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field52",
+            "fieldTitle": "Deliverable #3 - Tangible #1 (related To Vehicle)",
+            "fieldHint": [ 
+                {"hint1": "How will this make it easier and faster for them to get results?"},
+                {"hint2": "\"This is going to make it faster and easier for you to ____. How? Because it ____."},
+                {"hint3": "Expert Secrets, p. 189"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field53",
+            "fieldTitle": "Deliverable #3 - Tangible #1 (related To Vehicle)",
+            "fieldHint": [ 
+                {"hint1": "What's #1 excuse why people don't get started with this and how do you answer that?"},
+                {"hint2": "\"You might be thinking you can't use this because... Here's why that's not true and will hold you back from success...\""},
+                {"hint3": "Expert Secrets, p. 189"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field54",
+            "fieldTitle": "Deliverable #3 - Tangible #1 (related To Vehicle)",
+            "fieldHint": [ 
+                {"hint1": "How much is that worth?"},
+                {"hint2": "Ex: $997; $497; $297"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field55",
+            "fieldTitle": "Deliverable #4 - Tangible #2 (related To Their Internal Struggle)",
+            "fieldHint": [ 
+                {"hint1": "What do they get that removes their main internal struggle?"},
+                {"hint2": "ex: Copywritng Secrets Course; Ad Writing Course; 101 Amazing Fiction Plotlines, etc."},
+                {"hint3": "Expert Secrets, p. 148"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field56",
+            "fieldTitle": "Deliverable #4 - Tangible #2 (related To Their Internal Struggle)",
+            "fieldHint": [ 
+                {"hint1": "What was the pain and cost to you to create this?"},
+                {"hint2": "\"I had to go through ___ and ___ to get ____. But you wont' have to because I'm giving you ____.\""},
+                {"hint3": "Expert Secrets, p. 188"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field57",
+            "fieldTitle": "Deliverable #4 - Tangible #2 (related To Their Internal Struggle)",
+            "fieldHint": [ 
+                {"hint1": "How will this make it easier and faster for them to get results?"},
+                {"hint2": "\"This is going to make it faster and easier for you to ____. How? Because it ____."},
+                {"hint3": "Expert Secrets, p. 189"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field58",
+            "fieldTitle": "Deliverable #4 - Tangible #2 (related To Their Internal Struggle)",
+            "fieldHint": [ 
+                {"hint1": "What's #1 excuse why people don't get started with this and how do you answer that?"},
+                {"hint2": "\"You might be thinking you can't use this because... That's not true because...\""},
+                {"hint3": "Expert Secrets, p. 189"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field59",
+            "fieldTitle": "Deliverable #4 - Tangible #2 (related To Their Internal Struggle)",
+            "fieldHint": [ 
+                {"hint1": "How much is that worth?"},
+                {"hint2": "Ex: $997; $497; $297"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field60",
+            "fieldTitle": "Deliverable #5 - Tangible #3 (related To An External Struggle)",
+            "fieldHint": [ 
+                {"hint1": "What do they get that eliminates what they see as an external roadblock?"},
+                {"hint2": "ex: Instant Traffic Hacks; Facebook Ad Promo Hacks; Speaker Booking Hacks, etc."},
+                {"hint3": "Expert Secrets, p. 148"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field61",
+            "fieldTitle": "Deliverable #5 - Tangible #3 (related To An External Struggle)",
+            "fieldHint": [ 
+                {"hint1": "What was the pain and cost to you to create this?"},
+                {"hint2": "\"I had to go through ___ and ___ to get ____. But you wont' have to because I'm giving you ____.\""},
+                {"hint3": "Expert Secrets, p. 188"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field62",
+            "fieldTitle": "Deliverable #5 - Tangible #3 (related To An External Struggle)",
+            "fieldHint": [ 
+                {"hint1": "How will this make it easier and faster for them to get results?"},
+                {"hint2": "This is going to make it faster and easier for you to ____. How? Because it ____."},
+                {"hint3": "Expert Secrets, p. 189"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field63",
+            "fieldTitle": "Deliverable #5 - Tangible #3 (related To An External Struggle)",
+            "fieldHint": [ 
+                {"hint1": "What's #1 excuse why people don't get started with this and how do you answer that?"},
+                {"hint2": "\"You might be thinking you can't use this because... Here's why that's not true and will hold you back from success...\""},
+                {"hint2": "Expert Secrets, p. 189"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field64",
+            "fieldTitle": "Deliverable #5 - Tangible #3 (related To An External Struggle)",
+            "fieldHint": [ 
+                {"hint1": "How much is that worth?"},
+                {"hint2": "Ex: $997; $497; $297"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field65",
+            "fieldTitle": "Total Value",
+            "fieldHint": [ 
+                {"hint1": "How much is what you're selling worth?"},
+                {"hint2": "TOTAL Up ALL Deliverables you just listed"},
+                {"hint3": "Aim for at least TEN Times (10X) the actual price you charge"},
+                {"hint4": "Ex: $5,000; $4,500; $2,000, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field66",
+            "fieldTitle": "Regular Price",
+            "fieldHint": [ 
+                {"hint1": "What is the REGULAR price you sell this for on your website?"},
+                {"hint2": "Ex: $997; $497; $97, etc."}
+            ]
+        },
+         {
+            "fieldPropertyName:":"field67",
+            "fieldTitle": "Price Drop Reason",
+            "fieldHint": [ 
+                {"hint1": "WHY are you dropping the price when they buy TODAY?"},
+                {"hint2": "\"I'm giving you a special discount today because _____.\""},
+                {"hint3": "Ex: you're here with me live on this webinar; as a favor to ______, etc."},
+                {"hint4": "Expert Secrets, pp. 195-196"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field68",
+            "fieldTitle": "Special Price",
+            "fieldHint": [ 
+                {"hint1": "What is the price for what you're selling when they buy TODAY?"},
+                {"hint2": "Ex: $997; $497; $97, etc"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field69",
+            "fieldTitle": "If / All Statements - Vehicle (related To Secret #1)",
+            "fieldHint": [ 
+                {"hint1": "Complete the following statement related to the VEHICLE:"},
+                {"hint2": "\"If all this did / got you was _______, would it be worth it?\" (starts with a VERB)"},
+                {"hint3": "Ex: help you get your funnels set up without being held hostage by a tech guy, etc"},
+                {"hint4": "Expert Secrets, pp. 192-193"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field70",
+            "fieldTitle": "If / All Statements - Internal (related To Secret #2)",
+            "fieldHint": [ 
+                {"hint1": "Complete the following statement related to their INTERNAL BELIEF:"},
+                {"hint2": "If all this did was _______, would it be worth it? (starts with a VERB)"},
+                {"hint3": "Ex: show you how to get it all done yourself even if you're not technical, etc."},
+                {"hint4": "Expert Secrets, pp. 192-193"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field71",
+            "fieldTitle": "If / All Statements - External (related To Secret #3)",
+            "fieldHint": [ 
+                {"hint1": "Complete the following statement related to their EXTERNAL BELIEF:"},
+                {"hint2": "\"If all this did was _______, would it be worth it?\" (starts with a VERB)"},
+                {"hint3": "Ex: help you drive a ton of traffic and make more sales, etc."},
+                {"hint4": "Expert Secrets, pp. 192-193"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field72",
+            "fieldTitle": "Exclusive Bonus (urgency & Scarcity)",
+            "fieldHint": [ 
+                {"hint1": "What's your #1 BEST bonus that creates urgency and scarcity?"},
+                {"hint2": "ex: Unlimited Funnels In Your Account (First 50 Only); 12 Ebook Templates, etc."},
+                {"hint2": "Expert Secrets, p. 149"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field73",
+            "fieldTitle": "Exclusive Bonus (urgency & Scarcity)",
+            "fieldHint": [ 
+                {"hint1": "What was the pain and cost to you to create this bonus?"},
+                {"hint2": "\"I had to go through ___ and ___ to get ____. But you wont' have to because I'm giving you ____.\""},
+                {"hint3": "Expert Secrets, p. 188"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field74",
+            "fieldTitle": "Exclusive Bonus (urgency & Scarcity)",
+            "fieldHint": [ 
+                {"hint1": "How will this bonus make it easier and faster for them to get results?"},
+                {"hint2": "This is going to make it faster and easier for you to ____. How? Because it ____."},
+                {"hint3": "Expert Secrets, p. 189"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field75",
+            "fieldTitle": "Exclusive Bonus (urgency & Scarcity)",
+            "fieldHint": [ 
+                {"hint1": "What's #1 excuse why people don't get started w/ this bonus & how do you answer?"},
+                {"hint2": "\"You might be thinking you can't use this because... Here's why that's not true and will hold you back from success...\""},
+                {"hint3": "Expert Secrets, p. 189"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field76",
+            "fieldTitle": "Exclusive Bonus (urgency & Scarcity)",
+            "fieldHint": [ 
+                {"hint1": "How much is this #1 BEST bonus worth?"},
+                {"hint2": "Ex: PRICELESS, $1,997; $997; $497"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field77",
+            "fieldTitle": "Timeframe",
+            "fieldHint": [ 
+                {"hint1": "How fast can they expect to see results?"},
+                {"hint2": "\"You'll start to see real results ______.\""},
+                {"hint3": "Ex: in 1 Week or less; in less than 30 days; in just 30 minutes; fast; faster than you ever dreamed possible, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field78",
+            "fieldTitle": "Offer Link",
+            "fieldHint": [ 
+                {"hint1": "What is the special url they should go to and claim the webinar deal?"},
+                {"hint2": "Ex: MySite.com/specialoffer/, etc."}
+            ]
+        }
+	]
+}

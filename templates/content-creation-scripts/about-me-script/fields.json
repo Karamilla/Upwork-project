@@ -1,0 +1,110 @@
+{
+    "name": "About Me Page Script",
+    "fields": [
+        {
+            "fieldPropertyName:":"field1",
+            "fieldTitle": "What is your name or the name of your company this page is about?",
+            "fieldHint": [ 
+                {"hint1": "My name / company name is _____."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field2",
+            "fieldTitle": "What is the area of focus for this website in 2-3 words?",
+            "fieldHint": [ 
+                {"hint1": "\"In a nutshell, this website is about _____.\""},
+                {"hint2": "Ex: book writing; marketing funnels; marriage improvement, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field3",
+            "fieldTitle": "What is your target audience? (PLURAL)",
+            "fieldHint": [ 
+                {"hint1": "_____ are my target audience."},
+                {"hint2": "Ex: authors, funnel hackers, married couples, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field4",
+            "fieldTitle": "What is the #1 thing your audience really wants?",
+            "fieldHint": [ 
+                {"hint1": "My audience really wants to _____."},
+                {"hint2": "Ex: make more book sales; make more product sales; have a closer relationship, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field5",
+            "fieldTitle": "What is the #2 thing your audience really wants?",
+            "fieldHint": [ 
+                {"hint1": "\"My audience also really wants to _____.\""},
+                {"hint2": "Ex: build up a big audience; build a huge customer base; rekindle that fire and romance, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field6",
+            "fieldTitle": "What is the #3 thing your audience really wants?",
+            "fieldHint": [ 
+                {"hint1": "My audience also really wants to _____."},
+                {"hint2": "Ex: bank big royalty checks; make big commissions; build a solid foundation of mutual support and trust, etc"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field7",
+            "fieldTitle": "What is the BIG, GIANT payoff your target audience wants? (VERB)",
+            "fieldHint": [
+                {"hint1": "My target audience wants to _____."},
+                {"hint2": "Ex: write their books super fast; create amazing sales funnels in an hour; save their marriage, etc."}
+             
+            ]
+        },
+        {
+            "fieldPropertyName:":"field8",
+            "fieldTitle": "Education: What education (formal or informal) do you have that would catch the attention of your target audience?",
+            "fieldHint": [ 
+                {"hint1": "** One thought / item per line per line becomes bulleted list"},
+                {"hint2": "Ex: Masters In Education; PhD. From School of Hard Knocks; Graduate of College of William and Mary; Self-taught copywriter and webmaster"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field9",
+            "fieldTitle": "Experience: What is your / the company's work or business experience as it relates to this website?",
+            "fieldHint": [ 
+                {"hint1": "** One thought / item per line becomes bulleted list"},
+                {"hint2": "Use verbs & action words"},
+                {"hint3": "Ex: Spent 10 years as a syndicated newspaper columnist; Worked as VP of training for Fortune 500 Corp and trained 10,000 people annually; Taught for 15 years at prestigious college in area of expertise, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field10",
+            "fieldTitle": "Kudos: What awards, titles, and /or designations do you / the company have that are relevant to your target audience?",
+            "fieldHint": [ 
+                {"hint1": "** One thought / item per line becomes bulleted list"},
+                {"hint2": "Ex: Toastmasters; CSP/CPAE from National Speakers Association; Golden Gavel Winner; Amazon Best Selling Author of numerous books, including \"Zombie Apocalypse Diaries\" and \"Book Writing Mistakes\""}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field11",
+            "fieldTitle": "The Right: What are some things about you / the company that give you the \"right\" to help people in this area?",
+            "fieldHint": [ 
+                {"hint1": "** One thought / item per line becomes bulleted list"},
+                {"hint2": "Ex: Started selling ebooks in 1997; Been written up in the NY Times and Entrepreneur Magazine; Spoken in 22 countries on self publishing; Have customers in over 100+ countries around the globe."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field12",
+            "fieldTitle": "Cool Fun Facts: What are some super cool things about the you / the company that people would think were really interesting and show \"true character?\"",
+            "fieldHint": [ 
+                {"hint1": "** One thought / item per line becomes bulleted list"},
+                {"hint2": "Ex: Wrestled in College; Featured on front cover of New York Times; Spoke in 7 different countries in 6 days; Grandpa at age 39; went from bankrupt to a paid off house in 18 months, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field13",
+            "fieldTitle": "Obstacles: What are some big obstacles you / the company have overcome in life or business?",
+            "fieldHint": [ 
+                {"hint1": "** One thought / item per line becomes bulleted list"},
+                {"hint2": "Ex: Prostate Cancer Survivor; Bankruptcy; Lived in a trailer park for 7 years; Developed a heart condition at age 31, etc"}
+            ]
+        }
+    ]
+}

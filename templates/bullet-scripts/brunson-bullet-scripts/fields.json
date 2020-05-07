@@ -1,0 +1,97 @@
+{
+    "name": "Brunson Bullet Scripts",
+    "fields": [
+        {
+            "fieldPropertyName:":"field1",
+            "fieldTitle": "What type of bullets are you creating?",
+            "fieldHint": [ 
+                {"hint1": "Each of these is a ______."},
+                {"hint2": "Ex: Tip; Timestamp; Bonus; Strategy; Page; Point, etc"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field2",
+            "fieldTitle": "\"My product / service HELPS you ______.\"",
+            "fieldHint": [ 
+                {"hint1": "Ex: pass your pt test; make more money; get a better job; write a book fast; figure out the most profitable titles to write a book about; fix your dog's aggression problems in social situations, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field3",
+            "fieldTitle": "\"My product / service GETS YOU more ______.\"",
+            "fieldHint": [ 
+                {"hint1": "Ex: confidence in your testing ability; traffic to your website to sell your book; confident to take your dog out in public, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field4",
+            "fieldTitle": "\"My product / service makes it EASY to ______.\"",
+            "fieldHint": [ 
+                {"hint1": "Ex: crush your next pt test; finish your book in less than a week; detect what's causing your dog's aggression and take proper corrective action, etc"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field5",
+            "fieldTitle": "My product / service GIVES you ______.",
+            "fieldHint": [ 
+                {"hint1": "Ex: the confidence to do well on your pt test; the confidence to finish your book and start selling it; the tools you need to respond to all different types of aggression, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field6",
+            "fieldTitle": "My product / service helps you AVOID ______.",
+            "fieldHint": [ 
+                {"hint1": "Ex: the common PT testing mistakes that kill your results; the big mistakes that cause most people to quit before they really get started; letting your dog's aggression get out of control, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field7",
+            "fieldTitle": "My product/service helps you discover the real SECRET for __.",
+            "fieldHint": [ 
+                {"hint1": "Ex: getting a perfect score on your PT test; how to get a book done in record time; how to get your dog calmed down quickly once agitated, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field8",
+            "fieldTitle": "My product / service helps you with HOW TO ______.",
+            "fieldHint": [ 
+                {"hint1": "Ex: train for your next PT test; even if you're not ready now; get free editing services for your book without having to hire an editor; help your dog avoid situations that can cause them to lash out, even at family members, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field9",
+            "fieldTitle": "My product / service helps you EFFORTLESSLY ______.",
+            "fieldHint": [ 
+                {"hint1": "Ex: create the perfect training plan that's right for you; target the most profitable audience for your book; train your dog to feel calm and relaxed in situations that used to make them upset, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field10",
+            "fieldTitle": "My product / service helps you QUICKLY ______.",
+            "fieldHint": [ 
+                {"hint1": "Ex: get ready for your next PT test; get your book listed for sale on Amazon and other book marketing sites; head off problems before they get started, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field11",
+            "fieldTitle": "My product / service helps you ESCAPE ______.",
+            "fieldHint": [ 
+                {"hint1": "Ex: from the worry and stress of failing your PT test; the pain of having to spend weeks or months writing your book; having to use physical punishment on your dog, etc"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field12",
+            "fieldTitle": "My product / service helps you DISCOVER ______.",
+            "fieldHint": [ 
+                {"hint1": "Ex: the best way to MAX your PT test; the secrets the pros use to make a ton of back end sales from their books; the best ways for your specific dog to receive the training they need, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field13",
+            "fieldTitle": "My product / service helps you STOP worrying about ______.",
+            "fieldHint": [ 
+                {"hint1": "Ex: how you're going to pass that PT test, even if it's only a couple of weeks away; the process and focus on just getting your book done, edited, and posted for sale; the potential danger of your dog harming someone else when you take them out in public, etc."}
+              ]
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "name": "Auto Email Follow-Up Script",
+    "fields": [
+        {
+            "fieldPropertyName:":"field1",
+            "fieldTitle": "Your main topic",
+            "fieldHint": [ 
+                {"hint1": "ex: for sale by owner, dog training, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field2",
+            "fieldTitle": "Name of your product or service",
+            "fieldHint": [ 
+                {"hint1": "ex: Selling Your Home Alone"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field3",
+            "fieldTitle": "Your name",
+            "fieldHint": [ 
+                {"hint1": "ex: Jim Edwards"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field4",
+            "fieldTitle": "Your company or legal entity name (if none, use your name)",
+            "fieldHint": [ 
+                {"hint1": "ex: Guaranteed Response Marketing, LLC"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field5",
+            "fieldTitle": "Your business address (full address all on one line)",
+            "fieldHint": [ 
+                {"hint1": "ex: P.O. Box 878, Lightfoot, VA 23090"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field6",
+            "fieldTitle": "Your business phone #",
+            "fieldHint": [ 
+                {"hint1": "ex: 757-715-2157"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field7",
+            "fieldTitle": "Your Main product or site URL",
+            "fieldHint": [ 
+                {"hint1": "ex: www.ebookfire.com"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field8",
+            "fieldTitle": "Your customer service email address or help desk URL",
+            "fieldHint": [ 
+                {"hint1": "ex: www.ebookfiresupport.com"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field9",
+            "fieldTitle": "Catchy phrase or branding statement that goes with your product",
+            "fieldHint": [ 
+                {"hint1": "ex: How to sell your house yourself and SAVE the commission!"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field10",
+            "fieldTitle": "Subject line slug",
+            "fieldHint": [ 
+                {"hint1": "Ex:[FSBO], [EHTV], etc"}
+            ]
+        }
+    ]
+
+}

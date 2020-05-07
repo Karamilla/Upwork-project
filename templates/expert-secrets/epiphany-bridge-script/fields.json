@@ -1,0 +1,320 @@
+{
+    "name": "Epiphany Bridge Script",
+    "fields": [
+        {
+            "fieldPropertyName:":"field1",
+            "fieldTitle": "Who is your target audience? (PLURAL)",
+            "fieldHint": [ 
+                {"hint1": "\"__________ are our target audience.\""},
+                {"hint2": "Ex: entrepreneurs; home sellers, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field2",
+            "fieldTitle": "Backstory Identity",
+            "fieldHint": [ 
+                {"hint1": "\"I was a __________.\""},
+                {"hint2": "Ex: broke college student athlete, new husband."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field3",
+            "fieldTitle": "Backstory Desire",
+            "fieldHint": [ 
+                {"hint1": "\"I really wanted to ______\" (VERB)"},
+                {"hint2": "Ex: make extra money from potato gun sales; sell my house without an agent, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field4",
+            "fieldTitle": "Backstory Payoff",
+            "fieldHint": [ 
+                {"hint1": "\"So I could _________.\" (VERB)"},
+                {"hint2": "Ex: start a family; start a new life with my new wife, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field5",
+            "fieldTitle": "Backstory Struggle",
+            "fieldHint": [ 
+                {"hint1": "\"At the time, I was trying to _________.\"(VERB)"},
+                {"hint2": "(Ex: make money online; sell my two houses, etc.)"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field6",
+            "fieldTitle": "Backstory Immediate Problem / Penalty",
+            "fieldHint": [ 
+                {"hint1": "\"I felt I needed to do this so I wouldn't have to _______.\" (VERB)"},
+                {"hint2": "Ex: drop out of school; miss out on a great job offer in Florida, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field7",
+            "fieldTitle": "Immediate Desire",
+            "fieldHint": [ 
+                {"hint1": "\"I REALLY wanted to be able to _______.\"(VERB)"},
+                {"hint2": "Ex: support my wife so she wouldn’t have to work; take a great job in a city we both loved, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field8",
+            "fieldTitle": "What was something *external* blocking you from your desire?",
+            "fieldHint": [ 
+                {"hint1": "\"I was struggling with ______.\" (VERB ending in \"ING)"},
+                {"hint2": "Ex: making only a few dollars a day, and many days I actually lost money; finding a buyer for two houses I owned, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field9",
+            "fieldTitle": "Why did this situation make you feel terrible?",
+            "fieldHint": [ 
+                {"hint1": "\"I felt terrible because _______!\""},
+                {"hint2": "Ex: my wife was supporting me; I could miss out on the great job if I couldn't get my houses sold, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field10",
+            "fieldTitle": "What about this situation made you feel EVEN WORSE?",
+            "fieldHint": [ 
+                {"hint1": "\"I felt even worse because ________.\""},
+                {"hint2": "Ex: I was supposed to be the man in the relationship, but my wife was working two jobs while I was going to school, wrestling, and living out my dreams; I wouldn't be able to give my new family the life I promised them and knew in my heart they deserved, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field11",
+            "fieldTitle": "How did this situation make you feel about yourself? (NEGATIVE)",
+            "fieldHint": [ 
+                {"hint1": "\"I felt like ________.\""},
+                {"hint2": "Ex: a failure as a husband; jumping off a building, etc"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field12",
+            "fieldTitle": "What happened that caused you to finally \"hit the wall?\"",
+            "fieldHint": [ 
+                {"hint1": "\"The problem was that _______.\""},
+                {"hint2": "Ex: Google had changed their algorithms and increased their ad costs; I got a call that I had to be there in 60 days or they would give the job to someone else, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field13",
+            "fieldTitle": "What did \"hitting the wall\" mean for you here? (NEGATIVE)",
+            "fieldHint": [ 
+                {"hint1": "\"Hitting the wall in this case meant ________.\""},
+                {"hint2": "Ex: suddenly my little potato gun website was no longer making any money, so I had to   turn it off; if I didn't get those houses sold, I was on the verge of losing out on the opportunity of a lifetime, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field14",
+            "fieldTitle": "#1 consequence of what hitting the wall meant. (NEGATIVE)",
+            "fieldHint": [ 
+                {"hint1": "\"And in this case, hitting the wall actually __________.\"(VERB)"},
+                {"hint2": "Ex: killed my only source of income; meant I was on the clock to get those houses sold or see my dreams squashed forever, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field15",
+            "fieldTitle": "What was the epiphany \"Event\" for you?",
+            "fieldHint": [ 
+                {"hint1": "\"But luckily for me, that's when I _________ and everything changed.\" (VERB)"},
+                {"hint2": "Ex: ran into a friend who told me a secret; picked up and read a book; saw a video; had a brainstorm, etc"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field16",
+            "fieldTitle": "What did this epiphany event reveal to you?",
+            "fieldHint": [ 
+                {"hint1": "\"From this event I discovered all about _________.\"(VERB ending in \"ING\")"},
+                {"hint2": "Ex: adding upsells to his products; socially engineering a house sale instead of wasting a ton of money on useless ads. etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field17",
+            "fieldTitle": "What was the big \"ah-ha\" moment for in the epiphany?",
+            "fieldHint": [ 
+                {"hint1": "\"That's when it became crystal clear to me that the secret was _______.\""},
+                {"hint2": "Ex: creating sales funnels; to leverage my family and friends to help me find a buyer, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field18",
+            "fieldTitle": "What was the big \"how to\" revealed to you in the epiphany?",
+            "fieldHint": [ 
+                {"hint1": "\"It was made clear to me how to _______.\""},
+                {"hint2": "Ex: make more money from every customer who came in; get people I knew to refer me to people they knew who might want to buy a house, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field19",
+            "fieldTitle": "What did this big \"how to reveal\" mean to you?",
+            "fieldHint": [ 
+                {"hint1": "\"Discovering this how to secret meant _______.\""},
+                {"hint2": "Ex: all his websites started working again in spite of Google’s increased costs; I could find a buyer without paying 6% to a Realtor, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field20",
+            "fieldTitle": "What's something you thought was true that was proven wrong?",
+            "fieldHint": [ 
+                {"hint1": "\"I also learned that _______.\""},
+                {"hint2": "Ex: normal websites aren’t enough anymore to make money online; you can just stick an ad in the paper and expect to sell your house, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field21",
+            "fieldTitle": "What should they do now instead of that previously true thing?",
+            "fieldHint": [ 
+                {"hint1": "\"You should stop thinking (from previous question) and you need to ________ instead.\" (VERB)"},
+                {"hint2": "Ex: create an actual sales funnel; use multiple streams of advertising to get your house sold, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field22",
+            "fieldTitle": "What concrete action did you take as a result of this epiphany?",
+            "fieldHint": [ 
+                {"hint1": "\"As a result of this epiphany, I _______.\"(VERB)"},
+                {"hint2": "Ex: found someone who was selling potato gun kits, and I partnered with them and started selling them as an upsell; contacted everyone I knew and told them I had a house to sell and could offer special financing, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field23",
+            "fieldTitle": "What was the (positive) result of taking that action?",
+            "fieldHint": [ 
+                {"hint1": "\"After I did that, I started _______.\" (VERB ending in \"ING\""},
+                {"hint2": "Ex: making money again; getting all the leads I could handle, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field24",
+            "fieldTitle": "What was the ultimate PAYOFF of taking this action?",
+            "fieldHint": [ 
+                {"hint1": "\"Suddenly, I was _______.\" (VERB ending in \"ING\")"},
+                {"hint2": "Ex: spending about $10 a day in ads and making $50 or $60 back; picking and choosing which buyers to let come see my house (instead of sitting around begging for anyone to come take a look), etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field25",
+            "fieldTitle": "The Plan: What was the first thing you planned to do?",
+            "fieldHint": [ 
+                {"hint1": "\"My plan was to start _______.\" (VERB ending in :ING:)"},
+                {"hint2": "Ex: creating sales funnels in other markets that had better potential to make money than the potato gun market; contacting everyone I knew to ask them to help me advertise my house to their friends, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field26",
+            "fieldTitle": "The Plan: What was the first action you took?",
+            "fieldHint": [ 
+                {"hint1": "\"So I started _________.\" (VERB ending in \"ING)"},
+                {"hint2": "Ex: creating funnels and selling products in the weight loss market; making a list of everyone I knew who lived within a 20 mile radius of my house, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field27",
+            "fieldTitle": "The Plan: What was the next action you took?",
+            "fieldHint": [ 
+                {"hint1": "\"We then _______.\" (VERB)"},
+                {"hint2": "Ex: created and started selling supplements to people who suffered from diabetic neuropathy; started calling those people and letting them know our house was for sale and that we needed their help, etc"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field28",
+            "fieldTitle": "The Plan: What was the final big action you took?",
+            "fieldHint": [ 
+                {"hint1": "\"After that, we ________.\" (VERB)"},
+                {"hint2": "Ex: created funnels in the couponing, dating, and parenting markets, and others; sent everyone a physical flyer with a picture of our house and a stats sheet, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field29",
+            "fieldTitle": "The Conflict: After all that, how were things still not perfect?",
+            "fieldHint": [ 
+                {"hint1": "\"What makes this so special is the fact that _____.\""},
+                {"hint2": "Example #1: Each new funnel we created took between 6 to 8 weeks to create, on average. We had a team of 8 full-time people including designers, programmers, and copywriters just to get one funnel live. We had to glue together about 13 different products just to create one funnel. On average, our costs to get one funnel live were about $30,000, and then only about 1 out of 10 would actually recoup that money. It took a lot of time and money to find another winning funnel."},
+                {"hint3": "Example #2: Every time we wanted to sell a house we had to start over from scratch. Plus, a lot of people either weren't home when we called or it took too long for them to get the flyer we sent them about the property. Plus, asking people individually by phone if they knew someone who wanted to buy a house was very time consuming. So even though it was effective at getting houses sold, it was eating up 10-12 hours a day every time we had a new house to sell."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field30",
+            "fieldTitle": "Achievement: What did you decide to do as a result of conflict?",
+            "fieldHint": [ 
+                {"hint1": "\"We ended up getting so frustrated that we decided to ______. (VERB)"},
+                {"hint2": "Ex: create a platform that would make it really easy for us to create sales funnels; create a course that taught everything we learned about how to sell multiple houses yourself, no matter what the market conditions, etc.Ex: create a platform that would make it really easy for us to create sales funnels; create a course that taught everything we learned about how to sell multiple houses yourself, no matter what the market conditions, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field31",
+            "fieldTitle": "Achievement: What's the name of the solution you created?",
+            "fieldHint": [ 
+                {"hint1": "\"We chose to call it _______.\""},
+                {"hint2": "Ex: ClickFunnels, Selling Your Home Alone, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field32",
+            "fieldTitle": "Achievement: What was the big, awesome dream result you wanted?",
+            "fieldHint": [ 
+                {"hint1": "\"We thought if we could create something that would make it possible to ______, that would be awesome!\" (VERB)"},
+                {"hint2": "Ex: build in 1 day what used to take us 6 to 8 weeks; create a system that made it possible to sell your house in a single weekend, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field33",
+            "fieldTitle": "Achievement:What BIG hurdle did you get over to create solution?",
+            "fieldHint": [ 
+                {"hint1": "\"So, after _______.\""},
+                {"hint2": "Ex: 8 months of programming and every penny I had ever made; 4 months of testing, tweaking and 12 hour days testing every single aspect of what it takes to sell your house without an agent, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field34",
+            "fieldTitle": "Achievement: What amazing, DREAM outcome did you achieve?",
+            "fieldHint": [ 
+                {"hint1": "\"Though it sounds almost too good to be true, I can now ________.\" (VERB)"},
+                {"hint2": "Ex: build in an hour—by myself, without any tech people—what used to take me and my team of 8 guys 6–8 weeks, and these funnels run faster and converted way higher; sell any house without an agent, no matter what the price, neighborhood or market conditions, easier and faster than hiring a broker and paying their outrageous commissions, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field35",
+            "fieldTitle": "Achievement: How can you sum up the results of your achievement?",
+            "fieldHint": [ 
+                {"hint1": "\"As a result of all this we were able to achieve the following: _______.\" (Take all the space you need.)"},
+                {"hint2": "Example #1: Within just 2 years, over 30,000 people use ClickFunnels to power their entire businesses. In fact, in 2016, we had 71 people who made over a million dollars with a single funnel."},
+                {"hint3": "Example #2: Within just the last 36 months we've successfully bought and sold over 20 houses and lots for an average profit margin of 25% after all expenses. We also sold our houses in an average of 12 days where the average time on market with a Realtor in our market is 93 days. Bottom line: we sold faster and for a lot more money than we ever could have by hiring a broker"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field36",
+            "fieldTitle": "Transformation: What was the first big payoff of all this work?",
+            "fieldHint": [ 
+                {"hint1": "\"As a result of this, I was able to achieve my dream of being able to _______.\" (VERB)"},
+                {"hint2": "Ex: let my wife become a full-time mom; live in my own waterfront dream home, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field37",
+            "fieldTitle": "Transformation: What are you able to STOP doing as a result?",
+            "fieldHint": [ 
+                {"hint1": "\"I've also been able to stop ______.\" (VERB ending in \"ING)"},
+                {"hint2": "Ex: spending so much time at work; worrying about how I'm going to get my houses sold, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field38",
+            "fieldTitle": "Transformation: Reason you can stop doing what you used to do?",
+            "fieldHint": [ 
+                {"hint1": "\"I can stop that (above) because we can now _______.\" (VERB)"},
+                {"hint2": "Ex: create things so quickly; get our houses sold so quickly, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field39",
+            "fieldTitle": "Transformation:What's the BIG, emotional end-result payoff here?",
+            "fieldHint": [ 
+                {"hint1": "\"And in the end, all of this means I'm now able to ________.\" (VERB"},
+                {"hint2": "Ex: be with my kids, and never miss any of the highlights of their lives; spend time relaxing and doing the things I really enjoy, like spending time with my wife and fishing, etc"}
+            ]
+        }
+    ]
+
+}

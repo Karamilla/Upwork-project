@@ -1,0 +1,66 @@
+{
+    "name": "PPT Opt-in Video Scripts",
+    "fields": [
+        {
+            "fieldPropertyName:":"field1",
+            "fieldTitle": "Your name",
+            "fieldHint": [ 
+                {"hint1": "Ex: Jim Edwards | Dr. Strangelove"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field2",
+            "fieldTitle": "The website you're welcoming them to ",
+            "fieldHint": [ 
+                {"hint1": "Ex: FSBOHelp.com.com | 7DayEbook.com"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field3",
+            "fieldTitle": "The niche group of people you target (plural)",
+            "fieldHint": [ 
+                {"hint1": "Ex: For Sale By Owners | FSBOs | New Ebook Writers"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field4",
+            "fieldTitle": "Big result they want in general from their life/business.",
+            "fieldHint": [ 
+                {"hint1": "Starts with a VERB!"},
+                {"hint2": "Ex: sell your house yourself without an agent!; write a highly profitable ebook"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field5",
+            "fieldTitle": "A BIG \"how to\" secret they really want to know!",
+            "fieldHint": [ 
+                {"hint1": "\"We'll show you (how to)_____.\""},
+                {"hint2": "Ex: how to quickly get your house sold and save the HUGE real estate commissions | how to write a REAL ebook in less than a week"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field6",
+            "fieldTitle": "What bribe do they get when they opt in?",
+            "fieldHint": [ 
+                {"hint1": "Ex: Free Video, Free Video Series, Free Report, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field7",
+            "fieldTitle": "\"Insider strategy\" this OTO uses to help get the big payoff?",
+            "fieldHint": [ 
+                {"hint1": "\"We've created a [free video] for you that explains _______.\""},
+                {"hint2": "Ex: the three biggest hurdles every For Sale By Owner faces AND how to overcome them | 5 Things every new author can write about to create a great book"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field8",
+            "fieldTitle": "Big takeway or \"reveal\" you make on the next page (sales page?)",
+            "fieldHint": [ 
+                {"hint1": "Also, on the next page you'll get all the details about how you can immediately ______.\""},
+                {"hint2": "Starts with a VERB"},
+                {"hint3": "Ex: get started selling your house yourself and save the HUGE real estate commissions | start writing your own outrageously profitable ebook as fast as this weekend "}
+            ]
+        }
+    ]
+}

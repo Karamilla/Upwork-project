@@ -1,0 +1,68 @@
+{
+    "name": "Lead Capture Script",
+    "fields": [
+        {
+            "fieldPropertyName:":"field1",
+            "fieldTitle": "Your name",
+            "fieldHint": [ 
+                {"hint1": "Ex: Jim Edwards"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field2",
+            "fieldTitle": "The website you're welcoming them to",
+            "fieldHint": [ 
+                {"hint1": "\"welcome to _____.\""},
+                {"hint2": "Ex: FSBOHelp.com"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field3",
+            "fieldTitle": "The niche group of people you target (plural)",
+            "fieldHint": [ 
+                {"hint1": "\"_____ are my target audience.\""},
+                {"hint2": "Ex: For Sale By Owners | FSBOs"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field4",
+            "fieldTitle": "What is a BIG result they want? (VERB)",
+            "fieldHint": [ 
+                {"hint1": "Speaking directly to your audience - \"I know you really want to _____.\""},
+                {"hint2": "Ex: sell your house yourself without an agent!"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field5",
+            "fieldTitle": "What is a BIG \"how to\" SECRET they really want to know?",
+            "fieldHint": [ 
+                {"hint1": "\"They really want to know (how to) _____.\""},
+                {"hint2": "Ex: how to quickly get your house sold and save the HUGE real estate commissions"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field6",
+            "fieldTitle": "What bribe do they get when they opt in?",
+            "fieldHint": [ 
+                {"hint1": "\"When you opt in, you get _____.\""},
+                {"hint2": "Ex: Free Video, Free Video Series, Free Report, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field7",
+            "fieldTitle": "What is Big Prize or payoff of the free bribe you're offering?",
+            "fieldHint": [ 
+                {"hint1": "\"We've created a [free video] for you that explains _____.\""},
+                {"hint2": "Ex: the three biggest hurdles every For Sale By Owner faces AND how to overcome them"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field8",
+            "fieldTitle": "What is the Big takeway or \"reveal\" you make on the next page (sales page)?",
+            "fieldHint": [ 
+                {"hint1": "\"Also, on the next page you'll get all the details about _____.\""},
+                {"hint2": "Ex: how you can immediately get started selling your house yourself and save the HUGE real estate commissions"}
+            ]
+        }
+    ]
+}

@@ -1,0 +1,117 @@
+{
+    "name": "Curiosity Ad Copy Scripts",
+    "fields": [
+        {
+            "fieldPropertyName:":"field1",
+            "fieldTitle": "Location",
+            "fieldHint": [ 
+                {"hint1": "Ex: Pineville, NC"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field2",
+            "fieldTitle": "Everyday person",
+            "fieldHint": [ 
+                {"hint1": "Ex: Mom, 68-year-old Man, WWII Veteran, Ex-Pizza Delivery Guy, Ex-Janitor"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field3",
+            "fieldTitle": "Evil Insider / Enemy (singular) to push against",
+            "fieldHint": [ 
+                {"hint1": "Ex: Mortgage Banker, Botox Doctor, Real Estate Agent"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field4",
+            "fieldTitle": "Evil Insider / Enemy (plural) to push against",
+            "fieldHint": [ 
+                {"hint1": "Ex: Mortgage Bankers, Botox Doctors, Real Estate Agents"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field5",
+            "fieldTitle": "Topic of interest",
+            "fieldHint": [ 
+                {"hint1": "Ex: facelift, anti-aging, real estate"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field6",
+            "fieldTitle": "Amount made or saved",
+            "fieldHint": [ 
+                {"hint1": "Ex: $72 / hour online, Save $50 / day"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field7",
+            "fieldTitle": "Amount made or saved monthly / yearly",
+            "fieldHint": [ 
+                {"hint1": "Ex: $8,000 / mo, $1,500 / mo"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field8",
+            "fieldTitle": "Ultimate result they REALLY want",
+            "fieldHint": [ 
+                {"hint1": "Ex: Look years younger, be a best-selling author, become famous"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field9",
+            "fieldTitle": "What they want to get, have, or accomplish - VERB",
+            "fieldHint": [ 
+                {"hint1": "Ex: Get younger looking skin, write your ebook, become a best-selling author"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field10",
+            "fieldTitle": "Basic keyword topic",
+            "fieldHint": [ 
+                {"hint1": "Ex: ebook, wrinkle, anti-aging"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field11",
+            "fieldTitle": "The emotional result / payoff they want",
+            "fieldHint": [ 
+                {"hint1": "Ex: be rich and famous, love and respect, relief"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field12",
+            "fieldTitle": "Ideal person(singular) they expect to have \"secret\" they need",
+            "fieldHint": [ 
+                {"hint1": "(Ex: super model, real estate investor, successful author, famous speaker)"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field13",
+            "fieldTitle": "Ideal person (plural) they expect to have \"secret\" they need",
+            "fieldHint": [ 
+                {"hint1": "Ex: super models, real estate investors, successful authors, famous speakers"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field14",
+            "fieldTitle": "Timeframe for results",
+            "fieldHint": [ 
+                {"hint1": "Ex: 7 days, a weekend, 24 hours, 27 minutes"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field15",
+            "fieldTitle": "Emotion they want to feel",
+            "fieldHint": [ 
+                {"hint1": "Ex: pride, relief, confidence, love, excitement"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field16",
+            "fieldTitle": "Painful thing / action they want to avoid ",
+            "fieldHint": [ 
+                {"hint1": "Ex: writing, exercise, injections"}
+            ]
+        }
+    ]
+}

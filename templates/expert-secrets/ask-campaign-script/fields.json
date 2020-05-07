@@ -1,0 +1,30 @@
+{
+    "name": "5 Curiosity Hooks Script",
+    "fields": [
+        {
+            "fieldPropertyName:":"field1",
+            "fieldTitle": "The Opportunity Switch Headline / Title of your Masterclass",
+            "fieldHint": [ 
+                {"hint1": "What is the title / headline for your Masterclass? (Page 69-70 \"Expert Secrets\")"},
+                {"hint2": "To use the \"Opportunity Switch Headline / Title Script\"  Click Here"},
+                {"hint3" : "Ex: How to Create a 7-Figure Funnel in Less Than 30 Minutes Without Having to Hire, or Be Held Hostage by, a Tech Guy, etc."} 
+            ]
+        },
+        {
+            "fieldPropertyName:":"field2",
+            "fieldTitle": "What's the big HOW TO they want to know how to do in this area?",
+            "fieldHint": [ 
+                {"hint1": "\"My target audience really wants to know how to ________.\" (VERB)"},
+                {"hint2": "Ex: create a 7-figure funnel; make a quick 10K this weekend by flipping houses on eBay; naturally destroy your kid's ADHD; reconnect with your wife; lose weight without exercising; enjoy a youthful appearance, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field3",
+            "fieldTitle": "What is the DATE of your live Masterclass?",
+            "fieldHint": [ 
+                {"hint1": "\"My live class will be held ______.\""}
+            ]
+        }
+    ]
+
+}

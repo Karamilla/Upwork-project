@@ -1,0 +1,96 @@
+{
+    "name": "ppc Ad Scripts",
+    "fields": [
+        {
+            "fieldPropertyName:":"field1",
+            "fieldTitle": "Main Keyword Phrase",
+            "fieldHint": [ 
+                {"hint1": "1-3 words Ex: herniated disc, cake decorating"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field2",
+            "fieldTitle": "Identify Bottom-Line Problem",
+            "fieldHint": [ 
+                {"hint1": "1-3 words Ex: back pain, ugly cakes"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field3",
+            "fieldTitle": "Identify Solution or Desire",
+            "fieldHint": [ 
+                {"hint1": "1-3 words Ex: pain relief, great cake ideas"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field4",
+            "fieldTitle": "Solution Format",
+            "fieldHint": [ 
+                {"hint1": "1-2 words Ex: videos, tools, ebooks, info, tips, secrets, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field5",
+            "fieldTitle": "Name of your product or service",
+            "fieldHint": [ 
+                {"hint1": "1-2 words Ex: Aussie Goop, Cake Magic"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field6",
+            "fieldTitle": "Specific timeframe for WHEN they can get results?",
+            "fieldHint": [ 
+                {"hint1": "1-2 words Ex: 2 Days, 7 Hours, 60 minutes"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field7",
+            "fieldTitle": "Target URL",
+            "fieldHint": [ 
+                {"hint1": "link you'll send them to. Include http://"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field8",
+            "fieldTitle": "Display URL",
+            "fieldHint": [ 
+                {"hint1": "link display in ad - LIMIT 35 characters NO htp://"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field9",
+            "fieldTitle": "Negative Action Verb",
+            "fieldHint": [ 
+                {"hint1": "1-3 words Ex: Get rid of, Stop, Eliminate, Banish, etc"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field10",
+            "fieldTitle": "Positive Action Verb",
+            "fieldHint": [ 
+                {"hint1": "1-3 words Ex: Get, Enjoy, Receive, Create"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field11",
+            "fieldTitle": "Number of available options",
+            "fieldHint": [ 
+                {"hint1": "1-3 words Ex: 3 Quick Tips, 5 Proven Secrets, #1 Dr. Approved"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field12",
+            "fieldTitle": "Number ONLY options",
+            "fieldHint": [ 
+                {"hint1": "1 number Ex: 3, 5, 7, #1"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field13",
+            "fieldTitle": "Timeframe / Urgency / Timing for results",
+            "fieldHint": [ 
+                {"hint1": "1 word Ex: Fast, Easy, Now, Quickly"}
+            ]
+        }
+    ]
+}

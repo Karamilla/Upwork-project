@@ -1,0 +1,70 @@
+{
+    "name": "Who, What, Why, How Script",
+    "fields": [
+        {
+            "fieldPropertyName:":"field1",
+            "fieldTitle": "Your Name",
+            "fieldHint": [ 
+                {"hint1": "Ex: Russell Brunson, Jim Edwards"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field2",
+            "fieldTitle": "Your company",
+            "fieldHint": [ 
+                {"hint1": "Ex: DotComSecrets, Guaranteed Response Marketing, LLC"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field3",
+            "fieldTitle": "What you're offering to get them to sign up",
+            "fieldHint": [ 
+                {"hint1": "Ex: Report, Book, Information, Tutorial, Training, Software, Webinar, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field4",
+            "fieldTitle": "Title or Name of what you're offering to get them to sign up",
+            "fieldHint": [ 
+                {"hint1": "Ex: DotCom Secrets, The Ebook Secrets Guide, 5 Steps To a New You"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field5",
+            "fieldTitle": "Big payoff / gain they want to have / GET (VERB)",
+            "fieldHint": [ 
+                {"hint1": "I'll show you how to _____."},
+                {"hint2": "Ex: get more customers automatically, how to quickly get more coaching clients"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field6",
+            "fieldTitle": "Big obstacle/negative circumstance/pain you want to avoid",
+            "fieldHint": [ 
+                {"hint1": "Starts with a VERB ending in \"ING\""},
+                {"hint2": "Ex: not knowing what to say in your marketing videos, losing money on your ad campaigns, begging for speaking gigs"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field7",
+            "fieldTitle": "Cool \"how to\"/\"reveal\" you'll share in what you're offering",
+            "fieldHint": [ 
+                {"hint1": "Ex: How to use YouTube to get 5-cent clicks, How to make $10,000 a month from only 100 website visitors a week"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field8",
+            "fieldTitle": "Why are you giving this away for free or S&H?",
+            "fieldHint": [ 
+                {"hint1": "Ex: I want to share this with as many people as I can, I want to help as many people as I can, if you like this then I believe you'll trust me and want to buy from me in the future"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field9",
+            "fieldTitle": "Day or Date this special offer ends?",
+            "fieldHint": [ 
+                {"hint1": "Ex: Monday, April 21, Christmas Day, Next Friday"}
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "name": "Million Dollar Testimonial Script",
+    "fields": [
+        {
+            "fieldPropertyName:":"field1",
+            "fieldTitle": "Name of person offering the product or service?",
+            "fieldHint": [ 
+                {"hint1": "Ex: Jim Edwards, Russell Brunson, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field2",
+            "fieldTitle": "Who is your target audience? (singular)",
+            "fieldHint": [ 
+                {"hint1": "Ex: author, coach, entrepreneur, business owner, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field3",
+            "fieldTitle": "Name or title of product / service you want testimonial for?",
+            "fieldHint": [ 
+                {"hint1": "Ex: Click Funnels, Funnel Scripts, Insider's Club, Funnel University"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field4",
+            "fieldTitle": "What is the \"thing\" you want reviewed?",
+            "fieldHint": [ 
+                {"hint1": "\"The thing I want a testimonial for is a _______.\""},
+                {"hint2": "Ex: product, coaching program, software, book, etc."}
+            ]
+        }
+    ]
+}

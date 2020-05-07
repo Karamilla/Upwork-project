@@ -1,0 +1,119 @@
+{
+    "name": "Feature, Benefit, Meaning (FBM) Bullets Script",
+    "fields": [
+        {
+            "fieldPropertyName:":"field1",
+            "fieldTitle": "What's #1 FEATURE (what it is) of your product, service, etc.?",
+            "fieldHint": [ 
+                {"hint1": "Ex: learn to write great classified ads; create the ultimate speaker one-sheet; emergency fitness training routine, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field2",
+            "fieldTitle": "What is the BENEFIT (what it does for them) of that #1 feature?",
+            "fieldHint": [ 
+                {"hint1": "\"So you can _______.\" (Starts with a VERB)"},
+                {"hint2": "Ex: generate tons of buyer leads this weekend; instantly set yourself apart from every other speaker they're considering; reach passing levels for your test in a month or less, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field3",
+            "fieldTitle": "What does that #1 feature & benefit MEAN to them?",
+            "fieldHint": [ 
+                {"hint1": "\"Which means _______.\" (Starts with a VERB)"},
+                {"hint2": "Ex: you can sell your house faster; you'll sell more from the back of the room; you can keep your job!, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field4",
+            "fieldTitle": "What's #2 FEATURE (what it is) of your product, service, etc.?",
+            "fieldHint": [ 
+                {"hint1": "Ex: negotiate win-win contracts with nervous buyers; learn to creat the ultimate presentation to sell; know what to eat and drink before, during and after the fitness test, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field5",
+            "fieldTitle": "What is the BENEFIT (what it does / means) of that #2 feature?",
+            "fieldHint": [ 
+                {"hint1": "\"So you can _______.\" (Starts with a VERB)"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field6",
+            "fieldTitle": "What does that #2 feature & benefit MEAN to them?",
+            "fieldHint": [ 
+                {"hint1": "\"Which means _______.\" (Starts with a VERB)"},
+                {"hint2": "Ex: get to closing in one piece; make every speech a potential gold mine; stand out as a top performer, especially at promotion time, etc"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field7",
+            "fieldTitle": "What's #3 FEATURE (what it is) of your product, service, etc.?",
+            "fieldHint": [ 
+                {"hint1": "Ex: \"Set the stage\" for KILLER Showings to buyers; create order forms that sell \"subconsciously\"; learn the best way for your body to transition from one test to another, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field8",
+            "fieldTitle": "What is the BENEFIT (what it does / means) of that #3 feature?",
+            "fieldHint": [ 
+                {"hint1": "\"So you can _______.\" (Starts with a VERB)"},
+                {"hint2": "Ex: put up the best first impression every time; use your handouts to make more money; reach peak efficiency and maximize your score, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field9",
+            "fieldTitle": "What does that #3 feature & benefit MEAN to them?",
+            "fieldHint": [ 
+                {"hint1": "\"Which means _______.\" (Starts with a VERB)"},
+                {"hint2": "Ex: your house will sell faster than the one down the street; you'll have the highest closing rate of any speaker; you can feel confident you'll ace any PT test... any time!, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field10",
+            "fieldTitle": "What's #4 FEATURE (what it is) of your product, service, etc.?",
+            "fieldHint": [ 
+                {"hint1": "Ex: build a team of professionals to help you get your house sold; Learn 5 openers that instantly grab attention; specific ways to train smarter (not harder), etc."} 
+            ]
+        },
+        {
+            "fieldPropertyName:":"field11",
+            "fieldTitle": "What is the BENEFIT (what it does / means) of that #4 feature?",
+            "fieldHint": [ 
+                {"hint1": "\"So you can _______.\" (Starts with a VERB)"},
+                {"hint2": "Ex: have lawyers and bankers begging to help you; keep your audience's attention through the close; drop your mile pace, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field12",
+            "fieldTitle": "What does that #4 feature & benefit MEAN to them?",
+            "fieldHint": [ 
+                {"hint1": "\"Which means _______.\" (Starts with a VERB)"},
+                {"hint2": "Ex: you can leverage the work of others to get your home sold; you'll be able to help a LOT more people sign up for your offers; you can avoid injuries that could derail your career, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field13",
+            "fieldTitle": "What's #5 FEATURE (what it is) of your product, service, etc.?",
+            "fieldHint": [ 
+                {"hint1": "Ex: discover how to use the Internet to sell your home; discover how to use social media to get a ton of speaking offers; specific training mistakes you must avoid, etc."}
+              ]
+        },
+        {
+            "fieldPropertyName:":"field14",
+            "fieldTitle": "What is the BENEFIT (what it does / means) of that #5 feature?",
+            "fieldHint": [ 
+                {"hint1": "\"So you can _______.\" (Starts with a VERB)"},
+                {"hint2": "Ex: leverage social media to find all the buyer you need; avoid the humiliation of begging for speaking gigs; prevent bad results on your PT test, etc."}
+              ]
+        },
+        {
+            "fieldPropertyName:":"field15",
+            "fieldTitle": "What does that #5 feature & benefit MEAN to them?",
+            "fieldHint": [ 
+                {"hint1": "\"Which means _______.\" (Starts with a VERB)"},
+                {"hint1": "Ex: you know you're using every tol possible to find a buyer; your speaking calendar will always be as full as you want it to be; you'll have an exemplary record for every promotion board, etc."}
+              ]
+        }
+    ]
+}

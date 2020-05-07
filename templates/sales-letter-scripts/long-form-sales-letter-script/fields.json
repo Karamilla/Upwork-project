@@ -1,0 +1,372 @@
+{
+    "name": "Long Form Sales Letter Script",
+    "fields": [
+        {
+            "fieldPropertyName:":"field1",
+            "fieldTitle": "Target Niche",
+            "fieldHint": [ 
+                {"hint1": "Ex: For Sale By Owner"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field2",
+            "fieldTitle": "#1 Thing you'll show them HOW to do?",
+            "fieldHint": [ 
+                {"hint1": "\"I'll show you how to _______\""},
+                {"hint2": "Ex: Sell your house without an agent and save the commission!"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field3",
+            "fieldTitle": "#1 Thing they WON'T have to do, but think they will",
+            "fieldHint": [ 
+                {"hint1": "\"Without you having to _______.\""},
+                {"hint2": "Ex: become an agent in the process!"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field4",
+            "fieldTitle": "A result they REALLY want -- short!",
+            "fieldHint": [ 
+                {"hint1": "Starts with a VERB - \"I really want to ______.\""},
+                {"hint2": "Ex: Sell for top dollar"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field5",
+            "fieldTitle": "Another result they REALLY want -- short!",
+            "fieldHint": [ 
+                {"hint1": "Starts with a VERB - \"I also want to ______.\""},
+                {"hint2": "Ex: Sell Fast!"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field6",
+            "fieldTitle": "Yet another result they REALLY want -- short!",
+            "fieldHint": [ 
+                {"hint1": "Starts with a VERB - \"I also want to ______.\""}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field7",
+            "fieldTitle": "Your name",
+            "fieldHint": [ 
+                {"hint1": "Ex: Jim Edwards"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field8",
+            "fieldTitle": "Your main keyword topic",
+            "fieldHint": [ 
+                {"hint1": "Ex: For Sale By Owner"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field9",
+            "fieldTitle": "Ideal target prospect (Singular)",
+            "fieldHint": [ 
+                {"hint1": "Ex: Home Seller"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field10",
+            "fieldTitle": "A big BENEFIT they really want",
+            "fieldHint": [ 
+                {"hint1": "Starts with a VERB"},
+                {"hint2": "Ex: get the top selling price for your home"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field11",
+            "fieldTitle": "Another big BENEFIT they really want",
+            "fieldHint": [ 
+                {"hint1": "Starts with a VERB"},
+                {"hint2": "Ex: sell in a timeframe that meets your needs"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field12",
+            "fieldTitle": "The third big BENEFIT they really want",
+            "fieldHint": [ 
+                {"hint1": "Starts with a VERB"},
+                {"hint2": "Ex: sell in a timeframe that meets your needs"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field13",
+            "fieldTitle": "Summary of why it is the most important letter they'll read",
+            "fieldHint": [ 
+                {"hint1": "\"This is the MOST important letter you'll read on this topic (because) _______.\""},
+                {"hint2": "Ex: Because in today's real estate world, paying the agent's commission or NOT can mean the difference between selling your home or losing out on the deal"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field14",
+            "fieldTitle": "Quote/Testimonial #1 attention grabber",
+            "fieldHint": [ 
+                {"hint1": "Back up the reason why you just gave them above"},
+                {"hint2": "Ex: We sold our house in 1 Week!"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field15",
+            "fieldTitle": "Credibility Block #1",
+            "fieldHint": [ 
+                {"hint1": "Quote - Testimonial - Supporting Fact from a reputable source"},
+                {"hint2": "Ex: Full testimonial from successful customer"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field16",
+            "fieldTitle": "Clearly state WHO you are",
+            "fieldHint": [ 
+                {"hint1": "\"My name is ______ and I am _______.\""},
+                {"hint2": "Ex: My name is Jim Edwards and I'm an expert on For Sale By Owner"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field17",
+            "fieldTitle": "Let them know WHY they should listen to YOU",
+            "fieldHint": [ 
+                {"hint1": "Ex: I've sold multiple properties by owner as well as done over 50 Million Dollars in real estate transactions as an agent, mortgage banker / broker, investor, and consultant"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field18",
+            "fieldTitle": "Explain why this solution is what they need right NOW",
+            "fieldHint": [ 
+                {"hint1": "Ex: This course is going to give you everything you need to navigate the For Sale By Owner Process successfully!"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field19",
+            "fieldTitle": "Accelerate their desire for the solution",
+            "fieldHint": [ 
+                {"hint1": "Use examples, results, screen shots, proof or results"},
+                {"hint2": "Ex: Here are testimonials from people just like you who got results"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field20",
+            "fieldTitle": "Remind them WHY they want to take action on this now & not wait",
+            "fieldHint": [ 
+                {"hint1": "\"You need to act on this now because _____.\""},
+                {"hint2": "Ex: Every minute you wait is another minute the house down the street has qualified buyers looking and you DON'T!"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field21",
+            "fieldTitle": "Statistic #2 attention grabber",
+            "fieldHint": [ 
+                {"hint1": "Back up the reason why you just gave them above:"},
+                {"hint2": "Ex: 9 out of 10 FSBOs FAIL!"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field22",
+            "fieldTitle": "Credibility Block #2",
+            "fieldHint": [ 
+                {"hint1": "Supporting Fact from a reputable source...:"},
+                {"hint2": "Ex: According to the National Association of Realtors, 9 out of 10 FSBOs list with an agent. Why? Because they lack the knowledge to complete the transaction"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field23",
+            "fieldTitle": "How does your product make them money?",
+            "fieldHint": [ 
+                {"hint1": "Ex: You'll discover exactly how to get the MOST money for your house in Today's market"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field24",
+            "fieldTitle": "How does your product save them money?",
+            "fieldHint": [ 
+                {"hint1": "Ex: You'll understand exactly why the BEST advertising for your house is absolutely FREE - and exactly how to get it"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field25",
+            "fieldTitle": "How does your product save them time?",
+            "fieldHint": [ 
+                {"hint1": "Ex: You'll skip past all the mistakes and obstacles that stop MOST for sale by owners and go right to the end of the process"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field26",
+            "fieldTitle": "How does your product help avoid frustration?",
+            "fieldHint": [ 
+                {"hint1": "Ex: You'll know exactly how to negotiate a contract - even with a nervous buyer - and who to get help from if you have questions"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field27",
+            "fieldTitle": "How does your product help escape pain?",
+            "fieldHint": [ 
+                {"hint1": "Ex: You'll have a TON more money in your pocket when you save the 6% commission others have to pay an agent"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field28",
+            "fieldTitle": "Quote/Testimonial/Statistic #3 proving at least 1 bullet above",
+            "fieldHint": [ 
+                {"hint1": "Ex: The Numbers Don't Lie!"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field29",
+            "fieldTitle": "Credibility Block #3 Quote - Testimonial - Supporting Fact",
+            "fieldHint": [ 
+                {"hint1": "From a reputable source...:"},
+                {"hint2": "Ex: If you can get an offer in the first 30 days, your changes of selling your house yourself go through the ROOF!"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field30",
+            "fieldTitle": "How does your product make them feel better about themselves?",
+            "fieldHint": [ 
+                {"hint1": "Ex: When you sell your house, think about how good you'll feel about yourself when you successfully sell WITHOUT an agent!"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field31",
+            "fieldTitle": "How does product increase level of satisfaction in their lives?",
+            "fieldHint": [ 
+                {"hint1": "Ex: When you get it sold yourself, think about all the extra money you'll have left over to put down on your next house"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field32",
+            "fieldTitle": "How does product make them more popular or successful w/ others?",
+            "fieldHint": [ 
+                {"hint1": "Ex: See yourself bragging to your friends at parties or on Facebook about how you sold without an agent!"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field33",
+            "fieldTitle": "What is the name of the product / service solution?",
+            "fieldHint": [ 
+                {"hint1": "Ex: Selling Your Home Alone"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field34",
+            "fieldTitle": "Summarize the entire offer here in 2-3 sentences",
+            "fieldHint": [ 
+                {"hint1": "Ex: You get the downloadable ebook that will walk you step-by-step through the entire process from start to finish. You get all the insiders-only instruction on how to assemble a team of professionals to help you get to closing fast. You get the exact blueprint you need to succeed!"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field35",
+            "fieldTitle": "Price",
+            "fieldHint": [ 
+                {"hint1": "Ex: $39"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field36",
+            "fieldTitle": "Bonus #1 - Title",
+            "fieldHint": [ 
+                {"hint1": "Ex: Sample Forms Pack"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field37",
+            "fieldTitle": "Summarize the BONUS offer here in 1-3 sentences",
+            "fieldHint": [ 
+                {"hint1": "Ex: When you purchase my for-sale-by-owner book right now, \"Selling Your Home Alone\", you also get instant access to our FREE Contracts and Sample Forms PAK. You get the Contract of Purchase, Property Sale Contingency Addendum, General Addendum, Property Inspection Addendum, Bill of Sale for Personal Property, and the Walk Through Addendum"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field38",
+            "fieldTitle": "Minimum Bonus Value",
+            "fieldHint": [ 
+                {"hint1": "Ex: $49"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field39",
+            "fieldTitle": "Maximum Bonus Value",
+            "fieldHint": [ 
+                {"hint1": "Ex: $97"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field40",
+            "fieldTitle": "Bonus #2 - Bonus Title",
+            "fieldHint": [ 
+                {"hint1": "Ex: Report - How to get FREE Property Listings Pages!"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field41",
+            "fieldTitle": "Summarize the BONUS offer here in 1-3 sentence",
+            "fieldHint": [ 
+                {"hint1": "Ex: I'll show you more than 11 different FREE places to instantly list your home for sale online ... and you don't pay a dime in advertising! FREE house listing sites where you can expose your home to as many online buyers as possible. The more you expose it... the faster you sell it. DON'T pay for a real estate listing online! I'll show you how to get the same or better real estate listings many sites charge $20-50 per month for FREE! This bonus alone is worth 10 times the small cost of my ebook! "}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field42",
+            "fieldTitle": "Minimum Bonus Value",
+            "fieldHint": [ 
+                {"hint1": "(Ex: $49"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field43",
+            "fieldTitle": "Maximum Bonus Value",
+            "fieldHint": [ 
+                {"hint1": "Ex: $97"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field44",
+            "fieldTitle": "Total MINIMUM value of all bonuses combined",
+            "fieldHint": [ 
+                {"hint1": "Ex: $98 ($49 x 2)"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field45",
+            "fieldTitle": "Total MAXIMUM value of all bonuses combined",
+            "fieldHint": [ 
+                {"hint1": "Ex: $194 ($97 x 2)"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field46",
+            "fieldTitle": "How long is the guarantee?",
+            "fieldHint": [ 
+                {"hint1": "Ex: 30 Days, 8 Weeks"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field47",
+            "fieldTitle": "Order Link Text",
+            "fieldHint": [ 
+                {"hint1": "Ex: Click Here To Download"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field48",
+            "fieldTitle": "Closing statement",
+            "fieldHint": [ 
+                {"hint1": "Ex: To your success,"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field49",
+            "fieldTitle": "Restate single biggest reason they should act now and not wait",
+            "fieldHint": [ 
+                {"hint1": "Ex: Every minute you wait is another buyer you miss who will just buy the house down the street or around the corner. Take action now and get your house sold!"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field50",
+            "fieldTitle": "Text for the last link on the page",
+            "fieldHint": [ 
+                {"hint1": "Ex: Act now before the price goes up!"}
+            ]
+        }
+    ]
+
+}

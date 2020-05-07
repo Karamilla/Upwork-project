@@ -1,0 +1,53 @@
+{
+    "name": "Case Study Scripts",
+    "fields": [
+        {
+            "fieldPropertyName:":"field1",
+            "fieldTitle": "Name of person offering the product or service?",
+            "fieldHint": [ 
+                {"hint1": "\"______ is the name of the person who is offering the product / service, etc.\""},
+                {"hint2": "(Ex: Jim Edwards, Russell Brunson, etc.)"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field2",
+            "fieldTitle": "Who is your target audience? (singular)",
+            "fieldHint": [ 
+                {"hint1": "\"My target audience is a / an ______.\""},
+                {"hint2": "Ex: author, coach, entrepreneur, business owner, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field3",
+            "fieldTitle": "Main Topic (2-3 words)",
+            "fieldHint": [ 
+                {"hint1": "\"The main topic of my product / service is ______.\""},
+                {"hint2": "Ex: sales funnels, sales copy writing, book writing, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field4",
+            "fieldTitle": "Target Audience's #1 Objective",
+            "fieldHint": [ 
+                {"hint1": "\"My audience is interested in ________.\" (VERB ending in ING)"},
+                {"hint2": "Ex: writing a book, building a funnel, writing sales copy, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field5",
+            "fieldTitle": "Name/ title of product/ service you're doing the case study for?",
+            "fieldHint": [ 
+                {"hint1": "\"The name of the product / service, etc. is _______.\""},
+                {"hint2": "Ex: Click Funnels, Funnel Scripts, Insider's Club, Funnel University"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field6",
+            "fieldTitle": "What is the \"thing\" you want a case study about? ",
+            "fieldHint": [ 
+                {"hint1": "\"The thing I want a case study about is a _______.\""},
+                {"hint2": "Ex: product, coaching program, software, book, etc."}
+            ]
+        }
+    ]
+}

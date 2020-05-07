@@ -1,0 +1,141 @@
+{
+	"name" : "SHORT Epiphany Bridge Script",
+	"fields" : [
+		{
+            "fieldPropertyName:":"field1",
+            "fieldTitle": "Backstory Identity",
+            "fieldHint": [ 
+                {"hint1": "\"I was a __________.\""},
+                {"hint2": "Ex: broke college student athlete, new husband."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field2",
+            "fieldTitle": "Backstory Struggle",
+            "fieldHint": [ 
+                {"hint1": "\"At the time, I was trying to _________.\"(VERB)"},
+                {"hint2": "(Ex: make money online; sell my two houses, etc.)"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field3",
+            "fieldTitle": "What was something *external* blocking you from your desire?",
+            "fieldHint": [ 
+                {"hint1": "\"I was struggling with ______.\" (VERB ending in \"ING)"},
+                {"hint2": "Ex: making only a few dollars a day, and many days I actually lost money; finding a buyer for two houses I owned, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field4",
+            "fieldTitle": "What happened that caused you to finally \"hit the wall?\"",
+            "fieldHint": [ 
+                {"hint1": "\"The problem was that _______.\""},
+                {"hint2": "Ex: Google had changed their algorithms and increased their ad costs; I got a call that I had to be there in 60 days or they would give the job to someone else, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field5",
+            "fieldTitle": "What did \"hitting the wall\" mean for you here? (NEGATIVE)",
+            "fieldHint": [ 
+                {"hint1": "\"Hitting the wall in this case meant ________.\""},
+                {"hint2": "Ex: suddenly my little potato gun website was no longer making any money, so I had to   turn it off; if I didn't get those houses sold, I was on the verge of losing out on the opportunity of a lifetime, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field6",
+            "fieldTitle": "#1 consequence of what hitting the wall meant. (NEGATIVE)",
+            "fieldHint": [ 
+                {"hint1": "\"And in this case, hitting the wall actually __________.\"(VERB)"},
+                {"hint2": "Ex: killed my only source of income; meant I was on the clock to get those houses sold or see my dreams squashed forever, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field7",
+            "fieldTitle": "What was the epiphany \"Event\" for you?",
+            "fieldHint": [ 
+                {"hint1": "\"But luckily for me, that's when I _________ and everything changed.\" (VERB)"},
+                {"hint2": "Ex: ran into a friend who told me a secret; picked up and read a book; saw a video; had a brainstorm, etc"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field8",
+            "fieldTitle": "What did this epiphany event reveal to you?",
+            "fieldHint": [ 
+                {"hint1": "\"From this event I discovered all about _________.\"(VERB ending in \"ING\")"},
+                {"hint2": "Ex: adding upsells to his products; socially engineering a house sale instead of wasting a ton of money on useless ads. etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field9",
+            "fieldTitle": "What was the big \"how to\" revealed to you in the epiphany?",
+            "fieldHint": [ 
+                {"hint1": "\"It was made clear to me how to _______.\""},
+                {"hint2": "Ex: make more money from every customer who came in; get people I knew to refer me to people they knew who might want to buy a house, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field10",
+            "fieldTitle": "What did this big \"how to reveal\" mean to you?",
+            "fieldHint": [ 
+                {"hint1": "\"Discovering this how to secret meant _______.\""},
+                {"hint2": "Ex: all his websites started working again in spite of Google’s increased costs; I could find a buyer without paying 6% to a Realtor, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field11",
+            "fieldTitle": "The Plan: What was the first thing you planned to do?",
+            "fieldHint": [ 
+                {"hint1": "\"My plan was to start _______.\" (VERB ending in :ING:)"},
+                {"hint2": "Ex: creating sales funnels in other markets that had better potential to make money than the potato gun market; contacting everyone I knew to ask them to help me advertise my house to their friends, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field12",
+            "fieldTitle": "The Plan: What was the first action you took?",
+            "fieldHint": [ 
+                {"hint1": "\"So I started _________.\" (VERB ending in \"ING)"},
+                {"hint2": "Ex: creating funnels and selling products in the weight loss market; making a list of everyone I knew who lived within a 20 mile radius of my house, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field13",
+            "fieldTitle": "The Plan: What was the next action you took?",
+            "fieldHint": [ 
+                {"hint1": "\"We then _______.\" (VERB)"},
+                {"hint2": "Ex: created and started selling supplements to people who suffered from diabetic neuropathy; started calling those people and letting them know our house was for sale and that we needed their help, etc"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field14",
+            "fieldTitle": "The Plan: What was the final big action you took?",
+            "fieldHint": [ 
+                {"hint1": "\"After that, we ________.\" (VERB)"},
+                {"hint2": "Ex: created funnels in the couponing, dating, and parenting markets, and others; sent everyone a physical flyer with a picture of our house and a stats sheet, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field15",
+            "fieldTitle": "Achievement: When the plan came together, what did you decide?",
+            "fieldHint": [ 
+                {"hint1": "\"Then, because the plan came together so well, we decided to ______.\" (VERB)"},
+                {"hint2": "Ex: create a platform that would make it really easy for everyone to create sales funnels; create a course that taught everything we learned about how to sell multiple houses yourself, no matter what the market conditions, etc.)"}
+            ]
+        },
+         {
+            "fieldPropertyName:":"field16",
+            "fieldTitle": "Achievement: What's the name of the solution you created?",
+            "fieldHint": [ 
+                {"hint1": "\"We chose to call it _______.\""},
+                {"hint2": "Ex: ClickFunnels, Selling Your Home Alone, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field17",
+            "fieldTitle": "Achievement: What amazing, DREAM outcome did you achieve?",
+            "fieldHint": [ 
+                {"hint1": "\"Though it sounds almost too good to be true, I can now ________.\" (VERB)"},
+                {"hint2": "Ex: build in an hour—by myself, without any tech people—what used to take me and my team of 8 guys 6–8 weeks, and these funnels run faster and converted way higher; sell any house without an agent, no matter what the price, neighborhood or market conditions, easier and faster than hiring a broker and paying their outrageous commissions, etc."}
+            ]
+        }
+	]
+}

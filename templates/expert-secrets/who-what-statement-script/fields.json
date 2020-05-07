@@ -1,0 +1,54 @@
+{
+    "name": "Who, What Statement Script",
+    "fields": [
+        {
+            "fieldPropertyName:":"field1",
+            "fieldTitle": "WHO are you going to teach? (PLURAL)",
+            "fieldHint": [ 
+                {"hint1": "\"I'm going to teach ________.\""},
+                {"hint2": "Ex: funnel hackers; real estate investors; parents of kids with ADHD; people who want to lose weight; women who want to look younger, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field2",
+            "fieldTitle": "What is the #1 big, huge result they desire most in this area?",
+            "fieldHint": [ 
+                {"hint1": "\"My audience really wants to ________.\" (Starts with a VERB)"},
+                {"hint2": "Ex: create a 7-figure funnel; make a quick 10K this weekend by flipping houses on eBay; naturally destroy your kid's ADHD; reconnect with your wife; lose weight without exercising; enjoy a youthful appearance, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field3",
+            "fieldTitle": "What is one more big, huge result they desire most in this area?",
+            "fieldHint": [ 
+                {"hint1": "\"My audience also really wants to ________.\" (Starts with a VERB)"},
+                {"hint2": "Ex: set up a money-making, high-tech website; discover how to REALLY make money in real estate; help your kids get better grades; find the passion in your marriage; put your body into a fat burning state of \"ketosis\"; get rid of lines and wrinkles, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field4",
+            "fieldTitle": "What's the #1 big thing they are most AFRAID of in this area?",
+            "fieldHint": [ 
+                {"hint1": "\"My audience is really SCARED of ________.\" (VERB ending in \"ING\".)"},
+                {"hint2": "Ex: having to hire an expensive tech guy; getting a loan from a bank; giving up their favorite after-school snacks; having to go through painful counseling; giving up your favorite carbs; getting injections of Botox or other harsh chemicals, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field5",
+            "fieldTitle": "What's one more big thing they are most AFRAID of in this area?",
+            "fieldHint": [ 
+                {"hint1": "\"My audience also really SCARED of ________.\" (VERB ending in \"ING\")"},
+                {"hint2": "Ex: being held hostage by your shopping cart; dealing with psychotic sellers; crying fits or chaos in your home; wasting time talking; eating only rabbit food for the rest of your life; having dangerous surgery, etc,"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field6",
+            "fieldTitle": "What time frame can you help them get results?",
+            "fieldHint": [ 
+                {"hint1": "\"You'll start seeing results in _________.\""},
+                {"hint2": "Ex: less than 30 minutes; no time flat; a single weekend; 1 week, etc."}
+            ]
+        }
+    ]
+
+}

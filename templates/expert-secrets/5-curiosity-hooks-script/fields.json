@@ -1,0 +1,70 @@
+{
+    "name": "5 Curiosity Hooks Script",
+    "fields": [
+        {
+            "fieldPropertyName:":"field1",
+            "fieldTitle": "What's a \"secret\" term/topic your target audience may not know?",
+            "fieldHint": [ 
+                {"hint1": "\"My audience really doesn't understand (term / topic) ________.\" (1-3 words)"},
+                {"hint2": "Ex: funnel hacking; online house flipping; multimodal attention enhancement techniques; relationship regeneration; ketosis; apple stem cell technology, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field2",
+            "fieldTitle": "What is their main area of focus here in 2-3 words?",
+            "fieldHint": [ 
+                {"hint1": "\"My audience's main focus here is in the area of ________.\" (2-3 words)"},
+                {"hint2": "Ex: online marketing; real estate investing; ADHD problems; marital happiness; weight loss; youthful appearance, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field3",
+            "fieldTitle": "What is the #1 big, huge result they desire most in this area?",
+            "fieldHint": [ 
+                {"hint1": "\"My audience really wants to ________.\" (Starts with a VERB)"},
+                {"hint2": "Ex: create a 7-figure funnel; make a quick 10K this weekend by flipping houses on eBay; naturally destroy your kid's ADHD; reconnect with your wife; lose weight without exercising; get rid of fine lines and wrinkles, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field4",
+            "fieldTitle": "What's the #1 obvious (NEGATIVE) thing everyone knows here?",
+            "fieldHint": [ 
+                {"hint1": "\"Everyone knows that ________.\""},
+                {"hint2": "Ex: you won't make money if you're not selling online; you can't make money if you don't invest; you should never say anything to your child that hurts their self esteem; you should never yell at your wife, ever; refined sugar and carbs are bad for us; you should never use harsh chemicals on your skin, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field5",
+            "fieldTitle": "What's the #1 typical solution everyone tries in this area?",
+            "fieldHint": [ 
+                {"hint1": "\"Even though everyone tells you ______ is the solution here, it's NOT!\" (VERB ending in \"ING\")"},
+                {"hint2": "Ex: struggling with a wordpress website; flipping houses locally; getting your kid to \"settle down\" and pay attention; talking more; dieting and restricting carbs; getting Botox injections, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field6",
+            "fieldTitle": "What's the \"secret action\" they need to take to get results?",
+            "fieldHint": [ 
+                {"hint1": "\"The REAL secret to success here is ______!\" (VERB ending in \"ING\")"},
+                {"hint2": "Ex: setting up a real marketing funnel; finding houses online you can flip quickly; helping your child find his strengths and capitalize on those; opening meaningful lines of communication; getting your body into ketosis; using innovative apple stem cell technology, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field7",
+            "fieldTitle": "What's something they know they should STOP doing?",
+            "fieldHint": [ 
+                {"hint1": "\"You know you should stop ______, but it's hard!\" (VERB ending in \"ING\""},
+                {"hint2": "Ex: trying to set everything up yourself; trying to find investment houses through a local realtor; feeling frustrated about your child's ADHD; arguing with your wife; eating carbs; using cheap cosmetics, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field8",
+            "fieldTitle": "What action counteracts what they know they should stop doing?",
+            "fieldHint": [ 
+                {"hint1": "\"It's not a huge deal (above) as long as you are also ______!\" (VERB ending in \"ING\")"},
+                {"hint2": "Ex: automating the entire funnel process; using internet search tools to find investment properties anywhere in the country; encouraging your child and celebrating small, incremental gains; avoiding personal attacks during your arguments; drinking ketones; saving your skin with a proven skin cream that works \"from the inside out\", etc."}
+            ]
+        }
+    ]
+
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Niche and Offer Detective Wizard (BETA)",
+    "fields": [
+        {
+            "fieldPropertyName:":"field1",
+            "fieldTitle": "What is your keyword topic?",
+            "fieldHint": [ 
+                {"hint1": "\"My keyword topic is _____.\""}
+            ]
+        }
+    ]
+
+}

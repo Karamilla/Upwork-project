@@ -1,0 +1,119 @@
+{
+    "name": "The Magic Bullet Script",
+    "fields": [
+        {
+            "fieldPropertyName:":"field1",
+            "fieldTitle": "Your name",
+            "fieldHint": [ 
+                {"hint1": "Ex: Russell Brunson; Jim Edwards"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field2",
+            "fieldTitle": "Main topic of your webinar",
+            "fieldHint": [ 
+                {"hint1": "Ex: speed reading; Facebook marketing"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field3",
+            "fieldTitle": "Big Payoff they really want",
+            "fieldHint": [ 
+                {"hint1": "Starts w/ a VERB. (Ex: learn a new language; write better ads)"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field4",
+            "fieldTitle": "A 2nd Big Payoff they want",
+            "fieldHint": [ 
+                {"hint1": "Starts w/ a VERB. (Ex: learn how to make money; make more sales)"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field5",
+            "fieldTitle": "Another really Big Payoff they want",
+            "fieldHint": [ 
+                {"hint1": "Starts w/ a VERB. (Ex: score high on a test; snap up hordes of hungry subscribers)"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field6",
+            "fieldTitle": "Crazy instant \"day dream\" outcome",
+            "fieldHint": [ 
+                {"hint1": "Starts w/ a VERB. (Ex: plug any book into your brain and instantly download that knowledge; read your prospects' minds and know exactly what they will spend money on)"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field7",
+            "fieldTitle": "Far-fetched solution to get that daydream outcome",
+            "fieldHint": [ 
+                {"hint1": "Starts w/ a VERB ending in \"ING\". (Ex: inserting a socket into our brains to download the information; doing a \"Vulcan Mind Meld\" with your target audience members)"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field8",
+            "fieldTitle": "The slow or \"manual\" way most people use to approach the problem",
+            "fieldHint": [ 
+                {"hint1": "Starts w/ a VERB. (Ex: find a good one to two hours if we want to open a book and sit down to read; spend many hours researching potential markets on Facebook)"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field9",
+            "fieldTitle": "Main action they have to take",
+            "fieldHint": [ 
+                {"hint1": "1-word VERB. (Ex: read, research, make, sell)"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field10",
+            "fieldTitle": "The main result they want to do or have in this situation",
+            "fieldHint": [ 
+                {"hint1": "Starts w/ a VERB. (Ex: get the information we need out of the book; do the research we need on any particular niche market)"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field11",
+            "fieldTitle": "The usual thing people do to try to shortcut the process",
+            "fieldHint": [ 
+                {"hint1": "Starts w/ \"use\": (Ex: use the Internet; use fancy software)"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field12",
+            "fieldTitle": "The drawback to that usual shortcut making it a bad option",
+            "fieldHint": [ 
+                {"hint1": "Completes the phrase \"The problem with this usual shortcut is that there are / is _____________.\""},
+                {"hint2": "Ex: millions of pages of listings for any topic you want to study; tons of confusing and overwhelming results you can't understand or use"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field13",
+            "fieldTitle": "A cool discovery you made that changed everything",
+            "fieldHint": [ 
+                {"hint1": "Completes the phrase \"Then something amazing happened. I _____________\""},
+                {"hint2": "Ex: met this guy named Howard Berg at a seminar. He spent just a few short hours with me and it paid off big time; stumbled across 5 specific ad templates that crushed anything else I'd ever tried before"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field14",
+            "fieldTitle": "Big results others want, can expect to get from your discovery",
+            "fieldHint": [ 
+                {"hint1": "Starts w/ a VERB. (Ex: double your reading speed; increase clickthroughs by 50% or more)"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field15",
+            "fieldTitle": "How fast can they get results?",
+            "fieldHint": [ 
+                {"hint1": "Ex: an afternoon; 48 hours"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field16",
+            "fieldTitle": "How much is what you're selling?",
+            "fieldHint": [ 
+                {"hint1": "Ex: $100, one hundred bucks"}
+            ]
+        }
+    ]
+}

@@ -1,0 +1,135 @@
+{
+    "name": "Origin Story Script",
+    "fields": [
+        {
+            "fieldPropertyName:":"field1",
+            "fieldTitle": "What are you selling?:",
+            "fieldHint": [ 
+                {"hint1": "\"The name of my product / service / coaching etc. is ______.\""},
+                {"hint2": "\"Ex: Selling Your Home Alone, 7 Day Ebook, Funnel Scripts, etc"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field2",
+            "fieldTitle": "What's a negative occasion you want to build your story around?",
+            "fieldHint": [ 
+                {"hint1": "\"Let me tell you a quick story about ________\""},
+                {"hint2": "Ex: the time I almost went bankrupt; when I was diagnosed with heart failure; how I had a judge make fun of me in bankruptcy court; when I was trying to move to Florida to take my \"dream\" job, but had to sell 2 houses first; how I moved out of a trailer park after 7 years, moved into a new house, and got fired from my job all in the SAME month!; etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field3",
+            "fieldTitle": "Turn negative from above into past event verb ending in \"ing\"",
+            "fieldHint": [ 
+                {"hint1": "\"But now I never have to worry about ______ ever again!\""},
+                {"hint2": "Ex: going bankrupt, dying of heart failure, having anyone make fun of my finances, struggling to sell my house, facing bankruptcy, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field4",
+            "fieldTitle": "What is something you were trying to accomplish at the time?",
+            "fieldHint": [ 
+                {"hint1": "\"I was trying to ______.\""},
+                {"hint2": "Ex: move to Florida to take a big promotion; build my web development and design business; build my own business while still working full time for a boss I couldn't stand (and who apparently didn't like me either); etc"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field5",
+            "fieldTitle": "What is something you were struggling with at the time?",
+            "fieldHint": [ 
+                {"hint1": "\"I was struggling with ______.\""},
+                {"hint2": "Ex: finding a buyer for two houses I owned; selling new websites, creating the websites, and paying a HUGE server bill every month; juggling work, business and family all at the same time; etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field6",
+            "fieldTitle": "What negative emotion or circumstance was overtaking you?:",
+            "fieldHint": [ 
+                {"hint1": "\"I was getting more and more _____.\""},
+                {"hint2": "Ex: frustrated and scared; sick, frustrated and behind on my bills; disgusted with my situation at work; etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field7",
+            "fieldTitle": "What's something bad that occurred then throwing you off track?",
+            "fieldHint": [ 
+                {"hint1": "\"Then the bottom fell out from under me when ______.\""},
+                {"hint1": "Ex: I was told I had to get there within 60 days or they had to give the job to someone else; I collapsed one morning from an attack of atrial fibrilation in the upper chambers of my heart;a co-worker took something I said out of context and got my boss so mad that he fired me over the phone while I was stuck in rush hour traffic trying to get home; etc"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field8",
+            "fieldTitle": "What'd you need to do, but couldn't because of the bad event?",
+            "fieldHint": [ 
+                {"hint1": "\"Which meant I couldn't ______.\""},
+                {"hint2": "Ex: give my new family the life I promised them; keep beating the streets for new business selling websites and was forced to declare bankruptcy; make the first payment on the new house we'd just spent years digging ourselves out of a financial hole in order to afford; etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field9",
+            "fieldTitle": "What's the dream you were NOT willing to give up on?",
+            "fieldHint": [ 
+                {"hint1": "\"I wasn't ready to give up on my dream of ______.\""},
+                {"hint2": "(Starts with a VERB ending in \"ing\")."},
+                {"hint3": "Ex: providing a wonderful lifestyle for my family; using the Internet to make a fortune; etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field10",
+            "fieldTitle": "What did you discover that turned everything around for you?",
+            "fieldHint": [ 
+                {"hint1": "Can be a person, place, thing, technique, software, etc."},
+                {"hint2": "\"Then I discovered _____ and everything changed!\""},
+                {"hint3": "Ex: the secret method for \"social engineering\" a house sale; selling ebooks and information products online to a hungry market; etc"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field11",
+            "fieldTitle": "(1 of 3) What did this big discovery reveal to you?",
+            "fieldHint": [ 
+                {"hint1": "\"I discovered how to _____.\" (starts with a VERB)"},
+                {"hint2": "Ex: get other people to send me all the buyer leads I wanted; sell electronic products 24/7 on complete autopilot (with no physical delivery or costs other than credit card fees); etc"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field12",
+            "fieldTitle": "(2 of 3) What's the 2nd big discovery revealed to you?",
+            "fieldHint": [ 
+                {"hint1": "\"I also discovered how to _____.\" (starts with a VERB)"},
+                {"hint2": "Ex: get those buyers to compete for my house (instead of me begging them to buy); create sales messages that drove people to action and got them to click \"BUY\" on my websites; etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field13",
+            "fieldTitle": "(3 of 3) What is the 3rd big thing you discovered?",
+            "fieldHint": [ 
+                {"hint1": "\"I also discovered how to _____.\" (starts with a VERB)"},
+                {"hint2": "Ex: structure the deal so it was a \"win win\" for all parties; build up huge subscriber lists of book buyers so I had a ready; willing and able audience waiting for each new book I published; etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field14",
+            "fieldTitle": "What was the #1 big payoff you got from your new discoveries?",
+            "fieldHint": [ 
+                {"hint1": "\"This meant I could now ______.\" (starts with a VERB)"},
+                {"hint2": "Ex: move to Florida so I could take the job; live my dream of working from home with a legitimate business; etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field15",
+            "fieldTitle": "What was the #2 big payoff you got from your new discoveries?",
+            "fieldHint": [ 
+                {"hint1": "\"This meant I was able to ______.\" (starts with a VERB)"},
+                {"hint2": "Ex: provide a wonderful life for my new wife; make a huge difference in people's lives in many different areas; etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field16",
+            "fieldTitle": "What was the #3 big payoff you got from your new discoveries?",
+            "fieldHint": [ 
+                {"hint1": "\"This meant I now had the power to ______.\" (starts with a VERB)"},
+                {"hint2": "Ex: help other people discover how to sell their houses too and save massive commissions; use my passion for being an author and selling my books to have a huge impact on the world; etc."}
+            ]
+        }
+    ]
+}

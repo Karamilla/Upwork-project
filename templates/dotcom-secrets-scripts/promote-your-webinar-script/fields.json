@@ -1,0 +1,195 @@
+{
+    "name": "Promote Your Webinar Scripts",
+    "fields": [
+        {
+            "fieldPropertyName:":"field1",
+            "fieldTitle": "Type of webinar:",
+            "fieldHint": [ 
+                {"hint1": "Ex: New, Free, Premium, Members-Only, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field2",
+            "fieldTitle": "Title of Webinar",
+            "fieldHint": [ 
+                {"hint1": "(Ex: Automatic Autoresponder Marketing)"},
+                {"hint2": "TIP: Use the Profitable Title Scripts to come up with great webinar title ideas"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field3",
+            "fieldTitle": "Tagline of the webinar",
+            "fieldHint": [ 
+                {"hint1": "Ex: How to put your email marketing on auto-pilot!"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field4",
+            "fieldTitle": "Your Name",
+            "fieldHint": [ 
+                {"hint1": "Ex: Jim Edwards"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field5",
+            "fieldTitle": "Topic of the webinar in 2-3 words",
+            "fieldHint": [ 
+                {"hint1": "Ex: Automatic Email Marketing"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field6",
+            "fieldTitle": "Webinar Date",
+            "fieldHint": [ 
+                {"hint1": "Ex: Thursday, Dec. 24, 2024"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field7",
+            "fieldTitle": "Webinar Time",
+            "fieldHint": [ 
+                {"hint1": "Ex: 7:00 p.m. Eastern"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field8",
+            "fieldTitle": "What's the top problem they face in this area?",
+            "fieldHint": [ 
+                {"hint1": "Ex: How to get your email marketing set up to run automatically"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field9",
+            "fieldTitle": "What's the #1 thing they want to know how to do in this area?",
+            "fieldHint": [ 
+                {"hint1": "Ex: The specific mechanics of setting up an automatic email autoresponder campaign"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field10",
+            "fieldTitle": "What's their #1 fear they want to avoid at all costs?",
+            "fieldHint": [ 
+                {"hint1": "Starts with a VERB ending in \"ING\""},
+                {"hint2": "Ex: Getting stuck with all the complicated technical details of setting things up"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field11",
+            "fieldTitle": "\"Big Picture\" Payoff of the webinar (How To)",
+            "fieldHint": [ 
+                {"hint1": "Starts with a \"How to\""},
+                {"hint2": "Ex: how to set your email marketing on auto-pilot AND on steroids at the same time"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field12",
+            "fieldTitle": "#1 Big Benefit of being on webinar",
+            "fieldHint": [ 
+                {"hint1": "Starts with a VERB"},
+                {"hint2": "Ex: build a free or paid newsletter to increase your sales"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field13",
+            "fieldTitle": "#2 Big Benefit of being on webinar",
+            "fieldHint": [ 
+                {"hint1": "Starts with a VERB"},
+                {"hint2": "Ex: build a big, profitable email list"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field14",
+            "fieldTitle": "#3 Big Benefit of being on webinar",
+            "fieldHint": [ 
+                {"hint1": "Starts with a VERB"},
+                {"hint2": "Ex: increase your \"stick rate\" on sales on everything from big-ticket items to even the humblest \"ebook!\""}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field15",
+            "fieldTitle": "Cool \"how to\" secret you'll drop on them in webinar",
+            "fieldHint": [ 
+                {"hint1": "Starts with a \"How to\""},
+                {"hint2": "Ex: how to turn an autoresponder into a monthly cash-flow source by creating a \"Simple, Sequential Membership Site!\""}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field16",
+            "fieldTitle": "First Question / tip / trick / secret answered on webinar",
+            "fieldHint": [ 
+                {"hint1": "Ex: What is an autoresponder? How do they work?"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field17",
+            "fieldTitle": "Second Question / tip / trick / secret answered on webinar",
+            "fieldHint": [ 
+                {"hint1": "Ex: How do I set up email autoresponder?"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field18",
+            "fieldTitle": "Third Question / tip / trick / secret answered on webinar",
+            "fieldHint": [ 
+                {"hint1": "Ex: Where can I find an autoresponder that does not require a confirmation email?"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field19",
+            "fieldTitle": "Fourth Question / tip / trick / secret answered on webinar",
+            "fieldHint": [ 
+                {"hint1": "Ex: How do I use an autoresponder to work on my free or paid newsletter?"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field20",
+            "fieldTitle": "Fifth Question / tip / trick / secret answered on webinar",
+            "fieldHint": [ 
+                {"hint1": "Ex: How do I turn an autoresponder into a simple, paid membership site?"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field21",
+            "fieldTitle": "Sixth Question / tip / trick / secret answered on webinar",
+            "fieldHint": [ 
+                {"hint1": "Ex: Is there an inexpensive autoresponder that will allow me to import leads from a csv or text file?"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field22",
+            "fieldTitle": "Seventh Question / tip / trick / secret answered on webinar",
+            "fieldHint": [ 
+                {"hint1": "Ex: How do you set up an autoresponder for an offline busines?"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field23",
+            "fieldTitle": "Eighth Question / tip / trick / secret answered on webinar",
+            "fieldHint": [ 
+                {"hint1": "Ex: Where do I find an autoresponder for instanty sending a file?"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field24",
+            "fieldTitle": "Ninth Question / tip / trick / secret answered on webinar",
+            "fieldHint": [ 
+                {"hint1": "Ex: What is the best way to build a relationship with my autoresponder list?"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field25",
+            "fieldTitle": "Tenth Question / tip / trick / secret answered on webinar",
+            "fieldHint": [ 
+                {"hint1": "Ex: Can I attach an autoresponder to Contact #7 form on my wordpress site?"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field26",
+            "fieldTitle": "Specific, tangible payoff wanted & can expect from webinar?",
+            "fieldHint": [ 
+                {"hint1": "Starts with a VERB"},
+                {"hint2": "Ex: put your marketing on true \"auto-pilot\" once and for all... no matter WHAT you sell or WHO you sell it to"}
+            ]
+        }
+    ]
+}

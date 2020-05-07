@@ -1,0 +1,301 @@
+{
+    "name": "5 Minute Perfect Webinar Script",
+    "fields": [
+        {
+            "fieldPropertyName:":"field1",
+            "fieldTitle": "What is your name?",
+            "fieldHint": [ 
+                {"hint1": "\"My name is _____.\""}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field2",
+            "fieldTitle": "What is your role or title as it applies to your audience?",
+            "fieldHint": [ 
+                {"hint1": "\"I am _____.\""},
+                {"hint2": "Ex: an author and software developer; a master herbalist, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field3",
+            "fieldTitle": "Who is your target audience? (PLURAL)",
+            "fieldHint": [ 
+                {"hint1": "\"I help _____ just like you.\""},
+                {"hint2": "Ex: funnel hackers; entrepreneurs; men and women, etc"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field4",
+            "fieldTitle": "Why does it make sense for you to talk to them today about this topic?",
+            "fieldHint": [ 
+                {"hint1": "\"I have _____.\""},
+                {"hint2": "Ex: helped literally hundreds of thousands of people around the world set up their websites, write their sales copy, sell their products, and drive traffic online for more than 20 years; now helped thousands of people overcome everything from problematic breakout prone, flaky, dry, cracked, itchy skin into gorgeous glowing skin, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field5",
+            "fieldTitle": "What type of \"chunks\" are you sharing with them today? (SINGULAR)",
+            "fieldHint": [ 
+                {"hint1": "\"I am going to share three _____s with you today.\""},
+                {"hint2": "Ex: secret, mistake, tip, myth, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field6",
+            "fieldTitle": "What are people really struggling with in this area that you can help them with? (SHORT)",
+            "fieldHint": [ 
+                {"hint1": "\"I am here to help people who are struggling with _____.\""},
+                {"hint2": "Ex: writing sales copy for their websites; their skin, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field7",
+            "fieldTitle": "What's the big idea or misconception they have in this area that you're about to sweep away for them?",
+            "fieldHint": [ 
+                {"hint1": "\"Hey, did you know that _____?\""},
+                {"hint2": "Ex: the most important part of any page on your website is not your offer, your logo, or your header graphic; the most powerful ingredient for your skin does not come from plants, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field8",
+            "fieldTitle": "What is the thing most people think is important in this area, but it's not?",
+            "fieldHint": [ 
+                {"hint1": "\"Most people think _____ is / are the most important thing(s) in this area, but it's not!\""},
+                {"hint2": "Ex: layout and formatting and graphics; botanical extracts and essential oils and herbal oils, etc"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field9",
+            "fieldTitle": "In what area of their lives or business are you about to revolutionize their way of thinking?",
+            "fieldHint": [ 
+                {"hint1": "\"What I'm about to share with you will revolutionize the way you _____.\""},
+                {"hint2": "Ex: look at every page on your funnel forever; do skin and the condition of your skin, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field10",
+            "fieldTitle": "What is the big idea or thing you'll reveal to them here? (General, but intriguing)",
+            "fieldHint": [ 
+                {"hint1": "So what is _____?"},
+                {"hint2": "Ex: the most important part of your website; this miracle ingredient, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field11",
+            "fieldTitle": "What is this big idea or thing you've just revealed called or named? (More specific)",
+            "fieldHint": [ 
+                {"hint1": "\"It's _____.\""},
+                {"hint2": "Ex: \"above the fold\"; unfiltered beeswax, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field12",
+            "fieldTitle": "In 1-2 sentences, give more details / explain to people more about the thing you just revealed (above).",
+            "fieldHint": [ 
+                {"hint1": "\"A more detailed explanation of this thing (above) is that it's _____.\""},
+                {"hint2": "Ex: what people first see without any scrolling when they pull up to your website, whether on their pc, mac or mobile device. What you show above the fold is all you get to make people either stay or bail on your site; actually unfiltered raw beeswax, which I have access to and we partner with farmers everywhere, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field13",
+            "fieldTitle": "What is the big payoff of this thing you just revealed to them? (VERB)",
+            "fieldHint": [ 
+                {"hint1": "\"You can _____.\""},
+                {"hint2": "Ex: use that to skyrocket your sales and subscribers using the traffic you’re already getting; get access to it and how it can change your skin, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field14",
+            "fieldTitle": "What are they thinking right now that is an objection to or question about your big idea / thing you just revealed?",
+            "fieldHint": [ 
+                {"hint1": "\"And I know you're probably thinking _____.\""},
+                {"hint2": "Ex: what is above the fold and why does it matter; Bees wax is sticky, it's messy, it's unavailable, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field15",
+            "fieldTitle": "What are you going to show them that will put their fears to rest right now?",
+            "fieldHint": [ 
+                {"hint1": "\"I'm going to show you a really great way you can _____ and get amazing results.\""},
+                {"hint2": "Ex: instantly incorporate this into any and all of your existing web pages; incorporate it everyday into your skincare, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field16",
+            "fieldTitle": "What is the first \"chunk\" (secret / mistake, etc.) you'll share with them?",
+            "fieldHint": [ 
+                {"hint1": "\"So the first (secret) is: _____.\""},
+                {"hint2": "Ex: people are looking for a reason to leave your site. Their finger is aching to hit the back button on there browser; that it's a humectant, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field17",
+            "fieldTitle": "What is the big idea behind this first \"chunk\" (secret / mistake, etc.)?",
+            "fieldHint": [ 
+                {"hint1": "\"The big idea here is _____.\""},
+                {"hint2": "Ex: that you need to give them a reason to stay on your site by catching their attention instantly with whatever you show above the fold; humectant is actually an ingredient that draws moisture from the air and it locks it into your skin, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field18",
+            "fieldTitle": "WHY is this first \"chunk\" (secret / mistake, etc.) important to them?",
+            "fieldHint": [ 
+                {"hint1": "\"This is important because _____.\""},
+                {"hint2": "Ex: catching their attention means they stick around and buy your stuff. NOT catching their attention means you die poor; most lotions today contain water and water attracts water, which means as you're applying lotion, it's actually dehydrating your skin. It's drawing that moisture from your skin and releasing it into the air, removing all of your vital nutrients and disrupting your whole system, and so many people are struggling for that very reason, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field19",
+            "fieldTitle": "What is the second \"chunk\" (secret / mistake, etc.) you'll share with them?",
+            "fieldHint": [ 
+                {"hint1": "\"So the second (secret) is: _____.\""},
+                {"hint2": "Ex: you have to let them know they’re in the right place at all times; it is antiseptic and it doesn't clog pores, so it's breathable, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field20",
+            "fieldTitle": "What is the big idea behind this second \"chunk\" (secret / mistake, etc.)?",
+            "fieldHint": [ 
+                {"hint1": "\"The big idea here is _____.\""},
+                {"hint2": "Ex: if people get confused about what page they’re on, why they’re there, or what they should do next, they will leave and they won’t buy; you can put it on your face, you can put on your body and it won't clog pores, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field21",
+            "fieldTitle": "WHY is this second \"chunk\" (secret / mistake, etc.) important to them?",
+            "fieldHint": [ 
+                {"hint1": "\"This is important because _____.\""},
+                {"hint2": "Ex: if they get lost or uncomfortable, you’re toast as far as making a sale. This is a big deal, especially when you’re guiding people through your funnel for upsells and one time offers; it helps fight bacteria that causes breakouts and it helps promote healthy, glowing skin, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field22",
+            "fieldTitle": "What is the third \"chunk\" (secret / mistake, etc.) you'll share with them?",
+            "fieldHint": [ 
+                {"hint1": "\"So the third (secret) is: _____.\""},
+                {"hint2": "Ex: you do NOT catch people’s attention the right way with your cute logo, fancy graphics or a picture of your new kitten; it is vitamin a rich, so it helps your skin to regenerate, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field23",
+            "fieldTitle": "What is the big idea behind this third \"chunk\" (secret / mistake, etc.)?",
+            "fieldHint": [ 
+                {"hint1": "\"The big idea here is _____.\""},
+                {"hint2": "Ex: You catch people’s attention with a big bold headline, a hook, or a question that stops them in their tracks, lets them know this is important to them, and forces them to pay attention; So think anti aging, helping to prevent aging, premature aging, it also helps get your skin plump and supple and cushion, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field24",
+            "fieldTitle": "WHY is this third \"chunk\" (secret / mistake, etc.) important to them?",
+            "fieldHint": [ 
+                {"hint1": "\"This is important because _____.\""},
+                {"hint2": "Ex: when you catch their attention the right way, you actually pre-frame them to want to buy from you; vitamin A is super important for skincare and you can find it in raw beeswax, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field25",
+            "fieldTitle": "After you reveal the 3 secrets / mistakes, etc., what are they still thinking at this point? (Objection)",
+            "fieldHint": [ 
+                {"hint1": "\"I know what you're thinking. It's _____.\""},
+                {"hint2": "Ex: hard to come up with a great headline for all these different pages and does it really matter all that much?; that it's sticky and, or maybe you're even thinking I already have bees wax in my skincare, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field26",
+            "fieldTitle": "What is the real truth or cause behind that objection that they don't even realize?",
+            "fieldHint": [ 
+                {"hint1": "\"Well the tricky thing here is that _____.\""},
+                {"hint2": "Ex: most people don’t spend enough time on their headlines because it’s hard to create great headlines, hooks and sales questions. In fact, it’s so hard that if they come up with one they’re ecstatic; most bees wax, what you're probably seeing is cera alba. It's an ingredient that is imported and it's been bleached, denatured, it's lost all of its color and all of its vital nutrients so it doesn't have the same potent powerful benefits as raw beeswax does, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field27",
+            "fieldTitle": "What is the \"thing\" you've developed / created / found that will solve this problem for them and make everything better?",
+            "fieldHint": [ 
+                {"hint1": "\"And so I've got this _____ for you.\""},
+                {"hint2": "Ex: free headline generator; lotion bar; amazing widget, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field28",
+            "fieldTitle": "What did you DO to bring this amazing \"thing\" to them? (VERB ending in ed)",
+            "fieldHint": [ 
+                {"hint1": "\"I _____ (ed) it myself.\""},
+                {"hint2": "Ex: discovered; invented; developed; created; commissioned; accidentally found, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field29",
+            "fieldTitle": "What can they do with this amazing \"thing\" you've just revealed to them?",
+            "fieldHint": [ 
+                {"hint1": "\"You can _____.\""},
+                {"hint2": "Ex: use to create over 111+ headlines in just a couple of minutes; leave on your skin, and you leave in your shower, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field30",
+            "fieldTitle": "What makes this amazing thing you're telling them about so special?",
+            "fieldHint": [ 
+                {"hint1": "\"What makes this so special is the fact that _____.\""},
+                {"hint2": "Ex: these headlines are based on some of the most successful headline templates ever tested. It’s like hiring the greatest copywriters of all time to write your headlines for you, but you can do it for FREE; It's waterless so that it can help to draw the moisture from the air and locks it into your skin. And it's not removing vital moisture and vital nutrients from your skin. So this is an ingredient. Here it is. I partner with farmers here in Colorado where we buy 40 pound blocks of raw unfiltered bees wax and we buy like 400 pounds at a time in 40 pound blocks and it's bright orange and it smells like honey in our entire shop, where we handcraft all of our products in house with all of our team to create these amazing products. And so this is our face lotion bar, and you basically would want to cleanse, tone and then apply the serum stick or the face lotion bar here while your skin is still wet, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field31",
+            "fieldTitle": "And what will this amazing thing DO for them?",
+            "fieldHint": [ 
+                {"hint1": "\"And so what this is going to do is _____.\""},
+                {"hint2": "Ex: make it so you just fill out a form, hit a button and PRESTO – instant access to over 100 proven headlines totally customized to your product, your industry, your audience. It couldn’t be easier; it's gonna create that regeneration. It's going to help with aging. It's breathable, it's gonna help problematic, breakout prone skin. And another really cool thing is that it also does contain essential oils and tons of botanical extracts and herbal oil such as carrot seed and pomegranate, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field32",
+            "fieldTitle": "What is a cool accomplishment / thing about you that gives you strong credibility in this area?",
+            "fieldHint": [ 
+                {"hint1": "\"I am someone who has _____.\""},
+                {"hint2": "Ex: created multiple million dollar offers and sales letters; discovered the secret of herbal alchemy, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field33",
+            "fieldTitle": "What is your super power or what do you know how to do that is the secret of your success for them?",
+            "fieldHint": [ 
+                {"hint1": "\"What I do is _____.\""},
+                {"hint2": "Ex: go find the patterns in sales copy that are proven to work. Then I pull in those patterns, I tear them apart to see what actually works, and then I combine them with a form of artificial intelligence, that makes it so you just fill out a form, whack a button and get totally customized sales copy at your fingertips… no experience required; I go out into the mountains and I gather herbs myself and infuse those herbs into oils. So we have name and horsetail which are great astringent and toners. They strengthen your cells and create this amazing glow, but there's about 40 different herbal ingredients that are in our lotion bar that just make for the amazing skin that you always dreamed of, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field34",
+            "fieldTitle": "What have you done / created for them that they can take action on today?",
+            "fieldHint": [ 
+                {"hint1": "\"What I've done is I've _____.\""},
+                {"hint2": "Ex: created this amazing, free headline generator you can use as much as you want to create headlines for as many pages as you want for as many products and services as you want; created this product for all of you, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field35",
+            "fieldTitle": "What can they do when they click the link?",
+            "fieldHint": [ 
+                {"hint1": "\"You can _____ when you click the link!\""},
+                {"hint2": "Ex: use it TODAY absolutely free; take advantage of it today; order it today, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field36",
+            "fieldTitle": "Why can't you keep this offer available forever / why will prices probably go up?",
+            "fieldHint": [ 
+                {"hint1": "\"We can't keep this offer available forever and prices will probably go up because _____.\""},
+                {"hint2": "Ex: it’s super valuable and we really should charge for it; the costs of beeswax is going up. And like I said, we are partnering with local farmers and it's kind of a rare ingredient. We also protect the bees and we follow safe practices so we promote healthy bees, but it is a very rare and precious ingredient so we don't always have access to it, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field37",
+            "fieldTitle": "What else do you offer that you'll introduce them to later on in your sales funnel?",
+            "fieldHint": [ 
+                {"hint1": "\"We also have _____.\""},
+                {"hint2": "Ex: 10 more scripts to help you above the fold, and 40 more to help you write entire sales letters, webinars, and even complete email sequences; a body bar. etc."}
+            ]
+        }
+    ]
+
+}

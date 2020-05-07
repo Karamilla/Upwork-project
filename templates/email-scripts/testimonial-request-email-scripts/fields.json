@@ -1,0 +1,108 @@
+{
+    "name": "Testimonial Request Email Scripts",
+    "fields": [
+        {
+            "fieldPropertyName:":"field1",
+            "fieldTitle": "What is your name",
+            "fieldHint": [ 
+                {"hint1": "\"My name is _____.\""}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field2",
+            "fieldTitle": "What is your support email or contact form page url?",
+            "fieldHint": [ 
+                {"hint1": "\"Please contact me at _____.\""},
+                {"hint2": "Ex: support@clickfunnels.com; ReplyToJim.com; etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field3",
+            "fieldTitle": "What is the name of your product / service?",
+            "fieldHint": [ 
+                {"hint1": "\"My product / service name is _____.\""}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field4",
+            "fieldTitle": "What is this product or service you're asking for the testimonial?",
+            "fieldHint": [ 
+                {"hint1": "\"This is a / an _____.\""},
+                {"hint2": "Ex: software, course, book, coaching program, etc"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field5",
+            "fieldTitle": "What is this the topic of your product or service in 2-3 words?",
+            "fieldHint": [ 
+                {"hint1": "\"My main topic is _____.\""},
+                {"hint2": "Ex: ebook writing; copywriting; real estate investing, etc.)"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field6",
+            "fieldTitle": "What is the #1 payoff your product / service gives people?",
+            "fieldHint": [ 
+                {"hint1": "\"The #1 payoff my product gives you is the ability to _____.\""},
+                {"hint2": "Ex: get your book done in record time; write amazing sales copy even if you can't sell; find and land profitable real estate investment deals, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field7",
+            "fieldTitle": "Who is your target audience? (PLURAL)",
+            "fieldHint": [ 
+                {"hint1": "\"_____ are my target audience.\""},
+                {"hint2": "Ex: Funnel Hackers; aspiring authors; copywriters; real estate investors, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field8",
+            "fieldTitle": "Who is the basic action your target audience wants to take in this area? (VERB)",
+            "fieldHint": [ 
+                {"hint1": "\"My target audience is trying to _____.\""},
+                {"hint1": "Ex: write a book; write sales copy; find good real estate deals, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field9",
+            "fieldTitle": "What's a BIG payoff they really want? (VERB)",
+            "fieldHint": [ 
+                {"hint1": "\"They really want to _____.\""},
+                {"hint2": "Ex: write a best selling book; create persuasive sales copy; find a million dollar investment deal, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field10",
+            "fieldTitle": "What's a big hurdle / problem / effort they wan to avoid? (VERB)",
+            "fieldHint": [ 
+                {"hint1": "\"They really want to avoid having to _____.\""},
+                {"hint2": "Ex: spend days, weeks or months writing; hire an expensive copywriter; struggle for years trying to find real estate deals worth doing, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field11",
+            "fieldTitle": "What's a big benefit of using your product or service? (VERB)",
+            "fieldHint": [ 
+                {"hint1": "\"Now you can _____.\""},
+                {"hint2" : "Ex: write and publish your own real books in real time; create amazing sales copy at the push of a button; find as many real estate deals as you could ever want or need to do, etc"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field12",
+            "fieldTitle": "What's the \"usual\" solution or path others follow that they can now avoid because of your product or service?",
+            "fieldHint": [ 
+                {"hint1": "\"Now you don't have to sit around waiting for _____ like everyone else does.\""},
+                {"hint2": "Ex: a \"traditional\" publisher to pick up your book; a copywriter to fit you into their schedule; the stars and moon to align so you can scrounge up a deal, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field13",
+            "fieldTitle": "What is your Facebook url?",
+            "fieldHint": [ 
+                {"hint1": "\"My customers really want to be a / an _____.\""},
+                {"hint2": "Ex: real, published author; copy hacker; million dollar real estate investor, etc."}
+            ]
+        }
+    ]
+
+}

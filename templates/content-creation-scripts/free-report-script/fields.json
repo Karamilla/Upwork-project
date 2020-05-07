@@ -1,0 +1,140 @@
+{
+    "name": "Free Report Script",
+    "fields": [
+        {
+            "fieldPropertyName:":"field1",
+            "fieldTitle": "Your name",
+            "fieldHint": [ 
+                {"hint1": "Ex: Jim Edwards; Russell Brunson, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field2",
+            "fieldTitle": "The website you're welcoming them to",
+            "fieldHint": [ 
+                {"hint1": "\"Welcome to _____.\""},
+                {"hint2": "Ex: TheJimEdwardsMethod.com; 7dayebook.com"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field3",
+            "fieldTitle": "The niche group of people you target (Singular)",
+            "fieldHint": [ 
+                {"hint1": "(Ex: funnel hacker; ebook author (or those who want to be))"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field4",
+            "fieldTitle": "The niche group of people you target (Plural)",
+            "fieldHint": [ 
+                {"hint1": "Ex: funnel hackers; ebook authors (or those who want to be)"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field5",
+            "fieldTitle": "The title of the free report you are giving away",
+            "fieldHint": [ 
+                {"hint1": "Ex: The Insiders Guide to Make More Money With Marketing Funnels; 5 Keys To Creating Money-Making Ebooks Fast!, etc."},
+                {"hint2": "TIP: Use the Profitable Title Scripts to come up with great report title ideas"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field6",
+            "fieldTitle": "The first question you answer",
+            "fieldHint": [ 
+                {"hint1": "Ex: What is a marketing funnel and why do you need one?; Can you still make money with ebooks in today's market?"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field7",
+            "fieldTitle": "The second question you answer",
+            "fieldHint": [ 
+                {"hint1": "Ex: How do you \"hack\" a proven, money-making funnel without the trial and error?; Is Amazon Kindle's \"Select\" lending program a good idea or not?"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field8",
+            "fieldTitle": "The third question you answer",
+            "fieldHint": [ 
+                {"hint1": "Ex: How do you make the most money from every single funnel?; How do I get my ebook published?"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field9",
+            "fieldTitle": "The fourth question you answer",
+            "fieldHint": [ 
+                {"hint1": "Ex: What do you do if you're being held hostage by your webmaster or your tech guy?; How do you make money with an ebook?"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field10",
+            "fieldTitle": "The fifth question you answer",
+            "fieldHint": [ 
+                {"hint1": "Ex: What software do you use to set up a marketing funnel that doesn't take months to figure out?; How do you write an ebook quickly?"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field11",
+            "fieldTitle": "Big result wanted from this area of their life/business",
+            "fieldHint": [ 
+                {"hint1": "Starts with a VERB!"},
+                {"hint2": "Ex: make more sales and build up your audience FAST; sell ebooks for HUGE profit margins, etc"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field12",
+            "fieldTitle": "A BIG \"how to\" secret they really want to know!",
+            "fieldHint": [ 
+                {"hint1": "\"My audience really wants to know how to _______.\""},
+                {"hint2": "Starts with and includes the words \"how to\""},
+                {"hint3": "Ex: how to set up a money-making funnel in less than 10 minutes; how to create money making ebooks fast and easy, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field13",
+            "fieldTitle": "What bribe do they get when they opt in?",
+            "fieldHint": [ 
+                {"hint1": "\"I am offering them a _____ to opt in to my list.\""},
+                {"hint2": "Ex: Free Video, Free Video Series, Free Report, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field14",
+            "fieldTitle": "Big Prize or payoff of the free bribe you're offering",
+            "fieldHint": [ 
+                {"hint1": "Complete the phrase: \"We've created a [free report] for you that explains ____\""},
+                {"hint2": "Ex: the top 5 questions (and answers) about six-figure marketing funnels every online business owner needs to know ; the top 5 questions and challenges every aspiring ebook author faces AND how to overcome them"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field15",
+            "fieldTitle": "Big takeway or \"reveal\" you make on the next page (sales page?)",
+            "fieldHint": [ 
+                {"hint1": "Complete the phrase: \"Also, on the next page you'll get all the details about how you can immediately _____\""},
+                {"hint2": "Ex: start creating professional-level marketing funnels to sell anything; get started writing and publishing your own outrageously profitable ebooks"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field16",
+            "fieldTitle": "Sales Page / Affiliate Link URL of what you're selling",
+            "fieldHint": [ 
+                {"hint1": "Full URL (Ex: http://clickfunnels.com; http://www.7dayebook.com)"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field17",
+            "fieldTitle": "Title / Name of the what you ultimately want them to buy",
+            "fieldHint": [ 
+                {"hint1": "Ex: ClickFunnels; The 7 Day Ebook, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field18",
+            "fieldTitle": "Headline for the product / service / coaching / software, etc. you want them to buy",
+            "fieldHint": [ 
+                {"hint1": "TIP: Use the headline from the target sales page."},
+                {"hint2": "Ex: How to write and publish your own OUTRAGEOUSLY Profitable eBook in as little as 7 days - even if you can't write, can't type and failed high school English class!"}
+            ]
+        }
+    ]
+}

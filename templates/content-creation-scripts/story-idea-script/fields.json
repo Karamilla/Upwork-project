@@ -1,0 +1,37 @@
+{
+    "name": "Story Idea Scripts",
+    "fields": [
+        {
+            "fieldPropertyName:":"field1",
+            "fieldTitle": "What's the Moral you want them to get from the Story you'll tell them?",
+            "fieldHint": [ 
+                {"hint1": "Completes the phrase \"The thing I really want you to take away from this is _______\""},
+                {"hint2": "Ex: sometimes we all need someone to see things in us we don't see in ourselves"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field2",
+            "fieldTitle": "What's the Meaning of the story for them?",
+            "fieldHint": [ 
+                {"hint1": "Completes the phrase \"So what this means to you is _____.\""},
+                {"hint2": "Ex: we all need to have mentors to help us grow and believe in ourselves"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field3",
+            "fieldTitle": "What is the emotion / feeling you want people to have at the end of your story?",
+            "fieldHint": [ 
+                {"hint1": "Completes the phrase \"By the end of the story you should feel _________.\""},
+                {"hint2": "Ex: inspired and wanting a mentor"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field4",
+            "fieldTitle": "What do you want people to do as a result of hearing your story?",
+            "fieldHint": [ 
+                {"hint1": "Completes the phrase \"Now, as a result of what we just shared here, I want you to consider _______.\""},
+                {"hint2": "Ex: joining my executive coaching program so I can be the one who believes in you and shows you how you can be more than you think you can be"}
+            ]
+        }
+    ]
+}

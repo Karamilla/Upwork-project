@@ -1,0 +1,174 @@
+{
+    "name": "Live Event Invitation Scripts",
+    "fields": [
+        {
+            "fieldPropertyName:":"field1",
+            "fieldTitle": "What exactly is the event? (1-2 words)",
+            "fieldHint": [ 
+                {"hint1": "\"This event is a/an _____.\""},
+                {"hint2": "Ex: mastermind meeting; webinar; dance; live seminar, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field2",
+            "fieldTitle": "What type of event is it?",
+            "fieldHint": [ 
+                {"hint1": "\"This event is _____.\""},
+                {"hint2": "Ex: Exclusive, New, Free, Premium, Members-Only, etc"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field3",
+            "fieldTitle": "What is the name of the event?",
+            "fieldHint": [ 
+                {"hint1": "\"The name of this event is _____.\""},
+                {"hint2": "(Ex: Dance Under The Stars, The Founder's Club Meeting, Millionaire Mastermind, Millennium Club Annual Meeting, etc.)"},
+                {"hint3": "TIP: Use the Profitable Title Scripts to come up with a great title for your event!"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field4",
+            "fieldTitle": "What is the tagline of the event?",
+            "fieldHint": [ 
+                {"hint1": "\"The tagline of this event is _____.\""},
+                {"hint2": "Ex: How to put your email marketing on auto-pilot!; Make this the best year ever; Have the time of your life; dance the night away under the stars; etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field5",
+            "fieldTitle": "Your Name",
+            "fieldHint": [ 
+                {"hint1": "Ex: Jim Edwards"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field6",
+            "fieldTitle": "What is the focus of the event in 2-3 words?",
+            "fieldHint": [ 
+                {"hint1": "\"The focus of this event is _____.\""},
+                {"hint2": "Ex: Automatic Email Marketing; marketing mastermind; 90's rock celebration, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field7",
+            "fieldTitle": "Event Date?",
+            "fieldHint": [ 
+                {"hint1": "Ex: Thursday, Dec. 24, 2024"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field8",
+            "fieldTitle": "Event Time?",
+            "fieldHint": [ 
+                {"hint1": "Ex: 7:00 p.m. Eastern"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field9",
+            "fieldTitle": "What's the top problem they face in this area?",
+            "fieldHint": [ 
+                {"hint1": "\"The top problem they face in this area is _____.\""},
+                {"hint2": "Ex: How to get your email marketing set up to run automatically"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field10",
+            "fieldTitle": "What's the #1 thing they want from this event?",
+            "fieldHint": [ 
+                {"hint1": "\"My target audience really wants to ______.\" Starts with a VERB"},
+                {"hint2": "Ex: discover the specific mechanics of setting up an automatic email autoresponder campaign; have a great time; put your ebook marketing on the fast track, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field11",
+            "fieldTitle": "What's their #1 fear they want to avoid at all costs?",
+            "fieldHint": [ 
+                {"hint1": "\"My audience is really afraid of _____.\" Starts with a VERB ending in \"ING\""},
+                {"hint2": "Ex: Getting stuck with all the complicated technical details of setting things up; spending another night at home alone in front of the TV, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field12",
+            "fieldTitle": "What is the \"Big Picture\" Payoff of this event?",
+            "fieldHint": [ 
+                {"hint1": "\"This event means you'll be able to______.\" Starts with VERB"},
+                {"hint2": "Ex: set your email marketing on auto-pilot AND on steroids at the same time; enjoy a wonderful night out with friends; sell more books on Amazon on autopilot, etc.)"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field13",
+            "fieldTitle": "#1 Big Benefit of being at the event",
+            "fieldHint": [ 
+                {"hint1": "\"You'll also be able to _____!\" Starts with a VERB"},
+                {"hint2": "Ex: build a free or paid newsletter to increase your sales; meet new people, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field14",
+            "fieldTitle": "#2 Big Benefit of being at the event",
+            "fieldHint": [ 
+                {"hint1": "\"You'll also be able to _____!\" Starts with a VERB"},
+                {"hint2": "Ex: build a big, profitable email list; have a great time, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field15",
+            "fieldTitle": "#3 Big Benefit of being at the event",
+            "fieldHint": [ 
+                {"hint1": "\"You'll also be able to _____!\" Starts with a VERB"},
+                {"hint2": "Ex: increase your \"stick rate\" on sales on everything from big-ticket items to even the humblest \"ebook!\"; forget your worries for a night, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field16",
+            "fieldTitle": "What's a cool thing that could happen for them at the event?",
+            "fieldHint": [ 
+                {"hint1": "\"And you just might even _______!\""},
+                {"hint2": "Ex: discover how to turn an autoresponder into a monthly cash-flow source by creating a \"Simple, Sequential Membership Site!\"; make some new friends, etc."}
+            ]
+        },{
+            "fieldPropertyName:":"field17",
+            "fieldTitle": "First big reason to be at this event! (Bullet)",
+            "fieldHint": [ 
+                {"hint1": "You need to be at this event because _______.\""},
+                { "hint2" : "TIP: Use the Brunson Bullet Scripts to come up with great bullets for your event!"} 
+            ]
+        },
+        {
+            "fieldPropertyName:":"field18",
+            "fieldTitle": "Second big reason to be at this event! (Bullet)",
+            "fieldHint": [ 
+                {"hint1": "\"You need to be at this event because _______.\""}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field19",
+            "fieldTitle": "Third big reason to be at this event! (Bullet)",
+            "fieldHint": [ 
+                {"hint1": "\"You need to be at this event because _______.\""}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field20",
+            "fieldTitle": "Fourth big reason to be at this event! (Bullet)",
+            "fieldHint": [ 
+                {"hint1": "\"You need to be at this event because _______.\""}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field21",
+            "fieldTitle": "Fifth big reason to be at this event! (Bullet)",
+            "fieldHint": [ 
+                {"hint1": "\"You need to be at this event because _______.\""}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field22",
+            "fieldTitle": "Specific, tangible payoff they want and can expect from this event?",
+            "fieldHint": [ 
+                {"hint1": "\"When you attend this event, you'll finally be able to _____!\" Starts with a VERB"},
+                {"hint2": "Ex: put your marketing on true \"auto-pilot\" once and for all... no matter WHAT you sell or WHO you sell it to"}
+            ]
+        }
+    ]
+}

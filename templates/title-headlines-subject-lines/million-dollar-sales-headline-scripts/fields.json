@@ -1,0 +1,53 @@
+{
+    "name": "Profitable Title Scripts",
+    "fields": [
+        {
+            "fieldPropertyName:":"field1",
+            "fieldTitle": "Keyword Topic in 1-3 Words",
+            "fieldHint": [
+                {"hint1": "Ex: investing, calcium, golf, weight loss, supplements, get in shape, heart health, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field2",
+            "fieldTitle": "Who is your target audience? (PLURAL)",
+            "fieldHint": [
+                {"hint1": "Ex: investors, home sellers, golfers, public speakers, funnel hackers, doctors, body builders, lonely men, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field3",
+            "fieldTitle": "Area of interest or concern",
+            "fieldHint": [
+                {"hint1": "Ex: stock market, physical fitness, public speaking, ebook marketing, pornography addiction, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field4",
+            "fieldTitle": "Action they need / want to take",
+            "fieldHint": [
+                {"hint1": "Starts with a VERB"},
+                {"hint2": "\"I really need to ______, but I'm not sure how to do it.\""},
+                {"hint3":"Ex: buy gold, write a book, fix your golf swing, run facebook ads, exercise, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field5",
+            "fieldTitle": "Big payoff or benefit they really want",
+            "fieldHint": [
+                {"hint1": "Starts with a VERB"},
+                {"hint2": "\"If I could _______, that would be AMAZING!\""},
+                {"hint3": "Ex: beat the market, improve your golf score, invest in precious metals, sell more from the stage, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field6",
+            "fieldTitle": "The \"enemy\" they face",
+            "fieldHint": [
+                {"hint1": "Can be a person, place, or thing."},
+                {"hint2": "Ex: Realtors, investment advisers, stage fright, inflation, a wicked slice, bright shiny object syndrome, etc."}
+            ]
+        }
+    ]
+
+}

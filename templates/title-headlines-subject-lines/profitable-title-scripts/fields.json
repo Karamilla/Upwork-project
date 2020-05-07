@@ -1,0 +1,45 @@
+{
+    "name": "Profitable Title Scripts",
+    "fields": [
+        {
+            "fieldPropertyName:":"field1",
+            "fieldTitle": "Keyword Topic in 1-3 Words",
+            "fieldHint": [
+                {"hint1": "Ex: investing, calcium, golf, weight loss, supplements, get in shape, heart health, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field2",
+            "fieldTitle": "Who is your target audience? (SINGULAR)",
+            "fieldHint": [
+                {"hint1": "\"My target audience is a / an _____.\""},
+                {"hint2": "Ex: investors, home sellers, golfers, public speakers, funnel hackers, doctors, body builders, lonely men, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field3",
+            "fieldTitle": "Who is your target audience? (SINGULAR)",
+            "fieldHint": [
+                {"hint1": "\"_____ are my target audience.\""},
+                {"hint2": "Ex: Home Sellers, Middle-Aged Men, funnel hackers, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field4",
+            "fieldTitle": "Action they need / want to take",
+            "fieldHint": [
+                {"hint1": "My target audience really needs to _____!\" (VERB)"},
+                {"hint2":"Ex: sell your house yourself, lose weight, write amazing funnel sales copy, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field5",
+            "fieldTitle": "What is the main RESULT or PAYOFF you offer? (VERB)",
+            "fieldHint": [
+                {"hint1": "\"With this you really can _____!\" (VERB)"},
+                {"hint2": "Ex: save the comission, lose that last 15 pounds forever, make a lot more sales, etc."}
+            ]
+        }
+    ]
+
+}

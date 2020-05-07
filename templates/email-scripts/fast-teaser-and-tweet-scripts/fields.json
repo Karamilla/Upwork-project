@@ -1,0 +1,74 @@
+{
+    "name": "Fast Teaser and Tweet Scripts",
+    "fields": [
+        {
+            "fieldPropertyName:":"field1",
+            "fieldTitle": "Who is your target audience? (SINGULAR)",
+            "fieldHint": [ 
+                {"hint1": "Ex: beginning writer, insurance agent, public speaker"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field2",
+            "fieldTitle": "What's a big NEED they have right now?",
+            "fieldHint": [ 
+                {"hint1": "\"I really NEED _____.\""},
+                {"hint2": "Ex: need to make money quickly, need more clients, need more speaking gigs"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field3",
+            "fieldTitle": "What do they really WANT right now?",
+            "fieldHint": [ 
+                {"hint1": "\"I really WANT to ______.\""},
+                {"hint2": "Ex: want to get paid to write, want to sell more insurance, want to make more money from stage"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field4",
+            "fieldTitle": "Hard job they know they have to do, but dread or don't know how",
+            "fieldHint": [ 
+                {"hint1": "Starts with VERB ending in \"ING\""},
+                {"hint2": "Ex: finding people and places to pay you to write, prospecting for business, networking with meeting planners"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field5",
+            "fieldTitle": "What are you sending them to in this teaser?",
+            "fieldHint": [ 
+                {"hint1": "Ex: new video, ebook, article, 5-Star course"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field6",
+            "fieldTitle": "What's the title of what you're sending them to?",
+            "fieldHint": [ 
+                {"hint1": "Ex: How Can a Newbie Make Money Writing, Prospecting Secrets, 10 Speaking Tips"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field7",
+            "fieldTitle": "Specifically how does this address their needs / pain?",
+            "fieldHint": [ 
+                {"hint1": "Starts with a VERB"},
+                {"hint2": "Ex: shows you how and where to get paid to write quickly, explains pain-free prospecting techniques, gives you endless networking ideas"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field8",
+            "fieldTitle": "Specifically how does this help them get what they want?",
+            "fieldHint": [ 
+                {"hint1": "\"To make your life easier, this product / service ______.\""},
+                {"hint2": "Ex: shows you exactly where to find these people and sites that will pay you to write, gives a step by step daily prospecting plan, shows you how to plan the perfect pitch"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field9",
+            "fieldTitle": "URL link to product, video, etc.",
+            "fieldHint": [ 
+                {"hint1": "Ex: http://funnelscripts.com"}
+            ]
+        }
+    ]
+
+}

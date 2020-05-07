@@ -1,0 +1,115 @@
+{
+    "name": "The Demo Script",
+    "fields": [
+        {
+            "fieldPropertyName:":"field1",
+            "fieldTitle": "What is the name of the product / service you are demonstrating?",
+            "fieldHint": [ 
+                {"hint1": "\"The name of the product / service I'm demonstrating is _____.\""},
+                {"hint2": "Ex: ClickFunnels; Funnel Scripts; Super Keyword Scraper, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field2",
+            "fieldTitle": "What is this product / service?",
+            "fieldHint": [ 
+                {"hint1": "This is _____.\""},
+                {"hint2": "Ex: funnel builder software; push-button copywriting software; keyword research software, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field3",
+            "fieldTitle": "What is the #1 biggest benefit this product / service offers?",
+            "fieldHint": [ 
+                {"hint1": "\"This product / service enables you to _____.\""},
+                {"hint2": "Ex: create money-making funnels in minutes; write money-sucking sales copy at the click of a mouse; compress 10 hours of keyword research into 22 seconds, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field4",
+            "fieldTitle": "What is the biggest pain this product / service eliminates?",
+            "fieldHint": [ 
+                {"hint1": "\"With this product / service you can aovid _____.\""},
+                {"hint2": "Ex: being held hostage by your web guy; paying an expensive copywriter one thin dime; struggling for days to find the right keywords to target in your ads and content marketing, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field5",
+            "fieldTitle": "What is the BIG payoff for users? (VERB)",
+            "fieldHint": [ 
+                {"hint1": "This makes it easy and fast to _____."},
+                {"hint2": "Ex: set up your own funnels yourself to sell anything you can think of; come up with all the ads, emails, webinars, and other sales copy you need to sell anything; find the hot, profitable, \"hidden\" keywords your competitors are missing in their research, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field6",
+            "fieldTitle": "What's the #1 usual alternative people think of when they try to accomplish what this product or service does?",
+            "fieldHint": [ 
+                {"hint1": "Most people think you have to _____ to get results."},
+                {"hint2": "Ex: hire a nerdy webmaster living in his mom's basement; hire an expensive copywriter who'll take forever; drive yourself crazy trying to compile and analyze thousands of keywords by hand, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field7",
+            "fieldTitle": "What critical points / steps do you want to cover as you explain or show the product or service?",
+            "fieldHint": [ 
+                {"hint1": "Here are the things I want to cover during the demo: _____.\" Hit \"Enter\" after each line to create a new bullet\""}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field8",
+            "fieldTitle": "What is all the stuff they don't need to pay for / endure / do anymore once they have the product / service you're demonstrating? (3-4 Bullet list)",
+            "fieldHint": [ 
+                {"hint1": "Here's a list of all the things you won't need to do / pay for / endure / suffer from: _____.\" Hit \"Enter\" after each line to create a new bullet"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field9",
+            "fieldTitle": "What is the price of your product or service?",
+            "fieldHint": [ 
+                {"hint1": "This costs just _____"},
+                {"hint2": "Ex: $97 a month; $797; $29 bucks"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field10",
+            "fieldTitle": "What's an alternative way to express / compare the cost of your product / service?",
+            "fieldHint": [ 
+                {"hint1": "\"That's less than the cost of _____.\""},
+                {"hint2": "Ex: dinner for 4 at one of those gut buster buffet restaurants (you know the one); hiring a copywriter to write just 3 emails for you; a large everything pizza at your local italian restaurant, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field11",
+            "fieldTitle": "How fast can they see results?",
+            "fieldHint": [ 
+                {"hint1": "\"You'll see results in _____.\""},
+                {"hint2": "Ex: less than 45minutes; less time than it takes to bake a frozen pizza; 30 seconds, etc"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field12",
+            "fieldTitle": "Why should they grab this now?",
+            "fieldHint": [ 
+                {"hint1": "\"You should grab this now because _____.\""},
+                {"hint2": "Ex: you're just one funnel away from changing your life and the life of your family; we've already raised the price 3 times and we can't keep it at this level forever; we only have 100 available at this price, etc"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field13",
+            "fieldTitle": "What is your guarantee / risk reversal?",
+            "fieldHint": [ 
+                {"hint1": "\"You're fully protected with our ____.\""},
+                {"hint2": "Ex: 30-day money back guarantee; empty jar guarantee, etc"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field14",
+            "fieldTitle": "What is your call to action? What do you want them to do next?",
+            "fieldHint": [ 
+                {"hint1": "\"Act now! Go ahead and _____.\""},
+                {"hint2": "Ex: sign up for the free 14 day trial and take ClickFunnels for a spin; watch the amazing training we have for you on 3 secrets of copywriting plus even more cool demos to save you time and money; grab your copy of the software from the link below right now, etc."}
+            ]
+        }
+    ]
+}

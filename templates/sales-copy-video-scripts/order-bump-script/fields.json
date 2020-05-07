@@ -1,0 +1,48 @@
+{
+    "name": "Order Bump Scripts",
+    "fields": [
+        {
+            "fieldPropertyName:":"field1",
+            "fieldTitle": "What is the name of what you're offering in the bump?",
+            "fieldHint": [ 
+                {"hint1": "Ex: Perfect Webinar Wizard, Neuropathy Magic, Cafe Ole, Biohacking Secrets, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field2",
+            "fieldTitle": "What are you offering for the bump?",
+            "fieldHint": [ 
+                {"hint1": "Ex: audio book, extra bottle of supplement, home study course, powerpoint templates, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field3",
+            "fieldTitle": "What's the big payoff of what you're offering?(VERB)",
+            "fieldHint": [ 
+                {"hint1": "Ex: get more traffic, make more sales, melt fat and lose weight, relieve pain fast, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field4",
+            "fieldTitle": "What simple action do they need to take to get the payoff?(VERB)",
+            "fieldHint": [ 
+                {"hint1": "Ex: fill in a few blanks, download the templates, take it with your morning coffee, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field5",
+            "fieldTitle": "What's a negative thing or action they want to avoid?",
+            "fieldHint": [ 
+                {"hint1": "Completes phrase \"...without _____!\""},
+                {"hint2": "Ex: starvation diets, dangerous drugs, wasting money on PPC traffic, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field6",
+            "fieldTitle": "How much is the what you're offering (price)?",
+            "fieldHint": [ 
+                {"hint1": "Ex: $37, $497, $9, $5/hr, $19/month"}
+            ]
+        }
+    ]
+}

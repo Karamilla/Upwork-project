@@ -1,0 +1,653 @@
+{
+    "name": " Hook, Story, Offer Script",
+    "fields": [
+        {
+            "fieldPropertyName:":"field1",
+            "fieldTitle": "What is your hook / headline?",
+            "fieldHint": [ 
+                {"hint1": "Create your Hook Headline using:> Killer Headline Scripts > Sales Opener Question Script > Opportunity Switch Headline Scripts"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field2",
+            "fieldTitle": "What is your name?",
+            "fieldHint": [ 
+                {"hint1": "\"My name is _____.\""}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field3",
+            "fieldTitle": "What is your role or title as it applies to your audience?",
+            "fieldHint": [ 
+                {"hint1": "\"I am _____.\""},
+                {"hint2": "Ex: an author and software developer; a master herbalist, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field4",
+            "fieldTitle": "Why does it make sense for you to talk to them and help them in this area?",
+            "fieldHint": [ 
+                {"hint1": "\"I have _____.\""},
+                {"hint2": "Ex: helped literally hundreds of thousands of people around the world set up their websites, write their sales copy, sell their products, and drive traffic online for more than 20 years; now helped thousands of people overcome everything from problematic breakout prone, flaky, dry, cracked, itchy skin into gorgeous glowing skin, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field5",
+            "fieldTitle": "What is the topic of your product, service, book, etc. in 2-3 words?",
+            "fieldHint": [ 
+                {"hint1": "\"My topic is _____."},
+                {"hint2": "Ex: for sale by owner, get more clients, book writing, video blogging, dry cleaning, executive coaching, pt testing, fried butter"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field6",
+            "fieldTitle": "Backstory Identity",
+            "fieldHint": [ 
+                {"hint1": "\"I was a __________.\""},
+                {"hint2": "Ex: broke college student athlete, new husband."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field7",
+            "fieldTitle": "Backstory Struggle",
+            "fieldHint": [ 
+                {"hint1": "\"At the time, I was trying to _________.\"(VERB)"},
+                {"hint2": "(Ex: make money online; sell my two houses, etc.)"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field8",
+            "fieldTitle": "What was something *external* blocking you from your desire?",
+            "fieldHint": [ 
+                {"hint1": "\"I was struggling with ______.\" (VERB ending in \"ING)"},
+                {"hint2": "Ex: making only a few dollars a day, and many days I actually lost money; finding a buyer for two houses I owned, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field9",
+            "fieldTitle": "What happened that caused you to finally \"hit the wall?\"",
+            "fieldHint": [ 
+                {"hint1": "\"The problem was that _______.\""},
+                {"hint2": "Ex: Google had changed their algorithms and increased their ad costs; I got a call that I had to be there in 60 days or they would give the job to someone else, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field10",
+            "fieldTitle": "What did \"hitting the wall\" mean for you here? (NEGATIVE)",
+            "fieldHint": [ 
+                {"hint1": "\"Hitting the wall in this case meant ________.\""},
+                {"hint2": "Ex: suddenly my little potato gun website was no longer making any money, so I had to   turn it off; if I didn't get those houses sold, I was on the verge of losing out on the opportunity of a lifetime, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field11",
+            "fieldTitle": "#1 consequence of what hitting the wall meant. (NEGATIVE)",
+            "fieldHint": [ 
+                {"hint1": "\"And in this case, hitting the wall actually __________.\"(VERB)"},
+                {"hint2": "Ex: killed my only source of income; meant I was on the clock to get those houses sold or see my dreams squashed forever, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field12",
+            "fieldTitle": "What was the epiphany \"Event\" for you?",
+            "fieldHint": [ 
+                {"hint1": "\"But luckily for me, that's when I _________ and everything changed.\" (VERB)"},
+                {"hint2": "Ex: ran into a friend who told me a secret; picked up and read a book; saw a video; had a brainstorm, etc"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field13",
+            "fieldTitle": "What did this epiphany event reveal to you?",
+            "fieldHint": [ 
+                {"hint1": "\"From this event I discovered all about _________.\"(VERB ending in \"ING\")"},
+                {"hint2": "Ex: adding upsells to his products; socially engineering a house sale instead of wasting a ton of money on useless ads. etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field14",
+            "fieldTitle": "What did this big \"how to reveal\" mean to you?",
+            "fieldHint": [ 
+                {"hint1": "\"Discovering this how to secret meant _______.\""},
+                {"hint2": "Ex: all his websites started working again in spite of Google’s increased costs; I could find a buyer without paying 6% to a Realtor, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field15",
+            "fieldTitle": "What did this big \"how to reveal\" mean to you?",
+            "fieldHint": [ 
+                {"hint1": "\"Discovering this how to secret meant _______.\""},
+                {"hint2": "Ex: all his websites started working again in spite of Google’s increased costs; I'd found a new way to find a buyer without paying 6% to a Realtor, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field16",
+            "fieldTitle": "The Plan: What was the first thing you planned to do?",
+            "fieldHint": [ 
+                {"hint1": "\"My plan was to start _______.\" (VERB ending in :ING:)"},
+                {"hint2": "Ex: creating sales funnels in other markets that had better potential to make money than the potato gun market; contacting everyone I knew to ask them to help me advertise my house to their friends, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field17",
+            "fieldTitle": "The Plan: What was the first action you took?",
+            "fieldHint": [ 
+                {"hint1": "\"So I started _________.\" (VERB ending in \"ING)"},
+                {"hint2": "Ex: creating funnels and selling products in the weight loss market; making a list of everyone I knew who lived within a 20 mile radius of my house, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field18",
+            "fieldTitle": "The Plan: What was the next action you took?",
+            "fieldHint": [ 
+                {"hint1": "\"We then _______.\" (VERB)"},
+                {"hint2": "Ex: created and started selling supplements to people who suffered from diabetic neuropathy; started calling those people and letting them know our house was for sale and that we needed their help, etc"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field19",
+            "fieldTitle": "The Plan: What was the final big action you took?",
+            "fieldHint": [ 
+                {"hint1": "\"After that, we ________.\" (VERB)"},
+                {"hint2": "Ex: created funnels in the couponing, dating, and parenting markets, and others; sent everyone a physical flyer with a picture of our house and a stats sheet, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field20",
+            "fieldTitle": "Achievement: What's the bottom line BIG result you got that your target audience is also going to think is cool and want for themselves?",
+            "fieldHint": [ 
+                {"hint1": "\"In the end, we were able to _______.\" (VERB)"},
+                {"hint2": "Ex: 3X (TRIPLE) our Instagram following and 4X (QUADRUPLE) the size of our private Facebook group in less than 60 days!, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field21",
+            "fieldTitle": "Achievement: When the plan came together, what did you decide?",
+            "fieldHint": [ 
+                {"hint1": "\"We ended up getting so frustrated that we decided to ______. (VERB)"},
+                {"hint2": "Ex: create a platform that would make it really easy for us to create sales funnels; create a course that taught everything we learned about how to sell multiple houses yourself, no matter what the market conditions, etc.Ex: create a platform that would make it really easy for us to create sales funnels; create a course that taught everything we learned about how to sell multiple houses yourself, no matter what the market conditions, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field22",
+            "fieldTitle": "Achievement: What's the name of the solution you created?",
+            "fieldHint": [ 
+                {"hint1": "\"We chose to call it _______.\""},
+                {"hint2": "Ex: ClickFunnels, Selling Your Home Alone, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field23",
+            "fieldTitle": "Achievement: What amazing, DREAM outcome did you achieve?",
+            "fieldHint": [ 
+                {"hint1": "\"Though it sounds almost too good to be true, I can now ________.\" (VERB)"},
+                {"hint2": "Ex: build in an hour—by myself, without any tech people—what used to take me and my team of 8 guys 6–8 weeks, and these funnels run faster and converted way higher; sell any house without an agent, no matter what the price, neighborhood or market conditions, easier and faster than hiring a broker and paying their outrageous commissions, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field24",
+            "fieldTitle": "What's the overall Title / Name of your offer or what you're selling?",
+            "fieldHint": [ 
+                {"hint1": "\"The Big title / name of my offer is ______.\""},
+                {"hint2": "Ex: ClickFunnels; Funnel Scripts; Copywriting Secrets; Funnel Hacker Mentor etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field25",
+            "fieldTitle": "How much time does it take to START getting results with your product, service, book, etc.?",
+            "fieldHint": [ 
+                {"hint1": "\"You can get results in _____.\""},
+                {"hint2": "Ex: almost immediately; about an hour; a single afternoon; less than a day; less than a week; less than a couple of weeks; less time than it takes a bake a cake"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field26",
+            "fieldTitle": "WHO is your target niche audience for this offer? (SINGULAR, 2-3 words)",
+            "fieldHint": [ 
+                {"hint1": "\"My target audience is a / an _____.\""},
+                {"hint2": "Ex: a for sale by owner; a business coach; a new author"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field27",
+            "fieldTitle": "How would you describe your typical, ideal customer AND what they want?",
+            "fieldHint": [ 
+                {"hint1": "\"My idea customer is _____ who wants _____.\""},
+                {"hint2": "2 parts: WHO they are plus WHAT they WANT"},
+                {"hint3": "Ex: a homeowner who wants to get their house sold; a well qualified executive coach who wants more clients; a novice book author who wants to write a great book"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field28",
+            "fieldTitle": "What is your ideal customer's main pressing need in this area?",
+            "fieldHint": [ 
+                {"hint1": "\"My customer really (needs to) ____, (but can't) ___\""},
+                {"hint2": "Formula: \"My customer really needs to ____, but can't ___\""},
+                {"hint3": "Ex: needs to sell his house but can't afford the commission; needs more coaching clients, but can't attract new sign ups; needs to write a book, but can't figure out how to get started, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field29",
+            "fieldTitle": "What's the main solution your product / service gives your audience on a silver platter?",
+            "fieldHint": [ 
+                {"hint1": "My product / service helps you with ______."},
+                {"hint2": "Ex: how to use FREE sites to advertise your house as a \"hidden gem\"; tools and coaching to help you write a great book, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field30",
+            "fieldTitle": "What NEGATIVE person, thing, or circumstance do they believe is working against them? (OBSTACLE)",
+            "fieldHint": [ 
+                {"hint1": "\"The biggest OBSTACLE you have to overcome is _____.\""},
+                {"hint2": "Ex: Brokers who control the inventory of houses with MLS; Traditional marketing makes it very expensive to find coaching clients / sell books"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field31",
+            "fieldTitle": "WHY is this OBSTACLE (above) such a huge deal for your target audience?",
+            "fieldHint": [ 
+                {"hint1": "\"This obstacle is a HUGE deal for you because _____.\""},
+                {"hint2": "Ex: since Agents control inventory, all good buyers work with agents; if you don't already have clients it's very hard to get credibility; it's hard to stand out from the crowd of authors"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field32",
+            "fieldTitle": "HOW does this OBSTACLE (above) hurt them or keep them from getting results they want?",
+            "fieldHint": [ 
+                {"hint1": "\"This obstacle really HURTS you because it means _____.\""},
+                {"hint2": "Ex: most buyers won't see your house because it's not in the MLS; you can't reach enough coaching prospects to build your credibility; you can't get your book published"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field33",
+            "fieldTitle": "What's an idea your target audience believes is true, but is actually completely WRONG? (VERB ending in \"ing \"",
+            "fieldHint": [ 
+                {"hint1": "\"Even though it's not true, many people believe _____.\""},
+                {"hint2": "VERB ending in \"ing \""},
+                {"hint3": "Ex: Selling your home without an agent is really hard; Getting new coaching clients is really hard; Writng a book is really hard and takes a long time, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field34",
+            "fieldTitle": "(1 of 5) What is the absolute #1 COOLEST RESULT your target audience gets from your product / service / book?",
+            "fieldHint": [ 
+                {"hint1": "\"We make it easy to _____!\" (Starts with a VERB)"},
+                {"hint2": "Ex: Sell your house for top dollar - no commissions; Establish credibility instantly as a coach with your own well-written book; Write a damn good, unique book you can be proud of"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field35",
+            "fieldTitle": "(2 of 5) What's the 2nd coolest RESULT your solution gives your target audience?",
+            "fieldHint": [ 
+                {"hint1": "\"We make it easy to _____!\" (Starts with a VERB)"},
+                {"hint2": "Ex: Leverage the Internet to advertise your home for sale; Get more client referrals; Write your book without the pain and hassle of other methods"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field36",
+            "fieldTitle": "(3 of 5) What's ANOTHER great RESULT your product or service gets for people?",
+            "fieldHint": [ 
+                {"hint1": "\"We make it easy to _____!\" (Starts with a VERB)"},
+                {"hint2": "Ex: Find a qualified buyer; Differentiate yourself from all other coaches; Get your book done VERY FAST"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field37",
+            "fieldTitle": "(4 of 5) And what is yet another incredible RESULT your product or service gets for people?",
+            "fieldHint": [ 
+                {"hint1": "\"We make it easy to _____!\" (Starts with a VERB)"},
+                {"hint2": "Ex: Negotiate a win/win contract with a buyer; Leverage book in marketing and advertising to get more clients; Write a book you will be PROUD to have people read"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field38",
+            "fieldTitle": "(5 of 5) What is one more awesome RESULT you get FOR your target audience?",
+            "fieldHint": [ 
+                {"hint1": "\"We make it easy to _____!\" (Starts with a VERB)"},
+                {"hint2": "Ex: Get to closing and move on with life; Stop working so hard to find new coaching clients and have your pick of the best students; Have fun and enjoy the book creation process"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field39",
+            "fieldTitle": "(1 of 3) What's the #1 biggest reason your target audience should act on this now?",
+            "fieldHint": [ 
+                {"hint1": "\"You should act right now because _____.\""},
+                {"hint2": "Ex: The Rules of real estate have changed and the Internet makes it possible to sell without an agent; You need a way to quickly set yourself apart from competition and a book is the best way"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field40",
+            "fieldTitle": "(2 of 3) What's another really important thought about why now is the best time for them to take action?",
+            "fieldHint": [ 
+                {"hint1": "\"You should act right now because _____.\""},
+                {"hint2": "Ex: You don't need agent or the MLS to find a good, qualified buyer anymore; Your own good, unique book is the #1 way create instant credibility in business in today's market"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field41",
+            "fieldTitle": "(3 of 3) What's one last big reason why your audience should act now?",
+            "fieldHint": [ 
+                {"hint1": "\"You should act right now because _____.\""},
+                {"hint2": "Ex: The Internet and other tools & websites make it easier than ever to find buyers; The 27 Day Book.com process, tools, software and coaching make it simple and easy to get your book done NOW!"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field42",
+            "fieldTitle": "Offer Piece #1: What's the Title / Name of this first part of your offer?",
+            "fieldHint": [ 
+                {"hint1": "If you need help with a cool title, use the  Profitable Title Script"},
+                {"hint2": "\"The title / name of this part of my offer is ______.\""},
+                {"hint3": "Ex: Topic Detective Wizard, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field43",
+            "fieldTitle": "Offer Piece #1: What is this? (1-3 words)",
+            "fieldHint": [ 
+                {"hint1": "\"This is a / an ______.\""},
+                {"hint2": "Ex: software program, course, training, one-on-one coaching, etc"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field44",
+            "fieldTitle": "Offer Piece #1: What's the monetary Value of this first part of your offer?",
+            "fieldHint": [ 
+                {"hint1": "\"The value of this first part of my offer is ______.\""},
+                {"hint2": "Ex: $97, etc"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field45",
+            "fieldTitle": "Offer Piece #1: What does this first offer piece do for them?",
+            "fieldHint": [ 
+                {"hint1": "\"This makes it easy for you to ______.\" (Starts with a VERB)"},
+                {"hint2": "Ex: research your niche audience super fast; learn to write great classified ads; create the ultimate speaker one-sheet; emergency fitness training routine, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field46",
+            "fieldTitle": "Offer Piece #1: What is the BENEFIT of this feature (above)?",
+            "fieldHint": [ 
+                {"hint1": "\"This makes it so you can _______.\" (Starts with a VERB)"},
+                {"hint2": "Ex: get inside their minds quickly; generate tons of buyer leads this weekend; instantly set yourself apart from every other speaker they're considering; reach passing levels for your test in a month or less, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field47",
+            "fieldTitle": "Offer Piece #1: What do this feature & benefit together MEAN to them in their life, business, goals, etc.? (connect to an EMOTIONALLY charged payoff)",
+            "fieldHint": [ 
+                {"hint1": "\"This means you will finally be able to _______.\" (Starts with a VERB)"},
+                {"hint2": "Ex: reach even the most outrageous sales goals faster than you ever dreamed possible; sell your house and get on with your life; sell more from the back of the room and give your family the lifestyle they deserve; land the dream job you always wanted, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field48",
+            "fieldTitle": "Offer Piece #2: What's the Title / Name of this second part of your offer?",
+            "fieldHint": [ 
+                {"hint1": "If you need help with a cool title, use the  Profitable Title Script"},
+                {"hint2": "\"The title / name of this part of my offer is ______.\""},
+                {"hint3": "Ex: Topic Detective Wizard, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field49",
+            "fieldTitle": "Offer Piece #2: What is this? (1-3 words)",
+            "fieldHint": [ 
+                {"hint1": "\"This is a / an ______.\""},
+                {"hint2": "Ex: software program, course, training, one-on-one coaching, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field50",
+            "fieldTitle": "Offer Piece #2: What's the monetary Value of this second part of your offer?",
+            "fieldHint": [ 
+                {"hint1": "\"The value of this first part of my offer is ______.\""},
+                {"hint2": "Ex: $97, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field51",
+            "fieldTitle": "Offer Piece #2: What does this second offer piece do for them?",
+            "fieldHint": [ 
+                {"hint1": "\"This makes it easy for you to ______.\" (Starts with a VERB)"},
+                {"hint2": "Ex: get off to a fast start with Instagram using hashtags; negotiate win-win contracts with nervous buyers; learn to creat the ultimate presentation to sell; know what to eat and drink before, during and after the fitness test, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field52",
+            "fieldTitle": "Offer Piece #2: What is the BENEFIT of this feature (above)?",
+            "fieldHint": [ 
+                {"hint1": "\"This makes it so you can _______.\" (Starts with a VERB)"},
+                {"hint2": "Ex: generate targeted traffic quickly; avoid having a deal blow up in you face; make a ton of sales no matter how resistant the audience; instantly have the best energy levels for high performance, etc"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field53",
+            "fieldTitle": "Offer Piece #2: What do this feature & benefit together MEAN to them in their life, business, goals, etc.? (connect to an EMOTIONALLY charged payoff)",
+            "fieldHint": [ 
+                {"hint1": "\"This means you will finally be able to _______.\" (Starts with a VERB)"},
+                {"hint2": "Ex: stop wasting money and time on traffic sources that don't work; get to closing in one piece; make every speech a potential gold mine; stand out as a top performer, especially at promotion time, etc"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field54",
+            "fieldTitle": "Offer Piece #3: What's the Title / Name of this third part of your offer?",
+            "fieldHint": [ 
+                {"hint1": "If you need help with a cool title, use the  Profitable Title Script"},
+                {"hint2": "\"The title / name of this part of my offer is ______.\""},
+                {"hint3": "Ex: Hashtag Scraper, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field55",
+            "fieldTitle": "Offer Piece #3: What is this? (1-3 words)",
+            "fieldHint": [ 
+                {"hint1": "\"This is a / an ______.\""},
+                {"hint2": "Ex: software program, course, training, one-on-one coaching, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field56",
+            "fieldTitle": "Offer Piece #3: What's the monetary Value of this third part of your offer?",
+            "fieldHint": [ 
+                {"hint1": "\"The value of this first part of my offer is ______.\""},
+                {"hint2": "Ex: $97, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field57",
+            "fieldTitle": "Offer Piece #3: What does this third offer piece do for them?",
+            "fieldHint": [ 
+                {"hint1": "\"This makes it easy for you to ______.\" (Starts with a VERB)"},
+                {"hint2": "Ex: instantly research all the hashtags for your niche on Instagram and Twitter; \"Set the stage\" for KILLER Showings to buyers; create order forms that sell \"subconsciously\"; learn the best way for your body to transition from one test to another, etc"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field58",
+            "fieldTitle": "Offer Piece #3: What is the BENEFIT of this feature (above)?",
+            "fieldHint": [ 
+                {"hint1": "\"This makes it so you can _______.\" (Starts with a VERB)"},
+                {"hint2": "Ex: find all the most popular hashtags as well has hidden gem hashtags your competitors are missing; put up the best first impression every time; use your handouts to make more money; reach peak efficiency and maximize your score, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field59",
+            "fieldTitle": "Offer Piece #3: What do this feature & benefit together MEAN to them in their life, business, goals, etc.? (connect to an EMOTIONALLY charged payoff)",
+            "fieldHint": [ 
+                {"hint1": "\"This means you will finally be able to _______.\" (Starts with a VERB)"},
+                {"hint2": "Ex: literally save HUNDREDS of hours of research time you'll now be able to spend with your family instead; sell your house faster than the one down the street; enjoy the highest closing rate of any speaker; feel confident you'll ace any PT test... any time!, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field60",
+            "fieldTitle": "BONUS Piece #1: What's the Title / Name of this first part of your Bonus Offer?",
+            "fieldHint": [ 
+                {"hint1": "If you need help with a cool title, use the  Profitable Title Script"},
+                {"hint2": "\"The title / name of this part of my offer is ______.\""},
+                {"hint3": "Ex: The Insiders Guide to Double Your Social Media Followers In 30 Days, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field61",
+            "fieldTitle": "Bonus Piece #1: What is this? (1-3 words)",
+            "fieldHint": [ 
+                {"hint1": "\"This is a / an ______.\""},
+                {"hint2": "Ex: software program, course, training, one-on-one coaching, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field62",
+            "fieldTitle": "Bonus Piece #1: What's the monetary Value of this first Bonus Piece?",
+            "fieldHint": [ 
+                {"hint1": "\"The value of this first Bonus Piece is ______.\""},
+                {"hint2": "Ex: $97, etc"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field63",
+            "fieldTitle": "Bonus Piece #1: What does this first Bonus Piece do for them?",
+            "fieldHint": [ 
+                {"hint1": "\"This makes it easy for you to ______.\" (Starts with a VERB)"},
+                {"hint2": "Ex: build up your social media following fast; build a team of professionals to help you get your house sold; Learn 5 openers that instantly grab attention; specific ways to train smarter (not harder), etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field64",
+            "fieldTitle": "Bonus Piece #1: What is the BENEFIT of this feature (above)?",
+            "fieldHint": [ 
+                {"hint1": "\"This makes it so you can _______.\" (Starts with a VERB)"},
+                {"hint2": "Ex: reach a LOT more people with every post; have lawyers and bankers begging to help you; keep your audience's attention through the close; drop your mile pace, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field65",
+            "fieldTitle": "Bonus Piece #1: What do this feature & benefit together MEAN to them in their life, business, goals, etc.? (connect to an EMOTIONALLY charged payoff)",
+            "fieldHint": [ 
+                {"hint1": "\"This means you will finally be able to _______.\" (Starts with a VERB)"},
+                {"hint2": "Ex: make a lot more money and have a greater impact on the world; leverage the work of others to get your home sold; help a LOT more people sign up for your offers; avoid injuries that could derail your career, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field66",
+            "fieldTitle": "BONUS Piece #2: What's the Title / Name of this second part of your Bonus Offer?",
+            "fieldHint": [ 
+                {"hint1": "If you need help with a cool title, use the  Profitable Title Script"},
+                {"hint2": "\"The title / name of this part of my offer is ______.\""},
+                {"hint3": "Ex: 50 Money Making Tweet Templates, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field67",
+            "fieldTitle": "Bonus Piece #2: What is this? (1-3 words)",
+            "fieldHint": [ 
+                {"hint1": "\"This is a / an ______.\""},
+                {"hint2": "Ex: software program, course, training, one-on-one coaching, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field68",
+            "fieldTitle": "Bonus Piece #2: What's the monetary Value of this second Bonus Piece?",
+            "fieldHint": [ 
+                {"hint1": "\"The value of this first Bonus Piece is ______.\""},
+                {"hint2": "Ex: $97, etc"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field69",
+            "fieldTitle": "Bonus Piece #2: What does this second Bonus Piece do for them?",
+            "fieldHint": [ 
+                {"hint1": "\"This makes it easy for you to ______.\" (Starts with a VERB)"},
+                {"hint2": "Ex: build up your social media following fast; build a team of professionals to help you get your house sold; Learn 5 openers that instantly grab attention; specific ways to train smarter (not harder), etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field70",
+            "fieldTitle": "Bonus Piece #2: What is the BENEFIT of this feature (above)?",
+            "fieldHint": [ 
+                {"hint1": "\"This makes it so you can _______.\" (Starts with a VERB)"},
+                {"hint2": "Ex: tweet every day in less than 60 seconds; leverage social media to find all the buyer you need; avoid the humiliation of begging for speaking gigs; prevent bad results on your PT test, etc"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field71",
+            "fieldTitle": "Bonus Piece #2: What do this feature & benefit together MEAN to them in their life, business, goals, etc.? (connect to an EMOTIONALLY charged payoff)",
+            "fieldHint": [ 
+                {"hint1": "\"This means you will finally be able to _______.\" (Starts with a VERB)"},
+                {"hint2": "Ex: leverage Twitter to make more sales and enjoy more free time off; know you're using every tool possible to find a buyer; keep your speaking calendar as full as you want it to be; enjoy an exemplary record for every promotion board, etc"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field72",
+            "fieldTitle": "BONUS Piece #3: What's the Title / Name of this third part of your Bonus Offer?",
+            "fieldHint": [ 
+                {"hint1": "If you need help with a cool title, use the  Profitable Title Script"},
+                {"hint2": "\"The title / name of this part of my offer is ______.\""},
+                {"hint3": "Ex: 50 Money Making Tweet Templates, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field73",
+            "fieldTitle": "Bonus Piece #3: What is this? (1-3 words)",
+            "fieldHint": [ 
+                {"hint1": "\"This is a / an ______.\""},
+                {"hint2": "Ex: software program, course, training, one-on-one coaching, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field74",
+            "fieldTitle": "Bonus Piece #3: What's the monetary Value of this third Bonus Piece?",
+            "fieldHint": [ 
+                {"hint1": "\"The value of this first Bonus Piece is ______.\""},
+                {"hint2": "Ex: $97, etc"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field75",
+            "fieldTitle": "Bonus Piece #3: What does this third Bonus Piece do for them?",
+            "fieldHint": [ 
+                {"hint1": "\"This makes it easy for you to ______.\" (Starts with a VERB)"},
+                {"hint2": "Ex: build up your social media following fast; build a team of professionals to help you get your house sold; Learn 5 openers that instantly grab attention; specific ways to train smarter (not harder), etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field76",
+            "fieldTitle": "Bonus Piece #3: What is the BENEFIT of this feature (above)?",
+            "fieldHint": [ 
+                {"hint1": "\"This makes it so you can _______.\" (Starts with a VERB)"},
+                {"hint2": "Ex: tweet every day in less than 60 seconds; leverage social media to find all the buyer you need; avoid the humiliation of begging for speaking gigs; prevent bad results on your PT test, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field77",
+            "fieldTitle": "Bonus Piece #3: What do this feature & benefit together MEAN to them in their life, business, goals, etc.? (connect to an EMOTIONALLY charged payoff)",
+            "fieldHint": [ 
+                {"hint1": "\"This means you will finally be able to _______.\" (Starts with a VERB)"},
+                {"hint2": "Ex: leverage Twitter to make more sales and enjoy more free time off; know you're using every tool possible to find a buyer; keep your speaking calendar as full as you want it to be; enjoy an exemplary record for every promotion board, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field78",
+            "fieldTitle": "What's the total value of all your offer parts and bonuses added up?",
+            "fieldHint": [ 
+                {"hint1": "\"The total value of this offer is _____.\""},
+                {"hint2": "Ex: $997, $23,862, $497, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field79",
+            "fieldTitle": "What is their price when they buy today?",
+            "fieldHint": [ 
+                {"hint1": "\"Today your price is _____.\""},
+                {"hint2": "$97, $497, $997, etc"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field80",
+            "fieldTitle": "How much does your product, service, software, book, etc. cost as a comparison to something else?",
+            "fieldHint": [ 
+                {"hint1": "\"My product / service is _____.\" (NOT a bottom-line dollar figure)"},
+                {"hint2": "Ex: absolutely ZERO cost to you; less than a dollar a day; less than the cost of an everything pizza; less than the cost of a fancy dinner out on the town, etc."}
+            ]
+        }
+    ]
+
+}

@@ -1,0 +1,106 @@
+{
+    "name": "Stealth Close Script",
+    "fields": [
+        {
+            "fieldPropertyName:":"field1",
+            "fieldTitle": "Niche group of people you target (Singluar)",
+            "fieldHint": [ 
+                {"hint1": "Ex: ebook author (or those who want to be"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field2",
+            "fieldTitle": "Niche group of people you target (Plural)",
+            "fieldHint": [ 
+                {"hint1": "Ex: ebook authors (or those who want to be"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field3",
+            "fieldTitle": "Big result they want from this area of their life/business",
+            "fieldHint": [ 
+                {"hint1": "Starts with a VERB!"},
+                {"hint2": "\"I really want to be able to ______!\""},
+                {"hint3": "Ex: sell ebooks for HUGE profit margins"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field4",
+            "fieldTitle": "The BIG question you answer for them...",
+            "fieldHint": [ 
+                {"hint1": "...either in your freebie or on the sales page."},
+                {"hint2": "Ex: Can you still make money with ebooks in today's market?"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field5",
+            "fieldTitle": "A BIG \"how to\" secret they really want to know",
+            "fieldHint": [ 
+                {"hint1": "My target audience really wants to know (how to) ______."},
+                {"hint2": "Ex: how to create money making ebooks fast and easy"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field6",
+            "fieldTitle": "The title of the freebie / bribe you offer to entice them",
+            "fieldHint": [ 
+                {"hint1": "Can be a report, video, website, info, blog post, etc."},
+                {"hint2": "Ex: 5 Keys To Creating Money-Making Ebooks Fast!; everything you need to know to sell your own ebooks for massive profit"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field7",
+            "fieldTitle": "What IS the bribe / freebie they get when they take action?",
+            "fieldHint": [ 
+                {"hint1": "Ex: Free Information, Free Video, Free Video Series, Free Report, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field8",
+            "fieldTitle": "Big Prize/payoff of the free bribe/freebie you're offering",
+            "fieldHint": [ 
+                {"hint1": "We've created a [free video / free report / complete report / complete website] for you that reveals _______."},
+                {"hint2": "Ex: the top 5 questions and challenges every aspiring ebook author faces AND how to overcome them"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field9",
+            "fieldTitle": "URL where they can grab the bribe, freebie or free information",
+            "fieldHint": [ 
+                {"hint1": "Ex: Full URL http://7dayebook.com/free-report/"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field10",
+            "fieldTitle": "Big takeway or \"reveal\" you make when they click the target URL",
+            "fieldHint": [ 
+                {"hint1": "What secrets or goodies are waiting for them on the sales page / blog post / confirmation page, etc.?"},
+                {"hint2": "Usually a setup for whatever it is you're ultimately selling."},
+                {"hint3": "Also, on the next page you'll get all the details about how you can immediately __________."},
+                {"hint4": "Ex:get started writing and publishing your own outrageously profitable ebooks"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field11",
+            "fieldTitle": "Target page URL of where you ultimately want them to go BUY",
+            "fieldHint": [ 
+                {"hint1": "Ex: Full URL http://www.7dayebook.com"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field12",
+            "fieldTitle": "Title of the product you ultimately want them to buy",
+            "fieldHint": [ 
+                {"hint1": "Ex: The 7 Day Ebook V2.0"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field13",
+            "fieldTitle": "Headline/\"sweet offer\" of the product you want them to buy",
+            "fieldHint": [ 
+                {"hint1": "TIP: Grab the headline from the sales page and use that."},
+                {"hint2": "Ex: How to write and publish your own OUTRAGEOUSLY Profitable eBook in as little as 7 days, even if you cannot write, cannot type and failed high school English class!"}
+              ]
+        }
+    ]
+}

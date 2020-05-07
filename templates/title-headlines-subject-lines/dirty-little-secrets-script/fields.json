@@ -1,0 +1,36 @@
+{
+    "name": "Dirty Little Secrets",
+    "fields": [
+        {
+            "fieldPropertyName:":"field1",
+            "fieldTitle": "What is your main keyword phrase? (2-3 words)",
+            "fieldHint": "My main keyword phrase is _____.",
+            "fieldExample": "Ex: book marketing; funnel hacking; home selling; real estate investment, etc."
+        },
+        {
+            "fieldPropertyName:":"field2",
+            "fieldTitle": "Who is your target audience? (SINGULAR)",
+            "fieldHint": "My target audience is a / an _____.",
+            "fieldExample": "Ex: realtor; home seller; investor, etc."
+        },
+        {
+            "fieldPropertyName:":"field3",
+            "fieldTitle": "What is the big payoff they want in this area? (Starts with a VERB)",
+            "fieldHint": "My target audience really wants to _____. (VERB)",
+            "fieldExample": "Ex: make more sales; sell more books; earn a double-digit return; double conversion, etc."
+        },
+        {
+            "fieldPropertyName:":"field4",
+            "fieldTitle": "What is a roadblock, hurdle or negative thing they really want avoid?",
+            "fieldHint": "My target audience really wants to avoid _____.",
+            "fieldExample": "Ex: bad investments; spending months on the market; ripoffs, etc."
+        },
+        {
+            "fieldPropertyName:":"field5",
+            "fieldTitle": "Who is the enemy in this situation? (PLURAL)",
+            "fieldHint": "_____ are the enemy in this sitatuation.",
+            "fieldExample": "Ex: Realtors; financial planners; lawyers; overpaid copywriters, etc."
+        }
+    ]
+
+}

@@ -1,0 +1,307 @@
+{
+    "name": "Master Class Wizard",
+    "fields": [
+        {
+            "fieldPropertyName:":"field1",
+            "fieldTitle": "Name of the Master Class Presenter",
+            "fieldHint": [ 
+                {"hint1": "Ex: Russell Brunson, Jim Edwards, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field2",
+            "fieldTitle": "What is the topic of your Master Class in 2-3 words?",
+            "fieldHint": [ 
+                {"hint1": "Ex: potato guns, email marketing, marketing funnels, relieve joint pain, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field3",
+            "fieldTitle": "What is your Opportunity Switch Headline / Title?",
+            "fieldHint": [ 
+                {"hint1": "Use Funnel Scripts (Click Here)=> Opportunity Switch Headline / Title Script"},
+                {"hint2": "Ex: How To Quickly & Safely Build Your Own High-Powered Potato Gun Without Spending a Ton Of Time or Money To Make It, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field4",
+            "fieldTitle": "What is the Purpose of your Master Class and how will it help your target audience?",
+            "fieldHint": [ 
+                {"hint1": "\"The Purpose of this class is to _____.\" (Multi-line Bulleted List. Hit ENTER for each list item)"},
+                {"hint2": "Ex: Help you build an awesome spud gun ; Use it safely ; Trick it out for extra distance ; Have loads of fun doing it, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field5",
+            "fieldTitle": "What is your background story as it relates to your Master Class?",
+            "fieldHint": [ 
+                {"hint1": "OPTION: Create Story using Funnel Scripts (Click Here)=> Epiphany Bridge Script"},
+                {"hint2": "Enter bullet outline of your story here. Hit ENTER for each new list item, etc."},
+                {"hint3": "Expert Secrets, pp. 114-127, 162"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field6",
+            "fieldTitle": "What's the #1 thing they want to learn how to do from this Master Class?",
+            "fieldHint": [ 
+                {"hint1": "Ex: how to build an awesome potato gun, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field7",
+            "fieldTitle": "What is the big picture payoff they should expect from your Master Class?",
+            "fieldHint": [ 
+                {"hint1": "Ex: how to safely make a potato gun at home using inexpensive parts, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field8",
+            "fieldTitle": "What is the #1 benefit of your Master Class? (VERB)",
+            "fieldHint": [ 
+                {"hint1": "\"You will discover how to _____.\""},
+                {"hint2": "Ex: launch a potato further than you ever dreamed possible, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field9",
+            "fieldTitle": "What is the #2 benefit of your Master Class? (VERB)",
+            "fieldHint": [ 
+                {"hint1": "\"You will be able to _____.\""},
+                {"hint2": "Ex: enjoy hours of exciting, relaxing, inexpensive fun, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field10",
+            "fieldTitle": "What is the #3 benefit of your Master Class? (VERB)",
+            "fieldHint": [ 
+                {"hint1": "\"You will also _____.\""},
+                {"hint2": "Ex: get hands on experience with the laws of physics, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field11",
+            "fieldTitle": "What is one more Cool \"how to\" secret you'll drop on them in your Master Class?",
+            "fieldHint": [ 
+                {"hint1": "Ex: how to launch your potato 25% farther with one simple tweak, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field12",
+            "fieldTitle": "What will you call each \"chunk\" of your Master Class Presentation? (SINGULAR)",
+            "fieldHint": [ 
+                {"hint1": "Ex: Tip; Trick; Secret; Module; Chapter; Part; Unit; etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field13",
+            "fieldTitle": "What is the title of your first chunk?",
+            "fieldHint": [ 
+                {"hint1": "Ex: How to Decide Which Type of potato Gun You Want to Create"},
+                {"hint2": "Expert Secrets, pp. 78-79"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field14",
+            "fieldTitle": "What points, questions, topics will you cover in this first chunk?",
+            "fieldHint": [ 
+                {"hint1": "Brainstorm everything you want to cover for this chunk"},
+                {"hint2": "Ex: What's a pneumatic gun?; What size gun should we build?; How do you build a bolt-action spud gun?; etc.) *(Multi-line Bulleted List. Hit ENTER for each new list item"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field15",
+            "fieldTitle": "What is the compelling \"sales copy\" description of your first chunk?",
+            "fieldHint": [ 
+                {"hint1": "Ex: Why the type of gun you choose is critical based on your space, distance and safety"},
+                {"hint2": "(Expert Secrets, pp. 79-80)"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field16",
+            "fieldTitle": "What is the title of your second chunk?",
+            "fieldHint": [ 
+                {"hint1": "Ex: How to Pick the Right Pipes"},
+                {"hint2": "(Expert Secrets, pp. 78-79)"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field17",
+            "fieldTitle": "What points, questions, topics will you cover in this second chunk?",
+            "fieldHint": [ 
+                {"hint1": "Brainstorm everything you want to cover for this chunk"},
+                {"hint2": "Ex: What type of pipe do you use?; Do the PSI ratings on the pipes matter?; etc."},
+                {"hint3": "*(Multi-line Bulleted List. Hit ENTER for each new list item)"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field18",
+            "fieldTitle": "What is the compelling \"sales copy\" description of your second chunk?",
+            "fieldHint": [ 
+                {"hint1": "Ex: Discover the only pipe we will ever use AND the secret PSI rating that will guarantee your potatoes go farther and your gun lasts longer."},
+                {"hint2": "Expert Secrets, pp. 79-80"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field19",
+            "fieldTitle": "What is the title of your third chunk?",
+            "fieldHint": [ 
+                {"hint1": "Ex: How to Find Accessories Before You Start Building"},
+                {"hint2": "Expert Secrets, pp. 78-79"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field20",
+            "fieldTitle": "What points, questions, topics will you cover in this third chunk?",
+            "fieldHint": [ 
+                {"hint1": "Brainstorm everything you want to cover for this chunk"},
+                {"hint2": "Ex: What type of igniter should I use?; Barbecue lighter or lantern igniter?; etc."},
+                {"hint3": "*(Multi-line Bulleted List. Hit ENTER for each new list item)"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field21",
+            "fieldTitle": "What is the compelling \"sales copy\" description of your third chunk?",
+            "fieldHint": [ 
+                {"hint1": "Ex: Find out which igniter we'll NEVER use (and hear about a scary near-death experience that kept us from ever using it again), and why there is only one brand we trust."},
+                {"hint2": "Expert Secrets, pp. 79-80"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field22",
+            "fieldTitle": "What is the title of your fourth chunk?",
+            "fieldHint": [ 
+                {"hint1": "Ex: How to Cut the Right Barrel-to-Chamber Volume Ratio"},
+                {"hint2": "Expert Secrets, pp. 78-79"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field23",
+            "fieldTitle": "What points, questions, topics will you cover in fourth first chunk?",
+            "fieldHint": [ 
+                {"hint1": "Brainstorm everything you want to cover for this chunk"},
+                {"hint2": "Ex: How long should I cut my pipes?; What happens if my chamber is too big or too small?; etc.) *(Multi-line Bulleted List. Hit ENTER for each new list item"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field24",
+            "fieldTitle": "What is the compelling \"sales copy\" description of your fourth chunk?",
+            "fieldHint": [ 
+                {"hint1": "Ex: You'll learn the correct barrel-to-chamber ratio that will keep you safe AND help your gun shoot 25% farther! (WARNING: Even being 1/4 inch off could make every potato you shoot a flop.))"},
+                {"hint2": "Expert Secrets, pp. 79-80"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field25",
+            "fieldTitle": "What is the title of your fifth chunk?",
+            "fieldHint": [ 
+                {"hint1": "Ex: How to Assemble the Pieces"},
+                {"hint2": "Expert Secrets, pp. 78-79"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field26",
+            "fieldTitle": "What points, questions, topics will you cover in this fifth chunk?",
+            "fieldHint": [ 
+                {"hint1": "Brainstorm everything you want to cover for this chunk"},
+                {"hint2": "Ex: How do I assemble the gun?; What tools do I need to make my spud gun?; etc.) *(Multi-line Bulleted List. Hit ENTER for each new list item"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field27",
+            "fieldTitle": "What is the compelling \"sales copy\" description of your fifth chunk?",
+            "fieldHint": [ 
+                {"hint1": "Ex: Discover the simple tools you probably already have on hand to assemble a sturdy, safe fun spud gun designed for hours of fun!"},
+                {"hint2": "Expert Secrets, pp. 79-80"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field28",
+            "fieldTitle": "What is the title of your sixth chunk?",
+            "fieldHint": [ 
+                {"hint1": "Ex: How to Increase Potato Flight Distance"},
+                {"hint2": "Expert Secrets, pp. 78-79"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field29",
+            "fieldTitle": "What points, questions, topics will you cover in this sixth chunk?",
+            "fieldHint": [ 
+                {"hint1": "Brainstorm everything you want to cover for this chunk"},
+                {"hint2": "Ex: What type of propellants should I use?; What if my gun won't shoot?; etc."},
+                {"hint3": "*(Multi-line Bulleted List. Hit ENTER for each new list item)"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field30",
+            "fieldTitle": "What is the compelling \"sales copy\" description of your sixth chunk?",
+            "fieldHint": [ 
+                {"hint1": "Ex: Discover the secret propellant we accidently stumbled upon (when we ran out of hair spray) that immediately made our gun shoot over 50 yards farther every time!"},
+                {"hint2": "Expert Secrets, pp. 79-80"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field31",
+            "fieldTitle": "What is the title of your seventh chunk?",
+            "fieldHint": [ 
+                {"hint1": "(Ex: How to Stay Safe While Shooting Your Potato Gun)"},
+                {"hint2": "Expert Secrets, pp. 78-79"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field32",
+            "fieldTitle": "What points, questions, topics will you cover in this seventh chunk?",
+            "fieldHint": [ 
+                {"hint1": "Brainstorm everything you want to cover for this chunk"},
+                {"hint2": "Ex: Am I going to die if I make the gun wrong?; Has anyone ever died from a potato gun?"},
+                {"hint3" : "*(Multi-line Bulleted List. Hit ENTER for each new list item)"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field33",
+            "fieldTitle": "What is the compelling \"sales copy\" description of your seventh chunk?",
+            "fieldHint": [ 
+                {"hint1": "Ex: Learn the safety secrets we use to make sure every potato gun outing is safe as well as exciting!"},
+                {"hint2": "Expert Secrets, pp. 79-80"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field34",
+            "fieldTitle": "What tools and resources will help your audience get better results?",
+            "fieldHint": [ 
+                {"hint1": "Make as big a list as you want!"},
+                {"hint2": "*(Multi-line Bulleted List. Hit ENTER for each new list item)"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field35",
+            "fieldTitle": "What \"Next Steps\", in order, should your audience take as a result of the Master Class?",
+            "fieldHint": [ 
+                {"hint1": "(Ex: Take your shopping list and head to Home Depot; Assemble everything; Find a field at least 200 yards long; Have fun; etc.)"},
+                {"hint2": "* (Multi-line Numbered List. Hit ENTER for each new list item)"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field36",
+            "fieldTitle": "What are the big takeaways and final thoughts for your Master Class?",
+            "fieldHint": [ 
+                {"hint1": "(Ex: Build your gun as soon as you can; Be safe; It's more fun to do with a friend; This is easy if you follow the instructions we've given you; etc.)"},
+                {"hint2": "*(Multi-line Bulleted List. Hit ENTER for each new list item"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field37",
+            "fieldTitle": "What is the date of your Master Class?",
+            "fieldHint": [ 
+                {"hint1": "Ex: Monday, May 23; June 15, 2052; etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field38",
+            "fieldTitle": "What is the TIME of your Master Class?",
+            "fieldHint": [ 
+                {"hint1": "Ex: 3:00 p.m. EDT; 7:00 p.m. Pacific; etc."}
+            ]
+        }
+    ]
+
+}

@@ -1,0 +1,191 @@
+{
+    "name": "One Time Offer (OTO) \"Next Thing\" / Next Step / Do It Faster Script",
+    "fields": [
+        {
+            "fieldPropertyName:":"field1",
+            "fieldTitle": "What is the name of what they just bought?:",
+            "fieldHint": [ 
+                {"hint1": "Ex: done-for-you \"Desktop Ad Wizard\" software, Click Funnels, 7 Day Ebook, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field2",
+            "fieldTitle": "What's the big payoff / big idea of what they just bought?",
+            "fieldHint": [ 
+                {"hint1": "Starts with a VERB"},
+                {"hint2": "\"What you just bought will help you _______.\""},
+                {"hint3": "Ex: drive more traffic and make more sales without hiring expensive copywriters or struggling to write the ads yourself; create money-making funnels quickly and easily without an expensive webmaster; write and publish an outrageously profitable ebook fast"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field3",
+            "fieldTitle": "What does that big payoff of what they bought mean to them?",
+            "fieldHint": [ 
+                {"hint1": "Starts with a VERB"},
+                {"hint2": "\"This means you will be able to _______.\""},
+                {"hint3": "Ex: get a lot more traffic and clicks to your website than ever before; set up money making pages a whole lot faster; get a lot more credibility as a published author and expert"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field4",
+            "fieldTitle": "Name of the next thing you want them to buy in this OTO?",
+            "fieldHint": [ 
+                {"hint1": "Ex: Instant Sales Video Scripts Wizard; Targeted Traffic Secrets; Kindle Book Formatting Wizard"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field5",
+            "fieldTitle": "What does OTO product/service help them do that they need?",
+            "fieldHint": [ 
+                {"hint1": "Starts with a VERB"},
+                {"hint2": "\"This will help you _______ a lot faster and easier.\""},
+                {"hint3": "Ex: create really great ads fast to drive a bunch of targeted traffic to your website; Set up all the pages of your funnel; write your Kindle books and get them ready to sell on Amazon"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field6",
+            "fieldTitle": "Big payoff of this OTO product/service that appeals them?",
+            "fieldHint": [ 
+                {"hint1": "Starts with a VERB"},
+                {"hint2": "\"Which will enable you to _______.\""},
+                {"hint3": "Ex: convert all those new visitors to your website into buyers; put a lot more people through your new sales funnels and make more sales; publish and sell a lot more books"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field7",
+            "fieldTitle": "\"Insider strategy\" this OTO uses to help get the big payoff?",
+            "fieldHint": [ 
+                {"hint1": "\"This works like crazy because _______.\""},
+                {"hint2": "Ex: the software automatically creates amazing, high converting, custom video sales letter scripts using an under-the-radar method we call \"building blocks\"; We found 93% of all traffic tested doesn't work. This course focuses on the 7% of traffic that DOES work.; the software uses proprietary technology to format and organize your book for optimal results"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field8",
+            "fieldTitle": "What does cool \"insider strategy\" mean to your target audience?",
+            "fieldHint": [ 
+                {"hint1": "Starts with a VERB"},
+                {"hint2": "Completes phrase \"This means you can ______\""},
+                {"hint3": "Ex: create compelling, custom, high-converting video sales letters; drive all the targeted traffic you want any time you want without wasting money; format as many books, reports and other documents and get them ready for Kindle"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field9",
+            "fieldTitle": "Timeframe will this OTO product/service deliver results?",
+            "fieldHint": [ 
+                {"hint1": "Ex: about 15 minutes; an afternoon; less than a week; less than a month; one training cycle; by the end of the class"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field10",
+            "fieldTitle": "What is the regular price of this OTO product / service?",
+            "fieldHint": [ 
+                {"hint1": "Ex: $97; $197; $497"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field11",
+            "fieldTitle": "What is the special price of this OTO product / service?",
+            "fieldHint": [ 
+                {"hint1": "Ex: $97; $197; $497"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field12",
+            "fieldTitle": "#1 Result this OTO product/service gives your audience?",
+            "fieldHint": [ 
+                {"hint1": "Ex: Create over 24 unique totally customized video sales letters and scripts that sell like crazy with just a few mouse clicks; Use 7 Proven ways to Build, Borrow, and Buy Traffic no matter what you sell; just upload your manuscript, choose from many different proven layouts, and let the wizard handle the formatting and marketing so you can concentrate on what you do best, writing and creating content"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field13",
+            "fieldTitle": "#2 Result this OTO product/service gives your audience?",
+            "fieldHint": [ 
+                {"hint1": "Ex: Use these proven video sales scripts with any video creation software - or hire someone on Fiverr to make your videos for you; How to legally STEAL your competitors' traffic any time you want; automatically creates and formats your table of contents"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field14",
+            "fieldTitle": "#3 Result this OTO product/service gives your audience?",
+            "fieldHint": [ 
+                {"hint1": "Ex: Instantly output your video scripts in text files, actual PowerPoint (PPTX) files, and Word Doc (DOCX) files - Works on both PC or MAC; How to know exactly which ads will get you the most traffic without spending a dime to test; Makes adding and optimizing pictures and other graphics to your Kindle books a breeze"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field15",
+            "fieldTitle": "#4 Result this OTO product/service gives your audience?",
+            "fieldHint": [ 
+                {"hint1": "Ex: Just answer simple questions, click your mouse, and instantly produce customized, professional-level video scripts to sell anything!; Where to buy ads that 99.9% of your competitors have ZERO clue even exist!; Create money-making offer pages inside your book to drive traffic to your website and bulk sales or your book"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field16",
+            "fieldTitle": "#5 Result this OTO product/service gives your audience?",
+            "fieldHint": [ 
+                {"hint1": "Ex: Create powerful video sales letter scripts to sell your own products, clients' products, affiliate offers, and more!; How to really use social media sites like Facebook, LinkedIn and Instagram to drive traffic; Create descriptions for your book using proven sales copy that virtually forces people to click the BUY button on Amazon"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field17",
+            "fieldTitle": "What is the first bonus you're giving them to sweeten the offer?",
+            "fieldHint": [ 
+                {"hint1": "Ex: My entire suite of PowerPoint Training classes, including: \"PowerPoint Hacks, Secrets and Shortcuts\" AND \"How To Create a Killer PowerPoint Presentation... in 60-Minutes Or Less!\"; How To Test Ads For Under $20 And Scale Up The Winners For Massive Traffic (With Very Little Risk); Kindle Cover Graphics Pack 1,000"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field18",
+            "fieldTitle": "What is the value of that first bonus?",
+            "fieldHint": [ 
+                {"hint1": "\"Ex: $197; $497; $1997"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field19",
+            "fieldTitle": "What is the 2nd bonus you're giving them to sweeten the offer?",
+            "fieldHint": [ 
+                {"hint1": "Ex: 12 Custom PowerPoint themes - 36 variations - in both regular and widescreen format - that instantly polish up your video sales letters with one mouse click.; My Dirty Dozen Best Ad Templates; 30 Minute Cover Consultation and Planning Session"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field20",
+            "fieldTitle": "What is the value of that 2nd bonus?",
+            "fieldHint": [ 
+                {"hint1": "Ex: $197; $497; $1997"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field21",
+            "fieldTitle": "What is the 3rd bonus you're giving them to sweeten the offer?",
+            "fieldHint": [ 
+                {"hint1": "Ex: \"Enterprise\" License: create video sales letters and scripts for other people and charge them!; Google AdWords Friendly Landing Page - how to keep from ever getting Google Slapped!; Email Blast To My List - I'll tell my list of 100,000 subscribers about your book!"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field22",
+            "fieldTitle": "What is the value of that 3rd bonus?",
+            "fieldHint": [ 
+                {"hint1": "Ex: $197; $497; $1997"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field23",
+            "fieldTitle": "Testimonial #1",
+            "fieldHint": [ 
+                {"hint1": "Optional but highly recommended"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field24",
+            "fieldTitle": "Testimonial #2",
+            "fieldHint": [ 
+                {"hint1": "Optional but highly recommended"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field25",
+            "fieldTitle": "Testimonial #3",
+            "fieldHint": [ 
+                {"hint1": "Optional but highly recommended"}
+            ]
+        }
+    ]
+}

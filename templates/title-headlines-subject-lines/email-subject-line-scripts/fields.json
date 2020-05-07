@@ -1,0 +1,74 @@
+{
+    "name": "Email Subject Line Scripts",
+    "fields": [
+        {
+            "fieldPropertyName:":"field1",
+            "fieldTitle": "Your name",
+            "fieldHint": [ 
+                {"hint1": "ex: Jim Edwards"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field2",
+            "fieldTitle": "Your Target audience (PLURAL)",
+            "fieldHint": [ 
+                {"hint1": "Ex: financial planners, realtors, busy moms, etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field3",
+            "fieldTitle": "Main keyword phrase/area of interest of your target audience?",
+            "fieldHint": [ 
+                {"hint1": "Ex: For sale by owner, dieting, weight loss, ebook writing"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field4",
+            "fieldTitle": "BIG *Result* they want",
+            "fieldHint": [ 
+                {"hint1": "Starts with a VERB"},
+                {"hint2": "Ex: lose weight, sell your home"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field5",
+            "fieldTitle": "BIG *Thing* they want",
+            "fieldHint": [ 
+                {"hint1": "Starts with a NOUN"},
+                {"hint2": "Ex: weight loss plan, home sale"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field6",
+            "fieldTitle": "BIG *Pain Thing* they want to AVOID",
+            "fieldHint": [ 
+                {"hint1": "Starts with a NOUN"},
+                {"hint2": "Ex: exercise, divorce, bankruptcy, heart attack"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field7",
+            "fieldTitle": "Number of solutions you offer",
+            "fieldHint": [ 
+                {"hint1": "Esp. for articles, reports, videos, etc."},
+                {"hint2": "Ex: 9, 6, 3, etc"}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field8",
+            "fieldTitle": "Subject line branding so they instantly know it's from you",
+            "fieldHint": [ 
+                {"hint1": "Ex: [FSBO], [JimE],[7Dayebook], [JimmyB], etc."}
+            ]
+        },
+        {
+            "fieldPropertyName:":"field9",
+            "fieldTitle": "Current news story / topic everyone's talking about",
+            "fieldHint": [ 
+                {"hint1": "Starts with a NOUN"},
+                {"hint2": "Ex: The Election, The Oscars, The President, etc."}
+            ]
+        }
+    ]
+
+}
