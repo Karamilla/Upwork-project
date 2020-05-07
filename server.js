@@ -65,6 +65,18 @@ const webinarFollowUpScripts = require("./routes/email-scripts/webinar-follow-up
 // ==============================================================================================================
 // ExpertScripts
 // =================
+const CuriosityHooksScript5 = require("./routes/expert-secrets/5-curiosity-hooks-script");
+const MinutePerfectWebinarWizard5 = require("./routes/expert-secrets/5-minute-perfect-webinar-wizard");
+const askCampaignScript = require("./routes/expert-secrets/ask-campaign-script");
+const epiphanyBridgeScript = require("./routes/expert-secrets/epiphany-bridge-script");
+const opportunitySwitchHeadlineTitleScript = require("./routes/expert-secrets/opportunitySwitchHeadlineTitleScript");
+const shortEpiphanyBridgeScript = require("./routes/expert-secrets/short-epiphany-bridge-script");
+const theBigDomino = require("./routes/expert-secrets/the-big-domino");
+const whoWhatStatementScript = require("./routes/expert-secrets/whoWhatStatementScript");
+// =============================================================================================
+// megaScripts
+// ==============
+const easySurveyScript = require("./routes/expert-secrets/easy-survey-script");
 
 app.use(express.json());
 
