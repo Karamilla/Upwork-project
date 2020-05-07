@@ -31,22 +31,40 @@ const theDemoScript = require("./routes/content-creation-scripts/the-demo-script
 // =============================================================================================
 // dotcomSecretsScripts
 // ==========================
-const amazonEcommerce = require("./routes/dotcom-secrets-scripts/amazon-ecommerce");
+const amazonEcommerce = require("./routes/dotcom-secrets-scripts/amazon-ecommerce-script");
 const callToActionScript = require("./routes/dotcom-secrets-scripts/call-to-action-script");
-const leadCapture = require("./routes/dotcom-secrets-scripts/lead-capture");
-const liveEventInvitation = require("./routes/dotcom-secrets-scripts/live-event-invitation");
-const magicBullet = require("./routes/dotcom-secrets-scripts/magic-bullet");
-const orderBump = require("./routes/dotcom-secrets-scripts/order-bump");
-const originStory = require("./routes/dotcom-secrets-scripts/origin-story");
-const otoNeedHelpDoneForYou = require("./routes/dotcom-secrets-scripts/oto-need-help-done-for-you");
-const otoNextThing = require("./routes/dotcom-secrets-scripts/oto-next-thing");
+const leadCapture = require("./routes/dotcom-secrets-scripts/lead-capture-script");
+const liveEventInvitation = require("./routes/dotcom-secrets-scripts/live-event-invitation-script");
+const magicBullet = require("./routes/dotcom-secrets-scripts/magic-bullet-script");
+const orderBump = require("./routes/dotcom-secrets-scripts/order-bump-script");
+const originStory = require("./routes/dotcom-secrets-scripts/origin-story-script");
+const otoNeedHelpDoneForYou = require("./routes/dotcom-secrets-scripts/oto-need-help-done-for-you-script");
+const otoNextThing = require("./routes/dotcom-secrets-scripts/oto-next-thing-script");
 const pptOptInVideo = require("./routes/dotcom-secrets-scripts/ppt-opt-in-video");
-const promoteYourWebinar = require("./routes/dotcom-secrets-scripts/promote-your-webinar");
-const salesOpenerQuestions = require("./routes/dotcom-secrets-scripts/sales-opener-questions");
-const specialOffer = require("./routes/dotcom-secrets-scripts/special-offer");
-const starStorySolution = require("./routes/dotcom-secrets-scripts/star-story-solution");
-const webinarOptIn = require("./routes/dotcom-secrets-scripts/webinar-opt-in");
-const whoWhatWhyHow = require("./routes/dotcom-secrets-scripts/who-what-why-how");
+const promoteYourWebinar = require("./routes/dotcom-secrets-scripts/promote-your-webinar-script");
+const salesOpenerQuestions = require("./routes/dotcom-secrets-scripts/sales-opener-questions-scripts");
+const specialOffer = require("./routes/dotcom-secrets-scripts/special-offer-scripts");
+const starStorySolution = require("./routes/dotcom-secrets-scripts/star-story-solution-script");
+const webinarOptIn = require("./routes/dotcom-secrets-scripts/webinar-opt-in-script");
+const whoWhatWhyHow = require("./routes/dotcom-secrets-scripts/who-what-why-how-script");
+// =============================================================================================
+
+// EmailScripts
+// ======================
+const abandonedCartEmailScripts = require("./routes/email-scripts/abandoned-cart-email-scripts");
+const emailSubjectLineScripts = require("./routes/email-scripts/email-subject-line-scripts");
+const autoEmailFollowUpScripts = require("./routes/email-scripts/auto-email-follow-up-scripts");
+const fastTeaserAndTweetScripts = require("./routes/email-scripts/fast-teaser-and-tweet-scripts");
+const freeInfoRequestEmailSequence = require("./routes/email-scripts/free-info-request-email-sequence");
+const liveEventInvitationScript = require("./routes/email-scripts/live-event-invitation-script");
+const onboardingEmailSequence = require("./routes/email-scripts/onboarding-email-sequence");
+const promoteYourWebinarScript = require("./routes/email-scripts/promote-your-webinar-script");
+const seinfeldEmailTopicIdeaScript2 = require("./routes/email-scripts/seinfeld-email-topic-idea-script");
+const testimonialRequestEmailScripts = require("./routes/email-scripts/testimonial-request-email-scripts");
+const webinarFollowUpScripts = require("./routes/email-scripts/webinar-follow-up-scripts");
+// ==============================================================================================================
+// ExpertScripts
+// =================
 
 app.use(express.json());
 
