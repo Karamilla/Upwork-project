@@ -39,7 +39,7 @@ const magicBullet = require("./routes/dotcom-secrets-scripts/magic-bullet-script
 const orderBump = require("./routes/dotcom-secrets-scripts/order-bump-script");
 const originStory = require("./routes/dotcom-secrets-scripts/origin-story-script");
 const otoNeedHelpDoneForYou = require("./routes/dotcom-secrets-scripts/oto-need-help-done-for-you-script");
-const otoNextThing = require("./routes/dotcom-secrets-scripts/oto-next-thing-script");
+const otoNeedHelpDoneForYouScript = require("./routes/dotcom-secrets-scripts/oto-next-thing-script");
 const pptOptInVideo = require("./routes/dotcom-secrets-scripts/ppt-opt-in-video");
 const promoteYourWebinar = require("./routes/dotcom-secrets-scripts/promote-your-webinar-script");
 const salesOpenerQuestions = require("./routes/dotcom-secrets-scripts/sales-opener-questions-scripts");
@@ -76,7 +76,47 @@ const whoWhatStatementScript = require("./routes/expert-secrets/whoWhatStatement
 // =============================================================================================
 // megaScripts
 // ==============
-const easySurveyScript = require("./routes/expert-secrets/easy-survey-script");
+const easySurveyScript = require("./routes/mega-scripts/easy-survey-script");
+const masterClassWizard = require("./routes/mega-scripts/master-class-wizard");
+const perfectWebinarWizard20 = require("./routes/mega-scripts/perfect-webinar-wizard-2.0");
+const starStorySolutionScriptt = require("./routes/mega-scripts/star-story-solution-script");
+// ====================================================================================================
+// oneFunnelAwayScripts
+// ==========================
+const epiphanyBridgeScript2 = require("./routes/one-funnel-away-scripts/epiphany-bridge-script");
+const hookStoryOfferScript = require("./routes/one-funnel-away-scripts/hook-story-offer-script");
+const killerHeadlineScripts = require("./routes/one-funnel-away-scripts/killer-headline-scripts");
+const nicheAndOfferDetectiveWizard = require("./routes/one-funnel-away-scripts/niche-and-offer-detective-wizard");
+const offerStackScript = require("./routes/one-funnel-away-scripts/offer-stack-script");
+const optInHookStoryScript = require("./routes/one-funnel-away-scripts/opt-in-hook-story-script");
+const otoNeedHelpDoneForYouScript2 = require("./routes/one-funnel-away-scripts/oto-need-help-done-for-you-script");
+const otoNextThing2 = require("./routes/one-funnel-away-scripts/oto-next-thing");
+const questionHooksScript = require("./routes/one-funnel-away-scripts/question-hooks-script");
+// ===================================================================================================
+// salesCopyVideoScripts
+// ==========================
+
+const amazonEcommerce2 = require("./routes/sales-copy-video-scripts/amazon-ecommerce");
+const callToActionScript2 = require("./routes/sales-copy-video-scripts/call-to-action-script");
+const leadCaptureScript = require("./routes/sales-copy-video-scripts/lead-capture-script");
+const liveEventInvitationScript2 = require("./routes/sales-copy-video-scripts/live-event-invitation-script");
+const magicBulletScript = require("./routes/sales-copy-video-scripts/magic-bullet-script");
+const orderBumpScript = require("./routes/sales-copy-video-scripts/order-bump-script");
+const originStoryScript = require("./routes/sales-copy-video-scripts/origin-story-script");
+const otoNextThingScript = require("./routes/sales-copy-video-scripts/oto-next-thing-script");
+const otoNeedHelpDoneForYouScript3 = require("./routes/sales-copy-video-scripts/oto-need-help-done-for-you-script");
+const pptOptInVideoScript = require("./routes/sales-copy-video-scripts/ppt-opt-in-video-script");
+const promoteYourWebinarScripts = require("./routes/sales-copy-video-scripts/promote-your-webinar-script");
+const salesOpenerQuestionsScript = require("./routes/sales-copy-video-scripts/sales-opener-questions-script");
+const specialOfferScript = require("./routes/sales-copy-video-scripts/special-offer-script");
+const webinarOptInScript = require("./routes/sales-copy-video-scripts/webinar-opt-in-script");
+const whoWhatWhyHowScript = require("./routes/sales-copy-video-scripts/who-what-why-how-script");
+
+// ===================================================================================
+// SalesCopyScripts
+// ===================
+
+const longFormSalesLetter = require("./routes/expert-secrets/long-form-sales-letter");
 
 app.use(express.json());
 
