@@ -32,6 +32,21 @@ const theDemoScript = require("./routes/content-creation-scripts/the-demo-script
 // dotcomSecretsScripts
 // ==========================
 const amazonEcommerce = require("./routes/dotcom-secrets-scripts/amazon-ecommerce");
+const callToActionScript = require("./routes/dotcom-secrets-scripts/call-to-action-script");
+const leadCapture = require("./routes/dotcom-secrets-scripts/lead-capture");
+const liveEventInvitation = require("./routes/dotcom-secrets-scripts/live-event-invitation");
+const magicBullet = require("./routes/dotcom-secrets-scripts/magic-bullet");
+const orderBump = require("./routes/dotcom-secrets-scripts/order-bump");
+const originStory = require("./routes/dotcom-secrets-scripts/origin-story");
+const otoNeedHelpDoneForYou = require("./routes/dotcom-secrets-scripts/oto-need-help-done-for-you");
+const otoNextThing = require("./routes/dotcom-secrets-scripts/oto-next-thing");
+const pptOptInVideo = require("./routes/dotcom-secrets-scripts/ppt-opt-in-video");
+const promoteYourWebinar = require("./routes/dotcom-secrets-scripts/promote-your-webinar");
+const salesOpenerQuestions = require("./routes/dotcom-secrets-scripts/sales-opener-questions");
+const specialOffer = require("./routes/dotcom-secrets-scripts/special-offer");
+const starStorySolution = require("./routes/dotcom-secrets-scripts/star-story-solution");
+const webinarOptIn = require("./routes/dotcom-secrets-scripts/webinar-opt-in");
+const whoWhatWhyHow = require("./routes/dotcom-secrets-scripts/who-what-why-how");
 
 app.use(express.json());
 
