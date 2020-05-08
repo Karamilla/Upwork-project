@@ -51,7 +51,7 @@ const whoWhatWhyHow = require("./routes/dotcom-secrets-scripts/who-what-why-how-
 
 // EmailScripts
 // ======================
-const abandonedCartEmailScripts = require("./routes/email-scripts/abandoned-cart-email-scripts");
+const abandonedCartEmailScripts = require("./routes/email-scripts/abandoned-cart-email-scripts ");
 const emailSubjectLineScripts = require("./routes/email-scripts/email-subject-line-scripts");
 const autoEmailFollowUpScripts = require("./routes/email-scripts/auto-email-follow-up-scripts");
 const fastTeaserAndTweetScripts = require("./routes/email-scripts/fast-teaser-and-tweet-scripts");
@@ -69,10 +69,10 @@ const CuriosityHooksScript5 = require("./routes/expert-secrets/5-curiosity-hooks
 const MinutePerfectWebinarWizard5 = require("./routes/expert-secrets/5-minute-perfect-webinar-wizard");
 const askCampaignScript = require("./routes/expert-secrets/ask-campaign-script");
 const epiphanyBridgeScript = require("./routes/expert-secrets/epiphany-bridge-script");
-const opportunitySwitchHeadlineTitleScript = require("./routes/expert-secrets/opportunitySwitchHeadlineTitleScript");
+const opportunitySwitchHeadlineTitleScript = require("./routes/expert-secrets/opportunity-switch-headline-title-script");
 const shortEpiphanyBridgeScript = require("./routes/expert-secrets/short-epiphany-bridge-script");
 const theBigDomino = require("./routes/expert-secrets/the-big-domino");
-const whoWhatStatementScript = require("./routes/expert-secrets/whoWhatStatementScript");
+const whoWhatStatementScript = require("./routes/expert-secrets/who-what-statement-script");
 // =============================================================================================
 // megaScripts
 // ==============
@@ -96,7 +96,7 @@ const questionHooksScript = require("./routes/one-funnel-away-scripts/question-h
 // salesCopyVideoScripts
 // ==========================
 
-const amazonEcommerce2 = require("./routes/sales-copy-video-scripts/amazon-ecommerce");
+const amazonEcommerce2 = require("./routes/sales-copy-video-scripts/amazon-ecommerce-script");
 const callToActionScript2 = require("./routes/sales-copy-video-scripts/call-to-action-script");
 const leadCaptureScript = require("./routes/sales-copy-video-scripts/lead-capture-script");
 const liveEventInvitationScript2 = require("./routes/sales-copy-video-scripts/live-event-invitation-script");
