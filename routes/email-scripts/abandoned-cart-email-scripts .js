@@ -1,7 +1,7 @@
 const express = require("express");
 const router = express.Router();
-const parent = "expert-secrets";
-const template = "short-epiphany-bridge-script";
+const parent = "email-scripts";
+const template = "abandoned-cart-email-scripts";
 
 const requestHandler = require("../../utils/requestHandlerIdea"); // if you use this router, please rename it
 
