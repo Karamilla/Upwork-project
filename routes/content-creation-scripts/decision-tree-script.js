@@ -1,7 +1,7 @@
 const express = require("express");
 const router = express.Router();
 const parent = "content-creation-scripts";
-const template = "million-dollar-testimonial-script";
+const template = "decision-tree-script";
 
 const requestHandler = require("../../utils/requestHandlerIdea"); // if you use this router, please rename it
 

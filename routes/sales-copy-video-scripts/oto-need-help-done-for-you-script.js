@@ -1,7 +1,7 @@
 const express = require("express");
 const router = express.Router();
 const parent = "sales-copy-video-scripts";
-const template = "oto-need-help-done-for-you-script.js";
+const template = "oto-need-help-done-for-you-script";
 
 const requestHandler = require("../../utils/requestHandlerIdea"); // if you use this router, please rename it
 

@@ -1,6 +1,6 @@
 const express = require("express");
 const router = express.Router();
-const parent = "one-funnel-awayscripts";
+const parent = "one-funnel-away-scripts";
 const template = "opt-in-hook-story-script";
 
 const requestHandler = require("../../utils/requestHandlerIdea"); // if you use this router, please rename it

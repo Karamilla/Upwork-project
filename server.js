@@ -131,6 +131,7 @@ const millionDollarSalesHeadlineScripts = require("./routes/title-headlines-subj
 const profitableTitleScripts = require("./routes/title-headlines-subject-lines/profitable-title-scripts");
 const shortHeadlineScripts = require("./routes/title-headlines-subject-lines/short-headline-scripts");
 const timelessClassicHeadlineScripts = require("./routes/title-headlines-subject-lines/timeless-classic-headline-scripts");
+// =================================
 
 app.use(express.json());
 
@@ -145,6 +146,7 @@ app.get("/", (req, res) => {
 // Setting Routes
 // AdverTising Scripts
 // =========================
+
 app.use("/", curiosityAdCopyScripts);
 app.use("/", facebookNewsfeedAdScripts);
 app.use("/", ppcAdScripts);
